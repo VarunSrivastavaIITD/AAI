@@ -1,14 +1,14 @@
 import numpy as np
+import pandas as pd
 from scipy.signal import (
+    butter,
+    filtfilt,
     find_peaks,
     find_peaks_cwt,
     medfilt,
     savgol_filter,
-    butter,
-    filtfilt,
 )
-from librosa.util import peak_pick
-import pandas as pd
+
 from utils import detrend, smooth
 
 
@@ -64,19 +64,6 @@ def detectgroundwaveletgci(data, peak_range=(7, 15)):
 def detectscipygci(data):
     degg = np.gradient(data)
     out, _ = find_peaks(-degg, distance=55, prominence=(None, None))
-    return out
-
-
-def detectrosagci(data):
-    degg = np.gradient(data)
-    # normalization = np.median(np.sort(degg)[-100:])
-    # degg = degg / normalization
-    maxdiff = np.max(np.abs(degg))
-    threshold = maxdiff / 5
-    # threshold = 0
-    window = 20
-    wait = 50
-    out = peak_pick(-degg, window, window, window, window, threshold, wait)
     return out
 
 
