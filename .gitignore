@@ -105,3 +105,6 @@ venv.bak/
 .vscode
 data
 images
+checkpoints
+vmodels
+*.pt
