@@ -226,12 +226,12 @@ def main():
     train_data, test_data, _ = train_validate_test_loader(
         "../data/Childers/M/speech",
         "../data/Childers/M/egg",
-        split={"train": 0.65, "validate": 0.15, "test": 0.2},
+        split={"train": 0.7, "validate": 0.1, "test": 0.2},
         batch_size=1,
         workers=2,
         stride={"train": 2, "validate": 20},
         pin_memory=False,
-        # model_folder="data/childers_clean_data",
+        model_folder="data/irish_clean_data",
     )
 
     model_G = SpeechEggEncoder()
