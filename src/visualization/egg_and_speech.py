@@ -65,10 +65,10 @@ def parse():
 
 def main():
     args = parse()
-    file = args.file
-    speech_path = os.path.join(args.speechfolder, file)
-    true_egg_path = os.path.join(args.eggfolder, file)
-    estimated_egg_path = os.path.join(args.geneggfolder, file)
+    fname = args.file
+    speech_path = os.path.join(args.speechfolder, fname)
+    true_egg_path = os.path.join(args.eggfolder, fname)
+    estimated_egg_path = os.path.join(args.geneggfolder, fname)
 
     speech = np.load(speech_path)
     speech = minmaxnormalize(speech)
@@ -81,7 +81,8 @@ def main():
     estimated_egg = np.load(estimated_egg_path)
     estimated_egg = minmaxnormalize(estimated_egg)
 
-    region = slice(11000, 12000)
+    # region = slice(11000, 12000)
+    region = slice(0, len(speech))
 
     plt.figure()
     fig = plt.gcf()
