@@ -69,7 +69,7 @@ def detectscipygci(data):
 
 def detect_voiced_region(true_egg, reconstructed_egg, power_threshold=0.01):
     def _get_signal_power(x, window):
-        power = np.convolve(x ** 2, window / window.sum(), mode="same")
+        power = np.convolve(x**2, window / window.sum(), mode="same")
         return power
 
     def _get_window(window_len=10, window="flat"):
@@ -81,7 +81,8 @@ def detect_voiced_region(true_egg, reconstructed_egg, power_threshold=0.01):
         return w
 
     true_scaler = pd.Series(np.abs(true_egg)).nlargest(100).median()
-    reconstructed_scaler = pd.Series(np.abs(reconstructed_egg)).nlargest(100).median()
+    reconstructed_scaler = pd.Series(
+        np.abs(reconstructed_egg)).nlargest(100).median()
 
     true_egg = true_egg / true_scaler
     reconstructed_egg = reconstructed_egg / reconstructed_scaler
@@ -129,6 +130,10 @@ def corrected_naylor_metrics(ref_signal, est_signal):
     ref_bwdiffs[1:] = np.diff(ref_signal)
     ref_bwdiffs[0] = max_glottal_cycle
 
+    hits = []
+    misses = []
+    falsealarms = []
+
     for i in range(len(ref_fwdiffs)):
 
         # m in original file
@@ -141,42 +146,51 @@ def corrected_naylor_metrics(ref_signal, est_signal):
         # TODO: Check applicability of strict inequality
         dist_in_allowed_range = (
             min_glottal_cycle <= ref_dist_fw <= max_glottal_cycle
-            and min_glottal_cycle <= ref_dist_bw <= max_glottal_cycle
-        )
+            and min_glottal_cycle <= ref_dist_bw <= max_glottal_cycle)
         if dist_in_allowed_range:
 
             cycle_start = ref_cur_sample - ref_dist_bw / 2
             cycle_stop = ref_cur_sample + ref_dist_fw / 2
 
-            est_GCIs_in_cycle = est_signal[
-                np.logical_and(est_signal > cycle_start, est_signal < cycle_stop)
-            ]
+            est_GCIs_in_cycle = est_signal[np.logical_and(
+                est_signal > cycle_start, est_signal < cycle_stop)]
             n_est_in_cycle = np.count_nonzero(est_GCIs_in_cycle)
 
             nCycles += 1
 
             if n_est_in_cycle == 1:
                 nHit += 1
-                estimation_distance[nHit] = est_GCIs_in_cycle[0] - ref_cur_sample
+                estimation_distance[
+                    nHit] = est_GCIs_in_cycle[0] - ref_cur_sample
+                hits.append((est_GCIs_in_cycle[0], estimation_distance))
             elif n_est_in_cycle < 1:
                 nMiss += 1
+                misses.append(ref_cur_sample)
             else:
                 nFalse += 1
+                falsealarms.extend(est_GCIs_in_cycle)
 
-    estimation_distance = estimation_distance[np.invert(np.isnan(estimation_distance))]
+    estimation_distance = estimation_distance[np.invert(
+        np.isnan(estimation_distance))]
 
     identification_rate = nHit / nCycles
     miss_rate = nMiss / nCycles
     false_alarm_rate = nFalse / nCycles
-    identification_accuracy = (
-        0 if np.size(estimation_distance) == 0 else np.std(estimation_distance)
-    )
+    identification_accuracy = (0 if np.size(estimation_distance) == 0 else
+                               np.std(estimation_distance))
 
     return {
         "identification_rate": identification_rate,
         "miss_rate": miss_rate,
         "false_alarm_rate": false_alarm_rate,
         "identification_accuracy": identification_accuracy,
+        "hits": hits,
+        "misses": misses,
+        "fars": falsealarms,
+        "nhits": nHit,
+        "nmisses": nMiss,
+        "nfars": nFalse,
+        "ncycles": nCycles,
     }
 
 
@@ -191,7 +205,7 @@ def extract_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3):
         estimated_egg = np.load(estimated_egg)
 
     if len(true_egg) > len(estimated_egg):
-        true_egg = true_egg[: len(estimated_egg)]
+        true_egg = true_egg[:len(estimated_egg)]
 
     true_egg, estimated_egg = detect_voiced_region(true_egg, estimated_egg)
     true_gci = detectgroundwaveletgci(true_egg) / fs

@@ -4,18 +4,10 @@ import warnings
 
 import matplotlib.pyplot as plt
 import numpy as np
-
-from extract_metrics import (
-    corrected_naylor_metrics,
-    detect_voiced_region,
-    detectgenwaveletgci,
-    detectgroundwaveletgci,
-    genegg_process,
-    geneggfilter,
-    groundegg_process,
-    groundeggfilter,
-)
-from utils import detrend, positions2onehot
+import pandas as pd
+from scipy.signal import butter, filtfilt, find_peaks_cwt, medfilt
+from utils import positions2onehot, detrend, smooth
+from extract_metrics import geneggfilter, genegg_process, groundegg_process, groundeggfilter, detectgenwaveletgci, detectgroundwaveletgci, detect_voiced_region, extract_metrics, corrected_naylor_metrics
 
 warnings.filterwarnings("ignore")
 plt.switch_backend("QT5Agg")
@@ -26,7 +18,7 @@ def parse():
     parser.add_argument(
         "-f",
         "--file",
-        default="arctic_b0372.npy",
+        default="arctic_a0014.npy",
         dest="filename",
         type=str,
         help="file to visualize",
@@ -36,7 +28,7 @@ def parse():
         "--egg-folder",
         dest="groundpath",
         type=str,
-        default="../egg/egg_detrended_voiced",
+        default="data/bdl_clean/test/egg",
         help="path to ground truth egg files",
     )
     parser.add_argument(
@@ -44,11 +36,15 @@ def parse():
         "--reconstructedegg-folder",
         dest="generatedpath",
         type=str,
-        default="../egg/egg_reconstructed_voiced",
+        default="data/bdl_clean/test/reconstructed_regressed_cos_trbdl",
         help="path to generated truth egg files",
     )
     parser.add_argument(
-        "-d", "--detrend", type=bool, default=False, help="detrend ground truth egg"
+        "-d",
+        "--detrend",
+        type=bool,
+        default=True,
+        help="detrend ground truth egg, default (True)",
     )
     return parser.parse_args()
 
@@ -60,7 +56,7 @@ def main():
     egen = np.load(os.path.join(args.generatedpath, fname))
 
     if len(eground) > len(egen):
-        eground = eground[: len(egen)]
+        eground = eground[:len(egen)]
     if args.detrend:
         _, eground = detrend(None, eground)
 
@@ -83,13 +79,29 @@ def main():
 
     peaksposgen = detectgenwaveletgci(egen)
     peaksgen = positions2onehot(peaksposgen, egen.shape)
+    assert len(peaksgen) == len(peaksground)
 
-    metrics = corrected_naylor_metrics(peaksposground / 16e3, peaksposgen / 16e3)
+    metrics = corrected_naylor_metrics(peaksposground / 16e3,
+                                       peaksposgen / 16e3)
 
     idr = metrics["identification_rate"]
     msr = metrics["miss_rate"]
     far = metrics["false_alarm_rate"]
     ida = metrics["identification_accuracy"]
+    nhits = metrics["nhits"]
+    nmisses = metrics["nmisses"]
+    nfars = metrics["nfars"]
+    ncycles = metrics["ncycles"]
+
+    hits = metrics["hits"]
+    hits, hit_distances = zip(*hits)
+    fs = 16e3
+    hits = np.array(hits).squeeze() * fs
+    misses = np.array(metrics["misses"]).squeeze() * fs
+    fars = np.array(metrics["fars"]).squeeze() * fs
+    hits = hits.astype(np.int)
+    misses = misses.astype(np.int)
+    fars = fars.astype(np.int)
 
     ax = plt.subplot(411)
     plt.plot(voicedground, "r", label="ground truth")
@@ -104,7 +116,7 @@ def main():
     plt.plot(eground, "r", label="ground truth")
     plt.plot(egen, "g", label="generated egg")
     plt.gca().set_ylabel("amplitude")
-    plt.title("Processed EGG")
+    plt.title("Proc EGG")
 
     plt.legend(loc=1)
 
@@ -112,26 +124,57 @@ def main():
     plt.plot(degground, "r", label="ground truth")
     plt.plot(deggen, "g", label="generated egg")
     plt.gca().set_ylabel("amplitude")
-    plt.title("Negative DEGG")
+    plt.title("Neg DEGG")
 
     plt.legend(loc=1)
 
     plt.subplot(414, sharex=ax)
-    plt.plot(peaksground, "r", label="ground truth", linewidth=2)
-    plt.plot(2 * peaksgen, "g", label="generated egg")
+    x = np.arange(len(peaksground))
+    lax = plt.gca()
+
+    lax.axhline(x[0], x[-1], 0, color="k")
+    lax.vlines(x, 0, peaksground, color="r", label="ground truth", linewidth=2)
+    lax.vlines(
+        x,
+        0,
+        2 * positions2onehot(hits, peaksground.shape),
+        color="g",
+        label="hits")
+    lax.vlines(
+        x,
+        0,
+        2 * positions2onehot(misses, peaksground.shape),
+        color="b",
+        label="misses")
+    lax.vlines(
+        x,
+        0,
+        2 * positions2onehot(fars, peaksground.shape),
+        color="m",
+        label="fars")
+    # plt.plot(peaksground, "r", label="ground truth", linewidth=2)
+    # plt.plot(2 * peaksgen, "g", label="generated egg")
+
     plt.gca().set_xlabel("sample")
     plt.gca().set_ylabel("amplitude")
     plt.title("GCI")
     plt.legend(loc=1)
 
     plt.subplots_adjust(
-        top=0.92, bottom=0.045, left=0.035, right=0.99, hspace=0.2, wspace=0.2
-    )
+        top=0.91, bottom=0.045, left=0.035, right=0.99, hspace=0.2, wspace=0.2)
     plt.suptitle(
-        "{} IDR: {:2.2f} MR: {:2.2f} FAR: {:2.2f} IDA {:2.3f}".format(
-            fname, idr * 100, msr * 100, far * 100, ida * 1000
-        )
-    )
+        "{} IDR: {:2.2f} MR: {:2.2f} FAR: {:2.2f} IDA {:2.3f}\n H: {} M: {} F: {} C: {}"
+        .format(
+            fname,
+            idr * 100,
+            msr * 100,
+            far * 100,
+            ida * 1000,
+            nhits,
+            nmisses,
+            nfars,
+            ncycles,
+        ))
 
     mng = plt.get_current_fig_manager()
     mng.window.showMaximized()
