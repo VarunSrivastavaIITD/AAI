@@ -10,7 +10,7 @@ from utils import detrend
 import warnings
 
 warnings.filterwarnings("ignore")
-plt.switch_backend("QT5Agg")
+plt.switch_backend("qt5agg")
 
 
 def _get_signal_power(x, window):

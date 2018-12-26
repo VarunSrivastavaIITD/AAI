@@ -10,7 +10,7 @@ from utils import positions2onehot, detrend, smooth
 from extract_metrics import geneggfilter, genegg_process, groundegg_process, groundeggfilter, detectgenwaveletgci, detectgroundwaveletgci, detect_voiced_region, extract_metrics, corrected_naylor_metrics
 
 warnings.filterwarnings("ignore")
-plt.switch_backend("QT5Agg")
+plt.switch_backend("qt5agg")
 
 
 def parse():

@@ -5,7 +5,7 @@ import os
 from utils import minmaxnormalize, detrend
 from pprint import pprint
 
-plt.switch_backend("QT5Agg")
+plt.switch_backend("qt5agg")
 plt.rc("text", usetex=True)
 plt.rc("font", family="serif")
 SMALL_SIZE = 22
