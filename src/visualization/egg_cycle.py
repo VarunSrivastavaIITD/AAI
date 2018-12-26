@@ -4,6 +4,7 @@ import argparse
 import os
 from utils import minmaxnormalize, detrend
 from pprint import pprint
+import matplotlib.patches as patches
 
 plt.switch_backend("qt5agg")
 plt.rc("text", usetex=True)
@@ -60,17 +61,118 @@ def main():
 
     # region = slice(11000, 12000)
     region = slice(8000, len(true_egg))
+    true_egg = true_egg[region]
+    degg = degg[region]
 
     plt.figure()
     fig = plt.gcf()
     ax1 = plt.subplot(211)
-    plt.plot(true_egg[region], "b", label="EGG Waveform")
+    plt.plot(true_egg, "b", label="EGG Waveform")
     plt.ylabel("Amplitude")
 
     ax2 = plt.subplot(212, sharex=ax1)
-    plt.plot(degg[region], "b", label="DEGG waveform")
+    plt.plot(degg, "g", label="DEGG waveform")
     plt.xlabel("Sample Number")
     plt.ylabel("Amplitude")
+
+    # Timepoints in region shifted coordinates
+    t0 = 19750  # start of EGG cycle, GOI
+    t4 = 19853  # end of EGG cycle
+    t1 = t0 + np.argmax(true_egg[t0:t4])  # t0=19750 => t1=19760 EGG peak
+    t2 = t1 + np.argmin(degg[t1:t4])  # t0=19750 => t1=19760 => t2=19834 GCI
+    t5 = 19908  # start of new egg cycle
+    t9 = 20010  # end of new egg cycle
+    t6 = t5 + np.argmax(true_egg[t5:t9])  # EGG peak
+    t8 = t6 + np.argmin(degg[t6:t9])  # GCI
+
+    y1max = 1.0
+    y2min = -0.05
+
+    # Epochs
+
+    goi_ax1_1 = (t0, true_egg[t0])
+    goi_ax1_2 = (t5, true_egg[t5])
+
+    goi_ax2_1 = (t0, degg[t0])
+    goi_ax2_2 = (t5, degg[t5])
+
+    gci_ax1_1 = (t2, true_egg[t2])
+    gci_ax1_2 = (t8, true_egg[t8])
+
+    gci_ax2_1 = (t2, degg[t2])
+    gci_ax2_2 = (t8, degg[t8])
+
+    eggpeak_ax1_1 = (t1, true_egg[t1])
+    eggpeak_ax1_2 = (t6, true_egg[t6])
+
+    # eggstart_ax1_1 = (t0, true_egg[t0])
+    # eggstart_ax1_2 = (t5, true_egg[t5])
+
+    eggend_ax1_1 = (t4, true_egg[t4])
+    eggend_ax1_2 = (t9, true_egg[t9])
+
+    # Epoch Markers
+    goi_ax1 = np.array([goi_ax1_1, goi_ax1_2])
+    gci_ax1 = np.array([gci_ax1_1, gci_ax1_2])
+
+    goi_ax2 = np.array([goi_ax2_1, goi_ax2_2])
+    gci_ax2 = np.array([gci_ax2_1, gci_ax2_2])
+
+    eggpeak_ax1 = np.array([eggpeak_ax1_1, eggpeak_ax1_2])
+
+    # eggstart_ax1 = np.array([eggstart_ax1_1, eggstart_ax1_2])
+
+    eggend_ax1 = np.array([eggend_ax1_1, eggend_ax1_2])
+
+    # GOI scatter
+    ax1.scatter(
+        goi_ax1[:, 0], goi_ax1[:, 1], c="tab:pink", marker="x", s=100, label="GOI"
+    )
+    ax2.scatter(
+        goi_ax2[:, 0], goi_ax2[:, 1], c="tab:pink", marker="x", s=100, label="GOI"
+    )
+
+    # GCI Scatter
+    ax1.scatter(gci_ax1[:, 0], gci_ax1[:, 1], c="r", marker="*", s=100, label="GCI")
+    ax2.scatter(gci_ax2[:, 0], gci_ax2[:, 1], c="r", marker="*", s=100, label="GCI")
+
+    # EGG Peak Scatter
+    ax1.scatter(
+        eggpeak_ax1[:, 0],
+        eggpeak_ax1[:, 1],
+        # c="g",
+        marker="s",
+        s=100,
+        label="EGG Peak",
+        facecolors="none",
+        edgecolors="g",
+    )
+
+    # EGG Start Scatter
+    # ax1.scatter(
+    #     eggstart_ax1[:, 0],
+    #     eggstart_ax1[:, 1],
+    #     # c="g",
+    #     marker="^",
+    #     s=100,
+    #     label="EGG Cycle Start",
+    #     facecolors="none",
+    #     edgecolors="b",
+    # )
+
+    # EGG End Scatter
+    ax1.scatter(
+        eggend_ax1[:, 0],
+        eggend_ax1[:, 1],
+        # c="g",
+        marker="v",
+        s=100,
+        label="EGG Cycle End",
+        facecolors="none",
+        edgecolors="tab:purple",
+    )
+
+    # Across axes vertical lines
 
     plt.subplots_adjust(
         top=0.962, bottom=0.08, left=0.053, right=0.981, hspace=0.116, wspace=0.2
@@ -86,6 +188,8 @@ def main():
     mng = plt.get_current_fig_manager()
     mng.window.showMaximized()
 
+    ax1.legend()
+    ax2.legend()
     plt.show()
 
 
