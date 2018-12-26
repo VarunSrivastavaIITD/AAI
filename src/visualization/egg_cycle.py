@@ -73,12 +73,14 @@ def main():
     plt.ylabel("Amplitude")
 
     plt.subplots_adjust(
-        top=0.962, bottom=0.087, left=0.057, right=0.981, hspace=0.1, wspace=0.2
+        top=0.962, bottom=0.08, left=0.053, right=0.981, hspace=0.116, wspace=0.2
     )
 
     # ax1.spines["bottom"].set_visible(False)
     # ax2.spines["top"].set_visible(False)
     ax1.get_xaxis().set_visible(False)
+    ax1.get_yaxis().set_label_coords(-0.037, 0.5)
+    ax2.get_yaxis().set_label_coords(-0.037, 0.5)
     ax1.set_xlim([19715, 20015])
 
     mng = plt.get_current_fig_manager()
