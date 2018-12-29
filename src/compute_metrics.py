@@ -1,6 +1,6 @@
 import os
 
-from extract_metrics import extract_metrics
+from extract_metrics import extract_gci_metrics
 import concurrent.futures as cf
 import warnings
 import argparse
@@ -53,7 +53,7 @@ def main():
     mean_ida = 0
     count = 0
     for f in [os.path.basename(f) for f in files]:
-        result = extract_metrics(
+        result = extract_gci_metrics(
             os.path.join(true_egg_path, f),
             os.path.join(estimated_egg_path, f),
             args.detrend,
@@ -98,7 +98,7 @@ def pmain():
 
             futures.append(
                 executor.submit(
-                    extract_metrics,
+                    extract_gci_metrics,
                     os.path.join(true_egg_path, f),
                     os.path.join(estimated_egg_path, f),
                     args.detrend,

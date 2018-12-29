@@ -7,7 +7,17 @@ import numpy as np
 import pandas as pd
 from scipy.signal import butter, filtfilt, find_peaks_cwt, medfilt
 from utils import positions2onehot, detrend, smooth
-from extract_metrics import geneggfilter, genegg_process, groundegg_process, groundeggfilter, detectgenwaveletgci, detectgroundwaveletgci, detect_voiced_region, extract_metrics, corrected_naylor_metrics
+from extract_metrics import (
+    geneggfilter,
+    genegg_process,
+    groundegg_process,
+    groundeggfilter,
+    detectgenwaveletgci,
+    detectgroundwaveletgci,
+    detect_voiced_region,
+    Iextract_gci_metrics,
+    corrected_naylor_metrics,
+)
 
 warnings.filterwarnings("ignore")
 plt.switch_backend("qt5agg")
@@ -56,7 +66,7 @@ def main():
     egen = np.load(os.path.join(args.generatedpath, fname))
 
     if len(eground) > len(egen):
-        eground = eground[:len(egen)]
+        eground = eground[: len(egen)]
     if args.detrend:
         _, eground = detrend(None, eground)
 
@@ -81,8 +91,7 @@ def main():
     peaksgen = positions2onehot(peaksposgen, egen.shape)
     assert len(peaksgen) == len(peaksground)
 
-    metrics = corrected_naylor_metrics(peaksposground / 16e3,
-                                       peaksposgen / 16e3)
+    metrics = corrected_naylor_metrics(peaksposground / 16e3, peaksposgen / 16e3)
 
     idr = metrics["identification_rate"]
     msr = metrics["miss_rate"]
@@ -135,23 +144,14 @@ def main():
     lax.axhline(x[0], x[-1], 0, color="k")
     lax.vlines(x, 0, peaksground, color="r", label="ground truth", linewidth=2)
     lax.vlines(
-        x,
-        0,
-        2 * positions2onehot(hits, peaksground.shape),
-        color="g",
-        label="hits")
+        x, 0, 2 * positions2onehot(hits, peaksground.shape), color="g", label="hits"
+    )
     lax.vlines(
-        x,
-        0,
-        2 * positions2onehot(misses, peaksground.shape),
-        color="b",
-        label="misses")
+        x, 0, 2 * positions2onehot(misses, peaksground.shape), color="b", label="misses"
+    )
     lax.vlines(
-        x,
-        0,
-        2 * positions2onehot(fars, peaksground.shape),
-        color="m",
-        label="fars")
+        x, 0, 2 * positions2onehot(fars, peaksground.shape), color="m", label="fars"
+    )
     # plt.plot(peaksground, "r", label="ground truth", linewidth=2)
     # plt.plot(2 * peaksgen, "g", label="generated egg")
 
@@ -161,10 +161,10 @@ def main():
     plt.legend(loc=1)
 
     plt.subplots_adjust(
-        top=0.91, bottom=0.045, left=0.035, right=0.99, hspace=0.2, wspace=0.2)
+        top=0.91, bottom=0.045, left=0.035, right=0.99, hspace=0.2, wspace=0.2
+    )
     plt.suptitle(
-        "{} IDR: {:2.2f} MR: {:2.2f} FAR: {:2.2f} IDA {:2.3f}\n H: {} M: {} F: {} C: {}"
-        .format(
+        "{} IDR: {:2.2f} MR: {:2.2f} FAR: {:2.2f} IDA {:2.3f}\n H: {} M: {} F: {} C: {}".format(
             fname,
             idr * 100,
             msr * 100,
@@ -174,7 +174,8 @@ def main():
             nmisses,
             nfars,
             ncycles,
-        ))
+        )
+    )
 
     mng = plt.get_current_fig_manager()
     mng.window.showMaximized()

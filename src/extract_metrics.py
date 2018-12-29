@@ -194,7 +194,7 @@ def corrected_naylor_metrics(ref_signal, est_signal):
     }
 
 
-def extract_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3):
+def extract_gci_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3):
     fnames = {}
     if type(true_egg) is str:
         fnames = {"true_file": true_egg}
