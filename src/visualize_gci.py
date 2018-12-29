@@ -15,7 +15,7 @@ from extract_metrics import (
     detectgenwaveletgci,
     detectgroundwaveletgci,
     detect_voiced_region,
-    Iextract_gci_metrics,
+    extract_gci_metrics,
     corrected_naylor_metrics,
 )
 
