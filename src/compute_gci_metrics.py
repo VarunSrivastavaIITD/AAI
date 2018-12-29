@@ -38,6 +38,9 @@ def parse():
         type=int,
         help="number of files to compute metrics on",
     )
+    parser.add_argument(
+        "-f", "--files", nargs="*", help="file[s] to compute metrics on"
+    )
     return parser.parse_args()
 
 
@@ -46,6 +49,9 @@ def main():
     files = natsort.natsorted(os.listdir(args.geneggfolder))
     true_egg_path = args.eggfolder
     estimated_egg_path = args.geneggfolder
+
+    if args.files:
+        files = set(args.files).intersection({os.path.basename(f) for f in files})
 
     mean_idr = 0
     mean_msr = 0
@@ -84,6 +90,9 @@ def pmain():
     files = natsort.natsorted(os.listdir(args.geneggfolder))
     true_egg_path = args.eggfolder
     estimated_egg_path = args.geneggfolder
+
+    if args.files:
+        files = set(args.files).intersection({os.path.basename(f) for f in files})
 
     sum_idr = 0
     sum_msr = 0
