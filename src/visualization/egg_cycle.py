@@ -3,8 +3,6 @@ import numpy as np
 import argparse
 import os
 from utils import minmaxnormalize, detrend
-from pprint import pprint
-import matplotlib.patches as patches
 
 plt.switch_backend("qt5agg")
 plt.rc("text", usetex=True)
@@ -173,6 +171,46 @@ def main():
     )
 
     # Across axes vertical lines
+
+    # Annotations
+    yoffset = 0.1
+    xoffset = 3
+    ax1.text(
+        t0 + xoffset,
+        true_egg[t0] + yoffset,
+        r"$t_0$",
+        ha="center",
+        va="center",
+        transform=ax1.transData,
+        fontsize=30,
+    )
+    ax1.text(
+        t1 + xoffset,
+        true_egg[t1] + yoffset,
+        r"$t_1$",
+        ha="center",
+        va="center",
+        transform=ax1.transData,
+        fontsize=30,
+    )
+    ax1.text(
+        t2 + xoffset,
+        true_egg[t2] + yoffset,
+        r"$t_2$",
+        ha="center",
+        va="center",
+        transform=ax1.transData,
+        fontsize=30,
+    )
+    ax1.text(
+        t4 + xoffset,
+        true_egg[t4] + yoffset,
+        r"$t_4$",
+        ha="center",
+        va="center",
+        transform=ax1.transData,
+        fontsize=30,
+    )
 
     plt.subplots_adjust(
         top=0.962, bottom=0.08, left=0.053, right=0.981, hspace=0.116, wspace=0.2
