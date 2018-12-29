@@ -1,10 +1,8 @@
 import argparse
 import sys
-from pprint import pprint
 
 import matplotlib.pyplot as plt
 import numpy as np
-from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 
 
