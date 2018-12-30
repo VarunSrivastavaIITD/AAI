@@ -16,25 +16,25 @@ def parse():
         "--egg-folder",
         dest="eggfolder",
         type=str,
-        default="/media/varun/Home/varun/CNN/ECNN/GCI/rough/Quotients_2/egg_detrended",
-        help="folder containing egg filies",
+        default="data/slt_clean/test/egg_detrended",
+        help="folder containing egg files",
     )
     parser.add_argument(
         "-rf",
         "--reconstructedegg-folder",
         dest="geneggfolder",
         type=str,
-        default="/media/varun/Home/varun/CNN/ECNN/GCI/rough/Quotients_2/egg_reconstructed",
+        default="data/slt_clean/test/egg_reconstructed",
         help="folder for reconstructed files",
     )
     parser.add_argument(
-        "-d", "--detrend", type=bool, default=True, help="detrend ground truth egg"
+        "-d", "--detrend", type=bool, default=False, help="detrend ground truth egg"
     )
     parser.add_argument(
         "-n",
         "--num-files",
         dest="numfiles",
-        default=10,
+        default=1,
         type=int,
         help="number of files to compute metrics on",
     )
@@ -73,7 +73,7 @@ def main():
         )
 
         print(
-            "{}: CQ_true: {}%\t CQ_estimated: {}%\t OQ_true: {}%\t OQ_estimated: {}\t SQ_true{}\t SQ_estimated{}".format(
+            "{}: CQ_true: {:4.3}\t CQ_estimated: {:4.3}\t OQ_true: {:4.3}\t OQ_estimated: {:4.3}\t SQ_true: {:4.3}\t SQ_estimated: {:4.3}".format(
                 os.path.basename(res["true_file"]),
                 float(res["CQ_true"]),
                 float(res["CQ_estimated"]),
@@ -142,7 +142,7 @@ def pmain():
         for comp_future in cf.as_completed(futures):
             res = comp_future.result()
             print(
-                "{}: CQ_true: {}%\t CQ_estimated: {}%\t OQ_true: {}%\t OQ_estimated: {}\t SQ_true{}\t SQ_estimated{}".format(
+                "{}: CQ_true: {:4.3}\t CQ_estimated: {:4.3}\t OQ_true: {:4.3}\t OQ_estimated: {:4.3}\t SQ_true: {:4.3}\t SQ_estimated: {:4.3}".format(
                     os.path.basename(res["true_file"]),
                     float(res["CQ_true"]),
                     float(res["CQ_estimated"]),
@@ -174,4 +174,4 @@ def pmain():
 
 
 if __name__ == "__main__":
-    main()
+    pmain()
