@@ -8,12 +8,24 @@ from scipy.signal import (
     medfilt,
     savgol_filter,
 )
+from scipy.ndimage import find_objects, label
+from librosa import zero_crossings
+from utils import (
+    detrend,
+    smooth,
+    positions2onehot,
+    lowpass,
+    onehot2positions,
+    minmaxnormalize,
+)
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 
-from utils import detrend, smooth, positions2onehot, lowpass
+plt.switch_backend("qt5agg")
 
 
 def geneggfilter(data):
-    data = data / np.max(np.abs(data))
+    data = minmaxnormalize(data)
     # data[data > 0] = 0
     # data = medfilt(data, 9)
     # data = savgol_filter(data, 21, 2)
@@ -22,10 +34,11 @@ def geneggfilter(data):
 
 
 def groundeggfilter(data):
-    data = data / np.max(np.abs(data))
+    data = minmaxnormalize(data)
     # data[data > 0] = 0
     # data = medfilt(data, 7)
     # data = savgol_filter(data, 7, 2)
+    data = smooth(data, 49)
     return data
 
 
@@ -67,7 +80,9 @@ def detectscipygci(data):
     return out
 
 
-def detect_voiced_region(true_egg, reconstructed_egg, power_threshold=0.01):
+def detect_voiced_region(
+    true_egg, reconstructed_egg, power_threshold=0.01, return_regions=False
+):
     def _get_signal_power(x, window):
         power = np.convolve(x ** 2, window / window.sum(), mode="same")
         return power
@@ -90,6 +105,10 @@ def detect_voiced_region(true_egg, reconstructed_egg, power_threshold=0.01):
     power = _get_signal_power(true_egg, window)
 
     regions = power >= power_threshold
+
+    if return_regions:
+        return regions
+
     true_egg_voiced = true_egg[regions]
     reconstructed_egg_voiced = reconstructed_egg[regions]
 
@@ -97,6 +116,11 @@ def detect_voiced_region(true_egg, reconstructed_egg, power_threshold=0.01):
         true_egg_voiced * true_scaler,
         reconstructed_egg_voiced * reconstructed_scaler,
     )
+
+
+def apply_region_to_positions(positions: np.ndarray, regions: np.ndarray):
+    onehot = positions2onehot(positions, regions.shape) * regions
+    return onehot2positions(onehot)
 
 
 def corrected_naylor_metrics(ref_signal, est_signal):
@@ -236,39 +260,66 @@ def extract_speed_quotient(smoothed_degg: np.ndarray, peaks: np.ndarray):
     return np.sum(sq), sq.shape[0]
 
 
-def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3):
-    def _detect_voiced_region_as_regions(
-        true_egg, reconstructed_egg, power_threshold=0.05
-    ):
-        def _get_signal_power(x, window):
-            power = np.convolve(x ** 2, window / window.sum(), mode="same")
-            return power
+def extract_speed_quotient_egg(egg: np.ndarray, peaks: np.ndarray, region):
+    assert len(peaks) % 2 == 1
 
-        def _get_window(window_len=10, window="flat"):
-            if window == "flat":  # average
-                w = np.ones(window_len, "d")
-            else:
-                w = eval("np." + window + "(window_len)")
+    zero_cross_regions = np.stack((peaks[1::2], peaks[2::2]), axis=-1)
 
-            return w
+    # zero_indices = [
+    #     zero_crossings((smoothed_degg[r[0] + 1 : r[1] + 1])) for r in zero_cross_regions
+    # ]
 
-        true_scaler = pd.Series(np.abs(true_egg)).nlargest(100).median()
-        reconstructed_scaler = (
-            pd.Series(np.abs(reconstructed_egg)).nlargest(100).median()
+    zero_indices = [
+        np.argmax(egg[region.start + rz[0] + 1 : region.start + rz[1] + 1])
+        for rz in zero_cross_regions
+    ]
+
+    zero_positions = np.fromiter((np.median(zi) for zi in zero_indices), np.int)
+
+    goi = peaks[1::2]
+    ngci = peaks[2::2]
+
+    sq = (ngci - zero_positions - goi - 1) / (zero_positions + 1)
+    return np.sum(sq), sq.shape[0]
+
+
+def extract_goi(
+    gci: np.ndarray, degg: np.ndarray, regions: np.ndarray = None
+) -> np.ndarray:
+    """Find goi positions in the degg signal
+
+    Args:
+        gci: (integer) positions of gci in the degg array
+        degg: the degg signal
+
+    Returns:
+        positions of goi in the degg array
+
+    """
+
+    if regions is None:
+        regions = np.ones_like(degg)
+
+    voiced_slices = [
+        obj[0] for obj in find_objects(label(regions)[0])
+    ]  # List of slices
+    onehot_gci = positions2onehot(gci, regions.shape)
+
+    voiced_goi: list = []
+    for s in voiced_slices:
+        onehot_gci_voiced = onehot_gci[s].astype(np.int)
+        positions_gci_voiced = s.start + onehot2positions(onehot_gci_voiced)
+        positions_gci_voiced = positions_gci_voiced.astype(np.int)
+
+        voiced_goi.extend(
+            cur + np.argmax(degg[cur + 1 : next]) + 1
+            for cur, next in zip(positions_gci_voiced, positions_gci_voiced[1:])
         )
 
-        true_egg = true_egg / true_scaler
-        reconstructed_egg = reconstructed_egg / reconstructed_scaler
+    return np.array(voiced_goi).astype(np.int)
 
-        window = _get_window(window_len=501, window="hanning")
-        power = _get_signal_power(true_egg, window)
 
-        regions = power >= power_threshold
-        # true_egg_voiced = true_egg[regions]
-        # reconstructed_egg_voiced = reconstructed_egg[regions]
-
-        return regions
-
+def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3):
     fnames = {}
     if type(true_egg) is str:
         fnames = {"true_file": true_egg}
@@ -284,7 +335,9 @@ def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3
     if len(true_egg) > len(estimated_egg):
         true_egg = true_egg[: len(estimated_egg)]
 
-    regions = _detect_voiced_region_as_regions(true_egg, estimated_egg)
+    regions = detect_voiced_region(
+        true_egg, estimated_egg, power_threshold=0.01, return_regions=True
+    )
 
     true_gci = detectgroundwaveletgci(true_egg)
     estimated_gci = detectgenwaveletgci(estimated_egg)
@@ -297,6 +350,37 @@ def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3
     estimated_gci = positions2onehot(estimated_gci, regions.shape) * regions
     true_gci = np.nonzero(true_gci)[0]
     estimated_gci = np.nonzero(estimated_gci)[0]
+
+    # fig, axs = plt.subplots(2, 1, sharex=True)
+
+    # fig.suptitle(
+    #     "Visualization of GOI and GCI for file {}".format(
+    #         fnames.get("true_file", "unknown file")
+    #     )
+    # )
+    # axs[0].set_title("Ground Truth")
+    # axs[1].set_title("Generated Lies")
+
+    # axs[0].vlines(true_gci, 0, -1, color="b", label="GCI")
+    # axs[1].vlines(estimated_gci, 0, -1, color="b", label="GCI")
+
+    # axs[0].plot(true_egg, color="r", label="EGG")
+    # axs[0].plot(true_degg, color="g", label="DEGG")
+    # axs[1].plot(estimated_egg, color="r", label="EGG")
+    # axs[1].plot(estimated_degg, color="g", label="DEGG")
+
+    # for ax in axs:
+    #     ax.plot(1 * regions, color="g")
+    #     ax.axhline(0, *ax.get_xlim(), color="k")
+    #     ax.set_ylabel("Amplitude")
+    #     ax.set_xlabel("Sample")
+    #     ax.legend(loc=1)
+    # plt.subplots_adjust(
+    #     top=0.92, bottom=0.09, left=0.08, right=0.95, hspace=0.1, wspace=0.2
+    # )
+    # mng = plt.get_current_fig_manager()
+    # mng.window.showMaximized()
+    # plt.show()
 
     true_goi = []
     estimated_goi = []
@@ -326,6 +410,7 @@ def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3
 
     tpeaks = []
     true_degg_list = []
+    true_regions = []
     for r in find_objects(labelregions):
         tregion = true_peaks[r]
         true_degg_region = true_degg[r]
@@ -340,11 +425,13 @@ def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3
             tpos = tpos[:-1]
         assert len(tpos) % 2 == 1
         tregion = tregion[tpos[0] : tpos[-1] + 1]
+        true_regions.append(slice(r[0].start + tpos[0], r[0].start + tpos[-1] + 1))
         tpeaks.append(tregion)
         true_degg_list.append(true_degg_region[tpos[0] : tpos[-1] + 1])
 
     epeaks = []
     estimated_degg_list = []
+    estimated_regions = []
     for r in find_objects(labelregions):
         eregion = estimated_peaks[r]
         estimated_degg_region = estimated_degg[r]
@@ -359,11 +446,105 @@ def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3
             epos = epos[:-1]
         assert len(epos) % 2 == 1
         eregion = eregion[epos[0] : epos[-1] + 1]
+        estimated_regions.append(slice(r[0].start + epos[0], r[0].start + epos[-1] + 1))
         epeaks.append(eregion)
         estimated_degg_list.append(estimated_degg_region[epos[0] : epos[-1] + 1])
 
     true_peaks_list = [np.nonzero(t)[0] for t in tpeaks]
     estimated_peaks_list = [np.nonzero(e)[0] for e in epeaks]
+
+    # visualizaion begin
+
+    # fig, axs = plt.subplots(2, 1, sharex=True)
+
+    # fig.suptitle(
+    #     "Visualization of GOI and GCI for file {}".format(
+    #         fnames.get("true_file", "unknown file")
+    #     )
+    # )
+    # axs[0].set_title("Ground Truth")
+    # axs[1].set_title("Generated Lies")
+    # gci_patch = mpatches.Patch(color="b", label="GCI")
+    # goi_patch = mpatches.Patch(color="m", label="GOI")
+    # sqpeak_patch = mpatches.Patch(color="y", label="Peak")
+    # egg_patch = mpatches.Patch(color="r", label="EGG")
+    # degg_patch = mpatches.Patch(color="g", label="DEGG")
+    # for r, t in zip(true_regions, true_peaks_list):
+    #     axs[0].vlines(r.start + np.array(t[::2]), 0, -1, color="b")
+    #     axs[0].vlines(r.start + np.array(t[1::2]), 0, 1, color="m")
+
+    #     degg_region = true_degg[r]
+
+    #     zero_cross_regions = np.stack((t[1::2], t[2::2]), axis=-1)
+
+    # zero_indices = [
+    #     r.start
+    #     + rz[0]
+    #     + 1
+    #     + onehot2positions(zero_crossings((degg_region[rz[0] + 1 : rz[1] + 1])))
+    #     for rz in zero_cross_regions
+    # ]
+    #     zero_indices = [
+    #         r.start
+    #         + rz[0]
+    #         + 1
+    #         + np.argmax(true_egg[r.start + rz[0] + 1 : r.start + rz[1] + 1])
+    #         for rz in zero_cross_regions
+    #     ]
+
+    #     zero_positions = np.fromiter((np.median(zi) for zi in zero_indices), np.int)
+    #     axs[0].vlines(zero_positions, 0, 1, color="y")
+
+    # for r, t in zip(estimated_regions, estimated_peaks_list):
+    #     axs[1].vlines(r.start + np.array(t[::2]), 0, -1, color="b")
+    #     axs[1].vlines(r.start + np.array(t[1::2]), 0, 1, color="m")
+
+    #     degg_region = estimated_degg[r]
+
+    #     zero_cross_regions = np.stack((t[1::2], t[2::2]), axis=-1)
+
+    # zero_indices = [
+    #     r.start
+    #     + rz[0]
+    #     + 1
+    #     + onehot2positions(zero_crossings((degg_region[rz[0] + 1 : rz[1] + 1])))
+    #     for rz in zero_cross_regions
+    # ]
+    #     zero_indices = [
+    #         r.start
+    #         + rz[0]
+    #         + 1
+    #         + np.argmax(estimated_egg[r.start + rz[0] + 1 : r.start + rz[1] + 1])
+    #         for rz in zero_cross_regions
+    #     ]
+
+    #     zero_positions = np.fromiter((np.median(zi) for zi in zero_indices), np.int)
+    #     axs[1].vlines(zero_positions, 0, 1, color="y")
+
+    # axs[1].vlines(estimated_gci, 0, -1, color="b", label="GCI")
+
+    # axs[0].plot(true_egg, color="r", label="EGG")
+    # axs[0].plot(true_degg, color="g", label="DEGG")
+    # axs[1].plot(estimated_egg, color="r", label="EGG")
+    # axs[1].plot(estimated_degg, color="g", label="DEGG")
+
+    # for ax in axs:
+    #     ax.plot(1 * regions, color="g")
+    #     ax.axhline(0, *ax.get_xlim(), color="k")
+    #     ax.set_ylabel("Amplitude")
+    #     ax.set_xlabel("Sample")
+    #     ax.legend(loc=1)
+    #     ax.legend(
+    #         handles=[gci_patch, goi_patch, sqpeak_patch, egg_patch, degg_patch], loc=1
+    #     )
+    # plt.subplots_adjust(
+    #     top=0.92, bottom=0.09, left=0.08, right=0.95, hspace=0.1, wspace=0.2
+    # )
+    # mng = plt.get_current_fig_manager()
+    # mng.window.showMaximized()
+    # plt.show()
+
+    # visualization ends
 
     metrics = {
         "CQ_true": 0,
@@ -376,13 +557,14 @@ def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3
 
     count = 0
     sq_count = 0
-    for tr, tr_degg in zip(true_peaks_list, true_degg_list):
+    for tr, tr_degg, reg in zip(true_peaks_list, true_degg_list, true_regions):
         for i in range(1, tr.shape[0], 2):
             count += 1
             metrics["CQ_true"] += (tr[i + 1] - tr[i]) / (tr[i + 1] - tr[i - 1])
             metrics["OQ_true"] += (tr[i] - tr[i - 1]) / (tr[i + 1] - tr[i - 1])
 
-        temp = extract_speed_quotient(tr_degg, tr)
+        # temp = extract_speed_quotient(tr_degg, tr)
+        temp = extract_speed_quotient_egg(true_egg, tr, reg)
         metrics["SQ_true"] += temp[0]
         sq_count += temp[1]
 
@@ -392,13 +574,16 @@ def extract_quotient_metrics(true_egg, estimated_egg, detrend_egg=False, fs=16e3
 
     count = 0
     sq_count = 0
-    for er, er_degg in zip(estimated_peaks_list, estimated_degg_list):
+    for er, er_degg, reg in zip(
+        estimated_peaks_list, estimated_degg_list, estimated_regions
+    ):
         for i in range(1, er.shape[0], 2):
             count += 1
             metrics["CQ_estimated"] += (er[i + 1] - er[i]) / (er[i + 1] - er[i - 1])
             metrics["OQ_estimated"] += (er[i] - er[i - 1]) / (er[i + 1] - er[i - 1])
 
-        temp = extract_speed_quotient(er_degg, er)
+        # temp = extract_speed_quotient(er_degg, er)
+        temp = extract_speed_quotient_egg(estimated_egg, er, reg)
         metrics["SQ_estimated"] += temp[0]
         sq_count += temp[1]
     metrics["SQ_estimated"] /= sq_count
