@@ -5,7 +5,7 @@ import numpy as np
 import torch as th
 import torch.nn as nn
 import torch.optim as optim
-from scipy.signal import butter, filtfilt, medfilt, savgol_filter
+from scipy.signal import butter, filtfilt, medfilt, savgol_filter, lfilter
 
 
 def detrend(speech, egg):
@@ -32,7 +32,7 @@ def lowpass(signal):
     def butter_lowpass(cutoff, fs, order=5):
         nyq = 0.5 * fs
         normal_cutoff = cutoff / nyq
-        b, a = butter(order, normal_cutoff, btype='low', analog=False)
+        b, a = butter(order, normal_cutoff, btype="low", analog=False)
         return b, a
 
     def butter_lowpass_filter(data, cutoff, fs, order=5):
@@ -52,6 +52,10 @@ def positions2onehot(pos, shape):
     onehot = np.zeros(shape)
     onehot[pos] = 1
     return onehot
+
+
+def onehot2positions(onehot: np.ndarray):
+    return np.nonzero(onehot)[0]
 
 
 def smooth(s, window_len=10, window="hanning"):
@@ -76,8 +80,7 @@ def smooth(s, window_len=10, window="hanning"):
 def strided_app(a, L, S):  # Window len = L, Stride len/stepsize = S
     nrows = ((a.size - L) // S) + 1
     n = a.strides[0]
-    return np.lib.stride_tricks.as_strided(
-        a, shape=(nrows, L), strides=(S * n, n))
+    return np.lib.stride_tricks.as_strided(a, shape=(nrows, L), strides=(S * n, n))
 
 
 def minmaxnormalize(signal):
@@ -86,22 +89,20 @@ def minmaxnormalize(signal):
 
 
 class Saver_Encoder:
-    def __init__(self, directory: str = "pytorch_model",
-                 iteration: int = 0) -> None:
+    def __init__(self, directory: str = "pytorch_model", iteration: int = 0) -> None:
         self.directory = directory
         self.iteration = iteration
 
-    def save_checkpoint(self,
-                        state,
-                        file_name: str = "pytorch_model.pt",
-                        append_time=True):
+    def save_checkpoint(
+        self, state, file_name: str = "pytorch_model.pt", append_time=True
+    ):
         os.makedirs(self.directory, exist_ok=True)
         timestamp = strftime("%Y_%m_%d__%H_%M_%S", localtime())
         filebasename, fileext = file_name.split(".")
         if append_time:
             filepath = os.path.join(
-                self.directory,
-                "_".join([filebasename, ".".join([timestamp, fileext])]))
+                self.directory, "_".join([filebasename, ".".join([timestamp, fileext])])
+            )
         else:
             filepath = os.path.join(self.directory, file_name)
         if isinstance(state, nn.Module):
@@ -113,10 +114,10 @@ class Saver_Encoder:
             raise TypeError("state must be a nn.Module or dict")
 
     def load_checkpoint(
-            self,
-            model: nn.Module,
-            optimizer: optim.Optimizer = None,
-            file_name: str = "pytorch_model.pt",
+        self,
+        model: nn.Module,
+        optimizer: optim.Optimizer = None,
+        file_name: str = "pytorch_model.pt",
     ):
         filepath = os.path.join(self.directory, file_name)
         checkpoint = th.load(filepath)
@@ -132,8 +133,9 @@ class Saver_Encoder:
 
         return model, optimizer, hyperparam_dict
 
-    def create_checkpoint(self, model: nn.Module, optimizer: optim.Optimizer,
-                          hyperparam_dict):
+    def create_checkpoint(
+        self, model: nn.Module, optimizer: optim.Optimizer, hyperparam_dict
+    ):
         model_dict = model.state_dict()
         optimizer_dict = optimizer.state_dict()
 
@@ -148,22 +150,20 @@ class Saver_Encoder:
 
 
 class Saver:
-    def __init__(self, directory: str = "pytorch_model",
-                 iteration: int = 0) -> None:
+    def __init__(self, directory: str = "pytorch_model", iteration: int = 0) -> None:
         self.directory = directory
         self.iteration = iteration
 
-    def save_checkpoint(self,
-                        state,
-                        file_name: str = "pytorch_model.pt",
-                        append_time=True):
+    def save_checkpoint(
+        self, state, file_name: str = "pytorch_model.pt", append_time=True
+    ):
         os.makedirs(self.directory, exist_ok=True)
         timestamp = strftime("%Y_%m_%d__%H_%M_%S", localtime())
         filebasename, fileext = file_name.split(".")
         if append_time:
             filepath = os.path.join(
-                self.directory,
-                "_".join([filebasename, ".".join([timestamp, fileext])]))
+                self.directory, "_".join([filebasename, ".".join([timestamp, fileext])])
+            )
         else:
             filepath = os.path.join(self.directory, file_name)
         # if isinstance(state, nn.Module):
@@ -175,13 +175,13 @@ class Saver:
             raise TypeError("state must be dict")
 
     def load_checkpoint(
-            self,
-            model_G: nn.Module,
-            model_D: nn.Module,
-            optimizer_G: optim.Optimizer = None,
-            optimizer_R: optim.Optimizer = None,
-            optimizer_D: optim.Optimizer = None,
-            file_name: str = "pytorch_model.pt",
+        self,
+        model_G: nn.Module,
+        model_D: nn.Module,
+        optimizer_G: optim.Optimizer = None,
+        optimizer_R: optim.Optimizer = None,
+        optimizer_D: optim.Optimizer = None,
+        file_name: str = "pytorch_model.pt",
     ):
         filepath = os.path.join(self.directory, file_name)
         checkpoint = th.load(filepath)
@@ -195,20 +195,22 @@ class Saver:
         hyperparam_dict = {
             k: v
             for k, v in checkpoint.items()
-            if k != "model_G_dict" or k != "model_D_dict"
-            or k != "optimizer_G_dict" or k != "optimizer_D_dict"
+            if k != "model_G_dict"
+            or k != "model_D_dict"
+            or k != "optimizer_G_dict"
+            or k != "optimizer_D_dict"
         }
 
         return model_G, model_D, optimizer_G, optimizer_R, optimizer_D, hyperparam_dict
 
     def create_checkpoint(
-            self,
-            model_G: nn.Module,
-            model_D: nn.Module,
-            optimizer_G: optim.Optimizer,
-            optimizer_R: optim.Optimizer,
-            optimizer_D: optim.Optimizer,
-            hyperparam_dict,
+        self,
+        model_G: nn.Module,
+        model_D: nn.Module,
+        optimizer_G: optim.Optimizer,
+        optimizer_R: optim.Optimizer,
+        optimizer_D: optim.Optimizer,
+        hyperparam_dict,
     ):
         model_G_dict = model_G.state_dict()
         model_D_dict = model_D.state_dict()
@@ -229,10 +231,10 @@ class Saver:
         return checkpoint
 
     def load_checkpoint_reconstructions(
-            self,
-            model: nn.Module,
-            optimizer: optim.Optimizer = None,
-            file_name: str = "pytorch_model.pt",
+        self,
+        model: nn.Module,
+        optimizer: optim.Optimizer = None,
+        file_name: str = "pytorch_model.pt",
     ):
         filepath = os.path.join(self.directory, file_name)
         checkpoint = th.load(filepath)
