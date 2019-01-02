@@ -287,14 +287,11 @@ def extract_goi(
     gci: np.ndarray, degg: np.ndarray, regions: np.ndarray = None
 ) -> np.ndarray:
     """Find goi positions in the degg signal
-
     Args:
         gci: (integer) positions of gci in the degg array
         degg: the degg signal
-
     Returns:
         positions of goi in the degg array
-
     """
 
     if regions is None:

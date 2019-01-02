@@ -1,5 +1,3 @@
-GCI
-
 Amyotrophe Lateralsklerose
 1242-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.323 ms
 2373-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.777 ms
