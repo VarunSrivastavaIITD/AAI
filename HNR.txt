@@ -1,0 +1,2046 @@
+Amyotrophe Lateralsklerose
+File: 1242-phrase.npy   True HNR:  2.87 Estimated HNR:   2.9
+File: 2373-phrase.npy   True HNR:   1.9 Estimated HNR:   1.7
+
+Av True HNR:  2.39      Av Estimated HNR:   2.3
+Median True HNR:  2.39  Median Estimated HNR:   2.3
+Stddev True HNR: 0.484  Stddev Estimated HNR: 0.601
+
+Aryluxation
+File: 1201-phrase.npy   True HNR:  1.96 Estimated HNR:  2.46
+File: 1575-phrase.npy   True HNR:  2.71 Estimated HNR:  2.55
+File: 1678-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1887-phrase.npy   True HNR:   nan Estimated HNR:  1.79
+File: 1894-phrase.npy   True HNR:  2.17 Estimated HNR:  2.59
+File: 1906-phrase.npy   True HNR:  2.51 Estimated HNR:   2.9
+
+Av True HNR:  2.34      Av Estimated HNR:  2.62
+Median True HNR:  2.34  Median Estimated HNR:  2.57
+Stddev True HNR: 0.292  Stddev Estimated HNR: 0.165
+
+Balbuties
+File: 1296-phrase.npy   True HNR:  2.73 Estimated HNR:  2.71
+File: 1297-phrase.npy   True HNR:  2.44 Estimated HNR:  1.82
+File: 1483-phrase.npy   True HNR:  2.81 Estimated HNR:  2.93
+File: 1595-phrase.npy   True HNR:  2.01 Estimated HNR: 0.683
+File: 1650-phrase.npy   True HNR:  2.81 Estimated HNR:  2.76
+File: 2013-phrase.npy   True HNR:  2.99 Estimated HNR:  2.87
+File: 2129-phrase.npy   True HNR:  2.54 Estimated HNR:   2.6
+File: 2145-phrase.npy   True HNR:   nan Estimated HNR:  2.67
+File: 2149-phrase.npy   True HNR:  2.26 Estimated HNR:  2.38
+File: 2236-phrase.npy   True HNR:  1.08 Estimated HNR:  2.02
+File: 2269-phrase.npy   True HNR: -9.48 Estimated HNR: -0.976
+File: 2289-phrase.npy   True HNR:  1.06 Estimated HNR: -0.103
+File: 2470-phrase.npy   True HNR:  2.91 Estimated HNR:  2.92
+File: 2554-phrase.npy   True HNR:  2.31 Estimated HNR:  2.23
+File: 2609-phrase.npy   True HNR:  2.42 Estimated HNR:  1.36
+File: 2611-phrase.npy   True HNR:  2.23 Estimated HNR:  2.22
+File: 668-phrase.npy    True HNR:  2.85 Estimated HNR:  3.31
+File: 672-phrase.npy    True HNR:  1.51 Estimated HNR: 0.778
+File: 892-phrase.npy    True HNR: 0.807 Estimated HNR:   1.5
+File: 930-phrase.npy    True HNR:  2.31 Estimated HNR:  2.67
+
+Av True HNR:   2.3      Av Estimated HNR:  2.22
+Median True HNR:  2.42  Median Estimated HNR:  2.38
+Stddev True HNR: 0.613  Stddev Estimated HNR: 0.744
+
+Bulbarparalyse
+File: 101-phrase.npy    True HNR:  2.36 Estimated HNR:   2.2
+File: 1227-phrase.npy   True HNR:  2.05 Estimated HNR:  2.43
+
+Av True HNR:   2.2      Av Estimated HNR:  2.31
+Median True HNR:   2.2  Median Estimated HNR:  2.31
+Stddev True HNR: 0.151  Stddev Estimated HNR: 0.114
+
+Carcinoma in situ
+File: 1472-phrase.npy   True HNR: -2.36 Estimated HNR: -2.48
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Chondrom
+File: 1338-phrase.npy   True HNR: -2.86 Estimated HNR: -6.48
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Chordektomie
+File: 1084-phrase.npy   True HNR: 0.109 Estimated HNR:   nan
+File: 1089-phrase.npy   True HNR:  -8.3 Estimated HNR:  -8.3
+File: 1217-phrase.npy   True HNR: -3.61 Estimated HNR:  1.86
+File: 1321-phrase.npy   True HNR:  1.74 Estimated HNR:   1.9
+File: 1333-phrase.npy   True HNR:  2.52 Estimated HNR:   nan
+File: 1339-phrase.npy   True HNR:  1.96 Estimated HNR:  1.92
+File: 1376-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1385-phrase.npy   True HNR:   nan Estimated HNR:  1.91
+File: 1392-phrase.npy   True HNR:  1.49 Estimated HNR:  1.94
+File: 1393-phrase.npy   True HNR:  1.18 Estimated HNR:  1.79
+File: 1401-phrase.npy   True HNR:   1.1 Estimated HNR:   nan
+File: 1410-phrase.npy   True HNR:  1.07 Estimated HNR:  2.19
+File: 1412-phrase.npy   True HNR:  1.66 Estimated HNR:  1.59
+File: 1422-phrase.npy   True HNR:  1.63 Estimated HNR:  2.37
+File: 1429-phrase.npy   True HNR: -2.05 Estimated HNR:  2.11
+File: 1450-phrase.npy   True HNR: -3.25 Estimated HNR:  3.09
+File: 1486-phrase.npy   True HNR:  2.44 Estimated HNR:   nan
+File: 1487-phrase.npy   True HNR:  2.53 Estimated HNR:  2.76
+File: 1503-phrase.npy   True HNR:   nan Estimated HNR: -5.28
+File: 1606-phrase.npy   True HNR: -1.55 Estimated HNR:  1.97
+File: 1625-phrase.npy   True HNR:   nan Estimated HNR:  2.75
+File: 1651-phrase.npy   True HNR:  1.63 Estimated HNR:  1.82
+File: 1674-phrase.npy   True HNR:  2.32 Estimated HNR:  2.94
+File: 1693-phrase.npy   True HNR:  1.99 Estimated HNR:  2.73
+File: 1720-phrase.npy   True HNR: -10.1 Estimated HNR: 0.621
+File: 1771-phrase.npy   True HNR: -8.28 Estimated HNR: -2.62
+File: 1774-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1932-phrase.npy   True HNR:   nan Estimated HNR:  1.62
+File: 1942-phrase.npy   True HNR:   nan Estimated HNR: -1.54
+File: 1991-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2029-phrase.npy   True HNR: -3.64 Estimated HNR: -0.0285
+File: 2064-phrase.npy   True HNR: -2.51 Estimated HNR:   nan
+File: 2136-phrase.npy   True HNR: -2.75 Estimated HNR:  1.89
+File: 2183-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2189-phrase.npy   True HNR: -11.3 Estimated HNR: -0.346
+File: 2226-phrase.npy   True HNR: -12.2 Estimated HNR:   nan
+File: 2268-phrase.npy   True HNR: -15.6 Estimated HNR:  2.97
+File: 2291-phrase.npy   True HNR:   nan Estimated HNR: -3.03
+File: 2362-phrase.npy   True HNR:   nan Estimated HNR: 0.462
+File: 2380-phrase.npy   True HNR: 0.071 Estimated HNR:  1.04
+File: 2400-phrase.npy   True HNR: -4.14 Estimated HNR:   nan
+File: 2453-phrase.npy   True HNR:  2.63 Estimated HNR:  2.15
+File: 2458-phrase.npy   True HNR:   1.5 Estimated HNR:  0.89
+File: 2484-phrase.npy   True HNR:  2.68 Estimated HNR:  2.47
+File: 2490-phrase.npy   True HNR:  2.35 Estimated HNR: -4.09
+File: 2494-phrase.npy   True HNR: -17.6 Estimated HNR:   nan
+File: 2503-phrase.npy   True HNR:  2.82 Estimated HNR:   nan
+File: 2548-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2575-phrase.npy   True HNR:   nan Estimated HNR:  8.95
+File: 491-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 504-phrase.npy    True HNR:   nan Estimated HNR:  5.53
+File: 628-phrase.npy    True HNR:  2.48 Estimated HNR:  2.46
+File: 719-phrase.npy    True HNR: -17.7 Estimated HNR:   nan
+File: 845-phrase.npy    True HNR: -5.28 Estimated HNR:  -7.1
+File: 847-phrase.npy    True HNR:   nan Estimated HNR:  1.93
+File: 873-phrase.npy    True HNR:  2.89 Estimated HNR:  2.71
+File: 903-phrase.npy    True HNR: -13.9 Estimated HNR:  1.97
+File: 915-phrase.npy    True HNR: -4.81 Estimated HNR:   nan
+File: 920-phrase.npy    True HNR:   nan Estimated HNR:  2.52
+
+Av True HNR:  1.85      Av Estimated HNR:   2.1
+Median True HNR:  1.74  Median Estimated HNR:  2.15
+Stddev True HNR:  0.69  Stddev Estimated HNR: 0.564
+
+Cyste
+File: 1340-phrase.npy   True HNR:  1.93 Estimated HNR:  1.95
+File: 1931-phrase.npy   True HNR:  1.97 Estimated HNR:  2.15
+File: 1941-phrase.npy   True HNR:  2.52 Estimated HNR:  2.85
+File: 2137-phrase.npy   True HNR:  2.67 Estimated HNR:  2.11
+File: 2144-phrase.npy   True HNR:  1.69 Estimated HNR:  2.62
+File: 2500-phrase.npy   True HNR:  2.18 Estimated HNR:  2.09
+
+Av True HNR:  2.16      Av Estimated HNR:  2.29
+Median True HNR:  2.08  Median Estimated HNR:  2.13
+Stddev True HNR: 0.343  Stddev Estimated HNR: 0.326
+
+Diplophonie
+File: 1791-phrase.npy   True HNR:  2.36 Estimated HNR:  2.55
+File: 1802-phrase.npy   True HNR: -2.79 Estimated HNR:   nan
+File: 1904-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 850-phrase.npy    True HNR:   2.7 Estimated HNR:  2.76
+File: 876-phrase.npy    True HNR:   nan Estimated HNR:   nan
+
+Av True HNR:  2.53      Av Estimated HNR:  2.66
+Median True HNR:  2.53  Median Estimated HNR:  2.66
+Stddev True HNR: 0.167  Stddev Estimated HNR: 0.103
+
+Dish-Syndrom
+File: 714-phrase.npy    True HNR:   nan Estimated HNR:   nan
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Dysarthrophonie
+File: 1199-phrase.npy   True HNR:  2.61 Estimated HNR: 0.759
+File: 1242-phrase.npy   True HNR:  2.87 Estimated HNR:   2.9
+File: 1772-phrase.npy   True HNR:  2.43 Estimated HNR:   1.9
+File: 1943-phrase.npy   True HNR:  2.28 Estimated HNR:  2.77
+File: 1948-phrase.npy   True HNR:  2.82 Estimated HNR:  2.62
+File: 2001-phrase.npy   True HNR:  2.71 Estimated HNR:  1.29
+File: 2032-phrase.npy   True HNR:  2.25 Estimated HNR:  1.32
+File: 2057-phrase.npy   True HNR:   nan Estimated HNR:  2.12
+File: 2094-phrase.npy   True HNR:  1.32 Estimated HNR:  2.28
+File: 2113-phrase.npy   True HNR:  1.33 Estimated HNR:  2.25
+File: 2130-phrase.npy   True HNR:  2.79 Estimated HNR:  2.59
+File: 2223-phrase.npy   True HNR:  2.63 Estimated HNR:   2.8
+File: 2295-phrase.npy   True HNR:   nan Estimated HNR:  2.81
+File: 2329-phrase.npy   True HNR:  2.35 Estimated HNR:  2.66
+File: 2332-phrase.npy   True HNR: -2.21 Estimated HNR: -1.14
+File: 2334-phrase.npy   True HNR:  2.54 Estimated HNR:  2.71
+File: 2355-phrase.npy   True HNR:   2.4 Estimated HNR:  2.29
+File: 2390-phrase.npy   True HNR:  2.07 Estimated HNR:  2.39
+File: 921-phrase.npy    True HNR:  2.53 Estimated HNR: 0.206
+
+Av True HNR:  2.37      Av Estimated HNR:  2.11
+Median True HNR:  2.48  Median Estimated HNR:  2.34
+Stddev True HNR: 0.449  Stddev Estimated HNR: 0.776
+
+Dysodie
+File: 1193-phrase.npy   True HNR:  2.22 Estimated HNR:   1.7
+File: 1203-phrase.npy   True HNR: 0.366 Estimated HNR:  1.73
+File: 1241-phrase.npy   True HNR:   1.8 Estimated HNR:  2.24
+File: 127-phrase.npy    True HNR: -4.61 Estimated HNR:  1.03
+File: 1309-phrase.npy   True HNR:  2.25 Estimated HNR:  1.14
+File: 1443-phrase.npy   True HNR: -0.927        Estimated HNR:   1.5
+File: 1454-phrase.npy   True HNR:   2.4 Estimated HNR:   nan
+File: 1488-phrase.npy   True HNR:  1.78 Estimated HNR:  2.14
+File: 1501-phrase.npy   True HNR:   1.1 Estimated HNR:  1.34
+File: 1550-phrase.npy   True HNR:  2.73 Estimated HNR:  2.88
+File: 1581-phrase.npy   True HNR:   nan Estimated HNR:  2.46
+File: 1596-phrase.npy   True HNR:  2.37 Estimated HNR:  1.86
+File: 1659-phrase.npy   True HNR: -0.453        Estimated HNR:  1.76
+File: 1681-phrase.npy   True HNR:  1.09 Estimated HNR:  1.58
+File: 1687-phrase.npy   True HNR:  1.94 Estimated HNR:  2.07
+File: 1759-phrase.npy   True HNR:   1.8 Estimated HNR:  2.15
+File: 1761-phrase.npy   True HNR:  1.78 Estimated HNR:  2.25
+File: 1793-phrase.npy   True HNR:  2.13 Estimated HNR:   2.2
+File: 1799-phrase.npy   True HNR:  1.79 Estimated HNR:  2.11
+File: 1813-phrase.npy   True HNR:  2.45 Estimated HNR:  2.75
+File: 1981-phrase.npy   True HNR:  2.33 Estimated HNR:  2.85
+File: 2061-phrase.npy   True HNR:  2.04 Estimated HNR:   2.2
+File: 2068-phrase.npy   True HNR:  1.48 Estimated HNR:   nan
+File: 2074-phrase.npy   True HNR:  1.75 Estimated HNR:  2.68
+File: 2102-phrase.npy   True HNR:  1.73 Estimated HNR:  2.54
+File: 2103-phrase.npy   True HNR:   2.4 Estimated HNR:  1.75
+File: 2114-phrase.npy   True HNR: -0.38 Estimated HNR:  2.04
+File: 2124-phrase.npy   True HNR: -3.12 Estimated HNR: -1.03
+File: 2143-phrase.npy   True HNR:  1.86 Estimated HNR:   1.9
+File: 2184-phrase.npy   True HNR:  1.91 Estimated HNR: 0.765
+File: 2187-phrase.npy   True HNR:  1.65 Estimated HNR:  2.36
+File: 2222-phrase.npy   True HNR:  2.26 Estimated HNR:  2.14
+File: 2290-phrase.npy   True HNR:   nan Estimated HNR:   1.7
+File: 2308-phrase.npy   True HNR:  1.98 Estimated HNR:   2.2
+File: 2309-phrase.npy   True HNR:  1.82 Estimated HNR:  1.11
+File: 2313-phrase.npy   True HNR: -15.4 Estimated HNR:  1.39
+File: 2322-phrase.npy   True HNR:  1.72 Estimated HNR:   2.6
+File: 2327-phrase.npy   True HNR:  2.47 Estimated HNR:  2.49
+File: 2335-phrase.npy   True HNR: -3.02 Estimated HNR:  2.22
+File: 2354-phrase.npy   True HNR:  2.09 Estimated HNR:  2.09
+File: 2364-phrase.npy   True HNR:   nan Estimated HNR:  1.09
+File: 2371-phrase.npy   True HNR:  2.48 Estimated HNR:  2.87
+File: 2398-phrase.npy   True HNR:  1.77 Estimated HNR: 0.124
+File: 2474-phrase.npy   True HNR: 0.613 Estimated HNR: 0.462
+File: 2475-phrase.npy   True HNR:  2.14 Estimated HNR:  2.15
+File: 2486-phrase.npy   True HNR: -0.311        Estimated HNR:  1.92
+File: 2524-phrase.npy   True HNR:  1.25 Estimated HNR:  1.51
+File: 2552-phrase.npy   True HNR:   2.1 Estimated HNR:  2.14
+File: 2558-phrase.npy   True HNR:   2.7 Estimated HNR:  2.51
+File: 367-phrase.npy    True HNR:  2.26 Estimated HNR:  2.71
+File: 567-phrase.npy    True HNR:  1.06 Estimated HNR:  2.83
+File: 673-phrase.npy    True HNR:  1.87 Estimated HNR:  2.54
+File: 692-phrase.npy    True HNR:  2.27 Estimated HNR:  2.33
+File: 830-phrase.npy    True HNR:  1.26 Estimated HNR: 0.372
+File: 851-phrase.npy    True HNR:  2.07 Estimated HNR:   1.3
+File: 907-phrase.npy    True HNR:  1.43 Estimated HNR:  2.56
+
+Av True HNR:  1.88      Av Estimated HNR:  2.01
+Median True HNR:  1.91  Median Estimated HNR:  2.15
+Stddev True HNR: 0.508  Stddev Estimated HNR: 0.683
+
+Dysphonie
+File: 1057-phrase.npy   True HNR:   nan Estimated HNR: -2.78
+File: 1086-phrase.npy   True HNR:  2.19 Estimated HNR:  2.36
+File: 1187-phrase.npy   True HNR: 0.185 Estimated HNR:  2.15
+File: 1194-phrase.npy   True HNR: -10.4 Estimated HNR:   nan
+File: 1219-phrase.npy   True HNR:  4.18 Estimated HNR:  3.79
+File: 1247-phrase.npy   True HNR:   nan Estimated HNR: -1.64
+File: 1248-phrase.npy   True HNR:  1.73 Estimated HNR:  2.23
+File: 1250-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1276-phrase.npy   True HNR:  1.67 Estimated HNR:  1.97
+File: 1312-phrase.npy   True HNR:  2.01 Estimated HNR:  2.25
+File: 1387-phrase.npy   True HNR:  2.88 Estimated HNR:  2.88
+File: 1453-phrase.npy   True HNR: 0.825 Estimated HNR:  1.71
+File: 1455-phrase.npy   True HNR:   nan Estimated HNR:  1.58
+File: 1457-phrase.npy   True HNR:  1.89 Estimated HNR:  2.71
+File: 1485-phrase.npy   True HNR:  1.54 Estimated HNR:  2.45
+File: 1502-phrase.npy   True HNR:  2.32 Estimated HNR:  2.62
+File: 1580-phrase.npy   True HNR:  1.91 Estimated HNR:   2.0
+File: 1597-phrase.npy   True HNR:  2.41 Estimated HNR:  1.96
+File: 1628-phrase.npy   True HNR: 0.742 Estimated HNR:  1.69
+File: 1633-phrase.npy   True HNR:  1.77 Estimated HNR:  1.64
+File: 1636-phrase.npy   True HNR:   nan Estimated HNR:  1.83
+File: 1657-phrase.npy   True HNR:  1.15 Estimated HNR:   nan
+File: 1718-phrase.npy   True HNR:  1.98 Estimated HNR:   nan
+File: 1751-phrase.npy   True HNR:  3.13 Estimated HNR: 0.604
+File: 1768-phrase.npy   True HNR: -2.25 Estimated HNR:  2.28
+File: 1833-phrase.npy   True HNR:  1.66 Estimated HNR:  1.84
+File: 1894-phrase.npy   True HNR:  2.17 Estimated HNR:  2.59
+File: 1984-phrase.npy   True HNR:  2.29 Estimated HNR:   2.6
+File: 2000-phrase.npy   True HNR: 0.586 Estimated HNR: 0.655
+File: 2016-phrase.npy   True HNR:  2.55 Estimated HNR:  2.81
+File: 2019-phrase.npy   True HNR:  0.88 Estimated HNR:  1.71
+File: 2028-phrase.npy   True HNR:   nan Estimated HNR: 0.499
+File: 2066-phrase.npy   True HNR:  1.12 Estimated HNR:  1.09
+File: 2087-phrase.npy   True HNR:  2.02 Estimated HNR:  2.44
+File: 2091-phrase.npy   True HNR: 0.00832       Estimated HNR:  2.92
+File: 2096-phrase.npy   True HNR: -2.49 Estimated HNR:  1.01
+File: 2097-phrase.npy   True HNR:  1.98 Estimated HNR:  2.56
+File: 2106-phrase.npy   True HNR:  1.96 Estimated HNR:  2.73
+File: 2117-phrase.npy   True HNR:  1.82 Estimated HNR:   2.4
+File: 2118-phrase.npy   True HNR:  2.85 Estimated HNR:  2.53
+File: 2119-phrase.npy   True HNR:   1.6 Estimated HNR:  2.96
+File: 2120-phrase.npy   True HNR:  1.86 Estimated HNR:  2.66
+File: 2125-phrase.npy   True HNR:   nan Estimated HNR:  1.76
+File: 2126-phrase.npy   True HNR:  2.34 Estimated HNR:  2.56
+File: 2127-phrase.npy   True HNR:   1.2 Estimated HNR:  2.67
+File: 2147-phrase.npy   True HNR:  1.56 Estimated HNR:  2.13
+File: 2152-phrase.npy   True HNR: 0.878 Estimated HNR:  1.13
+File: 2154-phrase.npy   True HNR:  2.63 Estimated HNR:  2.53
+File: 2217-phrase.npy   True HNR:  4.41 Estimated HNR:  4.57
+File: 2219-phrase.npy   True HNR:  2.71 Estimated HNR:  1.75
+File: 2226-phrase.npy   True HNR: -12.2 Estimated HNR:   nan
+File: 2238-phrase.npy   True HNR:  2.99 Estimated HNR:  4.92
+File: 2266-phrase.npy   True HNR:  1.68 Estimated HNR:  1.78
+File: 2309-phrase.npy   True HNR:  1.82 Estimated HNR:  1.11
+File: 2311-phrase.npy   True HNR:  5.13 Estimated HNR:  4.98
+File: 2323-phrase.npy   True HNR:  1.99 Estimated HNR:  2.41
+File: 2325-phrase.npy   True HNR: 0.248 Estimated HNR:  2.48
+File: 2326-phrase.npy   True HNR: 0.501 Estimated HNR:  1.01
+File: 2333-phrase.npy   True HNR:  2.49 Estimated HNR:  2.56
+File: 2347-phrase.npy   True HNR:  2.64 Estimated HNR:  2.76
+File: 2348-phrase.npy   True HNR:  1.88 Estimated HNR:  2.44
+File: 2350-phrase.npy   True HNR:  2.19 Estimated HNR:  2.17
+File: 2356-phrase.npy   True HNR:  2.12 Estimated HNR:  1.74
+File: 2366-phrase.npy   True HNR:   2.5 Estimated HNR:  2.55
+File: 2369-phrase.npy   True HNR:  2.32 Estimated HNR:   2.5
+File: 2384-phrase.npy   True HNR:  2.34 Estimated HNR:  2.09
+File: 2387-phrase.npy   True HNR:  2.88 Estimated HNR:  2.83
+File: 2388-phrase.npy   True HNR:  1.13 Estimated HNR:  1.95
+File: 2389-phrase.npy   True HNR:  2.03 Estimated HNR:  1.85
+File: 2391-phrase.npy   True HNR:  2.37 Estimated HNR:  2.86
+File: 2392-phrase.npy   True HNR:  1.77 Estimated HNR:  2.31
+File: 2401-phrase.npy   True HNR:  2.66 Estimated HNR:   2.7
+File: 2405-phrase.npy   True HNR:  2.57 Estimated HNR:  2.62
+File: 2422-phrase.npy   True HNR:  5.22 Estimated HNR:  2.64
+File: 2428-phrase.npy   True HNR:  1.49 Estimated HNR:  2.39
+File: 2436-phrase.npy   True HNR:  2.71 Estimated HNR:  2.63
+File: 2456-phrase.npy   True HNR:   nan Estimated HNR: -18.9
+File: 2461-phrase.npy   True HNR:   nan Estimated HNR:  2.28
+File: 2488-phrase.npy   True HNR:  2.26 Estimated HNR:  2.47
+File: 2530-phrase.npy   True HNR:   nan Estimated HNR:  2.12
+File: 2537-phrase.npy   True HNR:  2.01 Estimated HNR:  1.32
+File: 2544-phrase.npy   True HNR:  1.83 Estimated HNR:   2.4
+File: 2559-phrase.npy   True HNR:  2.72 Estimated HNR:  2.54
+File: 2575-phrase.npy   True HNR:   nan Estimated HNR:  8.95
+File: 2583-phrase.npy   True HNR:  2.45 Estimated HNR:   2.5
+File: 2596-phrase.npy   True HNR:  2.54 Estimated HNR:  2.52
+File: 2607-phrase.npy   True HNR:  2.73 Estimated HNR:  2.73
+File: 2608-phrase.npy   True HNR:  2.63 Estimated HNR:  1.65
+File: 368-phrase.npy    True HNR:  2.03 Estimated HNR:  2.37
+File: 445-phrase.npy    True HNR:  2.45 Estimated HNR:  2.75
+File: 446-phrase.npy    True HNR:   2.0 Estimated HNR:  2.71
+File: 449-phrase.npy    True HNR:   1.5 Estimated HNR:  0.76
+File: 451-phrase.npy    True HNR: 0.913 Estimated HNR: 0.296
+File: 494-phrase.npy    True HNR:  2.04 Estimated HNR:  2.08
+File: 495-phrase.npy    True HNR:   nan Estimated HNR:  2.32
+File: 561-phrase.npy    True HNR: -1.35 Estimated HNR:  1.04
+File: 674-phrase.npy    True HNR:  2.09 Estimated HNR:   1.4
+File: 742-phrase.npy    True HNR:  1.74 Estimated HNR:   1.1
+File: 872-phrase.npy    True HNR:  1.44 Estimated HNR:  1.69
+File: 916-phrase.npy    True HNR:  2.51 Estimated HNR:  2.27
+File: 925-phrase.npy    True HNR:  2.77 Estimated HNR:   nan
+
+Av True HNR:  2.07      Av Estimated HNR:  2.28
+Median True HNR:  2.03  Median Estimated HNR:  2.41
+Stddev True HNR:  0.91  Stddev Estimated HNR: 0.798
+
+Dysplastische Dysphonie
+File: 1649-phrase.npy   True HNR:  2.47 Estimated HNR:  2.33
+
+Av True HNR:  2.47      Av Estimated HNR:  2.33
+Median True HNR:  2.47  Median Estimated HNR:  2.33
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Dysplastischer Kehlkopf
+File: 820-phrase.npy    True HNR:   1.9 Estimated HNR:  2.71
+
+Av True HNR:   1.9      Av Estimated HNR:  2.71
+Median True HNR:   1.9  Median Estimated HNR:  2.71
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Epiglottiskarzinom
+File: 1047-phrase.npy   True HNR:  2.82 Estimated HNR:   nan
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Fibrom
+File: 106-phrase.npy    True HNR:   2.6 Estimated HNR: 0.668
+File: 1781-phrase.npy   True HNR: 0.492 Estimated HNR:  2.39
+
+Av True HNR:  1.55      Av Estimated HNR:  1.53
+Median True HNR:  1.55  Median Estimated HNR:  1.53
+Stddev True HNR:  1.06  Stddev Estimated HNR: 0.861
+
+Frontolaterale Teilresektion
+File: 1162-phrase.npy   True HNR:  1.89 Estimated HNR:   nan
+File: 1165-phrase.npy   True HNR: -1.98 Estimated HNR: -7.41
+File: 1191-phrase.npy   True HNR:  1.91 Estimated HNR:  0.84
+File: 1232-phrase.npy   True HNR:  2.35 Estimated HNR:  2.13
+File: 1234-phrase.npy   True HNR:   nan Estimated HNR:  2.37
+File: 1238-phrase.npy   True HNR: 0.511 Estimated HNR:  3.02
+File: 1243-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1267-phrase.npy   True HNR: 0.856 Estimated HNR:   nan
+File: 1279-phrase.npy   True HNR:  2.12 Estimated HNR:  2.25
+File: 1313-phrase.npy   True HNR:  2.72 Estimated HNR:   2.3
+File: 1409-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1446-phrase.npy   True HNR: 0.661 Estimated HNR:   2.7
+File: 1487-phrase.npy   True HNR:  2.53 Estimated HNR:  2.76
+File: 1490-phrase.npy   True HNR: 0.593 Estimated HNR:  2.26
+File: 1558-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1561-phrase.npy   True HNR:   nan Estimated HNR: -0.278
+File: 1634-phrase.npy   True HNR: -0.971        Estimated HNR:   1.8
+File: 1635-phrase.npy   True HNR: 0.112 Estimated HNR:  1.75
+File: 1692-phrase.npy   True HNR: -3.63 Estimated HNR: -4.91
+File: 1716-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1720-phrase.npy   True HNR: -10.1 Estimated HNR: 0.621
+File: 1749-phrase.npy   True HNR: -1.91 Estimated HNR: -3.79
+File: 1756-phrase.npy   True HNR:  1.34 Estimated HNR:  2.69
+File: 1808-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1913-phrase.npy   True HNR:   nan Estimated HNR: -5.12
+File: 1949-phrase.npy   True HNR:   1.5 Estimated HNR:  2.77
+File: 2011-phrase.npy   True HNR:   nan Estimated HNR:  1.82
+File: 2131-phrase.npy   True HNR:  1.91 Estimated HNR: -0.661
+File: 2383-phrase.npy   True HNR:  1.15 Estimated HNR:  2.58
+File: 2386-phrase.npy   True HNR: -4.61 Estimated HNR: -3.11
+File: 2437-phrase.npy   True HNR:  1.44 Estimated HNR: -1.31
+File: 2456-phrase.npy   True HNR:   nan Estimated HNR: -18.9
+File: 815-phrase.npy    True HNR: -1.33 Estimated HNR:  1.57
+File: 891-phrase.npy    True HNR:   nan Estimated HNR: -4.14
+File: 936-phrase.npy    True HNR: -5.72 Estimated HNR:  1.44
+
+Av True HNR:  1.46      Av Estimated HNR:  2.34
+Median True HNR:  1.42  Median Estimated HNR:  2.44
+Stddev True HNR: 0.835  Stddev Estimated HNR: 0.562
+
+Funktionelle Dysphonie
+File: 1193-phrase.npy   True HNR:  2.22 Estimated HNR:   1.7
+File: 1200-phrase.npy   True HNR:  1.12 Estimated HNR:   1.2
+File: 1230-phrase.npy   True HNR:   2.7 Estimated HNR:  2.76
+File: 1240-phrase.npy   True HNR:   2.4 Estimated HNR:  2.51
+File: 1241-phrase.npy   True HNR:   1.8 Estimated HNR:  2.24
+File: 1244-phrase.npy   True HNR:  2.55 Estimated HNR:  2.69
+File: 1254-phrase.npy   True HNR:  1.91 Estimated HNR:  2.05
+File: 1258-phrase.npy   True HNR:  1.32 Estimated HNR: 0.697
+File: 1281-phrase.npy   True HNR:   nan Estimated HNR:  2.13
+File: 1309-phrase.npy   True HNR:  2.25 Estimated HNR:  1.14
+File: 1318-phrase.npy   True HNR: 0.503 Estimated HNR:   nan
+File: 1322-phrase.npy   True HNR:  2.63 Estimated HNR:  2.51
+File: 1326-phrase.npy   True HNR:  2.61 Estimated HNR:  2.71
+File: 1328-phrase.npy   True HNR: -1.02 Estimated HNR: -2.71
+File: 1400-phrase.npy   True HNR:   2.9 Estimated HNR:  2.91
+File: 1415-phrase.npy   True HNR:  2.06 Estimated HNR:  2.26
+File: 1432-phrase.npy   True HNR:   2.7 Estimated HNR:  2.86
+File: 1435-phrase.npy   True HNR: -0.437        Estimated HNR: -0.025
+File: 1441-phrase.npy   True HNR:  1.24 Estimated HNR:   2.3
+File: 1552-phrase.npy   True HNR:  1.74 Estimated HNR:  2.74
+File: 1589-phrase.npy   True HNR:   nan Estimated HNR: -1.37
+File: 1609-phrase.npy   True HNR:   nan Estimated HNR:  3.38
+File: 1611-phrase.npy   True HNR: -3.98 Estimated HNR:   nan
+File: 1627-phrase.npy   True HNR:  2.44 Estimated HNR:  2.47
+File: 1640-phrase.npy   True HNR:  1.93 Estimated HNR:  2.12
+File: 1642-phrase.npy   True HNR:  1.45 Estimated HNR:  1.84
+File: 1645-phrase.npy   True HNR:   nan Estimated HNR:  2.34
+File: 1659-phrase.npy   True HNR: -0.453        Estimated HNR:  1.76
+File: 1680-phrase.npy   True HNR:  1.51 Estimated HNR:  2.67
+File: 1681-phrase.npy   True HNR:  1.09 Estimated HNR:  1.58
+File: 1685-phrase.npy   True HNR:   nan Estimated HNR:  1.56
+File: 1688-phrase.npy   True HNR:  2.62 Estimated HNR:  2.88
+File: 1694-phrase.npy   True HNR:  9.27 Estimated HNR:  8.96
+File: 1742-phrase.npy   True HNR: 0.303 Estimated HNR:  2.11
+File: 1798-phrase.npy   True HNR:   nan Estimated HNR: 0.368
+File: 1801-phrase.npy   True HNR: -10.4 Estimated HNR:   8.1
+File: 1824-phrase.npy   True HNR:  2.18 Estimated HNR:   nan
+File: 1827-phrase.npy   True HNR:  1.72 Estimated HNR:  2.57
+File: 1862-phrase.npy   True HNR: -1.37 Estimated HNR: 0.957
+File: 1899-phrase.npy   True HNR:   2.0 Estimated HNR:  2.43
+File: 1935-phrase.npy   True HNR:  1.57 Estimated HNR:  1.33
+File: 1936-phrase.npy   True HNR: 0.624 Estimated HNR:  1.78
+File: 1958-phrase.npy   True HNR: -2.44 Estimated HNR: -0.193
+File: 1966-phrase.npy   True HNR:  2.56 Estimated HNR:  2.65
+File: 1977-phrase.npy   True HNR:  2.81 Estimated HNR:  2.79
+File: 2006-phrase.npy   True HNR:  2.76 Estimated HNR:  2.07
+File: 2112-phrase.npy   True HNR:  1.09 Estimated HNR:  1.63
+File: 2123-phrase.npy   True HNR:  1.05 Estimated HNR:  2.46
+File: 2231-phrase.npy   True HNR:  2.67 Estimated HNR:  1.56
+File: 2265-phrase.npy   True HNR: -0.467        Estimated HNR:  1.66
+File: 2267-phrase.npy   True HNR:  1.96 Estimated HNR:  2.04
+File: 2290-phrase.npy   True HNR:   nan Estimated HNR:   1.7
+File: 2297-phrase.npy   True HNR:   nan Estimated HNR: 0.262
+File: 2302-phrase.npy   True HNR: 0.389 Estimated HNR:  2.35
+File: 2303-phrase.npy   True HNR:  1.05 Estimated HNR:  1.93
+File: 2308-phrase.npy   True HNR:  1.98 Estimated HNR:   2.2
+File: 2310-phrase.npy   True HNR:  1.25 Estimated HNR:  2.03
+File: 2312-phrase.npy   True HNR:   nan Estimated HNR:  1.24
+File: 2313-phrase.npy   True HNR: -15.4 Estimated HNR:  1.39
+File: 2314-phrase.npy   True HNR:  1.35 Estimated HNR:  2.28
+File: 2318-phrase.npy   True HNR:  2.67 Estimated HNR:  2.85
+File: 2327-phrase.npy   True HNR:  2.47 Estimated HNR:  2.49
+File: 2336-phrase.npy   True HNR:  1.18 Estimated HNR:   nan
+File: 2340-phrase.npy   True HNR:   1.0 Estimated HNR:  2.35
+File: 2357-phrase.npy   True HNR:   nan Estimated HNR: -1.65
+File: 2359-phrase.npy   True HNR:  0.33 Estimated HNR:  1.53
+File: 2360-phrase.npy   True HNR:   2.3 Estimated HNR:   2.6
+File: 2365-phrase.npy   True HNR: -9.56 Estimated HNR:  1.95
+File: 2367-phrase.npy   True HNR:   nan Estimated HNR: 0.455
+File: 2382-phrase.npy   True HNR:  1.87 Estimated HNR:  2.02
+File: 2410-phrase.npy   True HNR:  2.25 Estimated HNR:  2.47
+File: 2413-phrase.npy   True HNR:  1.73 Estimated HNR:   2.4
+File: 2416-phrase.npy   True HNR:  1.07 Estimated HNR:  1.49
+File: 2417-phrase.npy   True HNR:  2.41 Estimated HNR:  2.57
+File: 2419-phrase.npy   True HNR:  2.73 Estimated HNR:   2.8
+File: 2427-phrase.npy   True HNR:   2.4 Estimated HNR:  2.53
+File: 2429-phrase.npy   True HNR:  2.17 Estimated HNR:  2.29
+File: 2431-phrase.npy   True HNR:  2.36 Estimated HNR:  1.97
+File: 2432-phrase.npy   True HNR:  1.29 Estimated HNR:   nan
+File: 2442-phrase.npy   True HNR:  2.66 Estimated HNR:  2.44
+File: 2444-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2445-phrase.npy   True HNR:  1.96 Estimated HNR:  2.85
+File: 2446-phrase.npy   True HNR:  2.59 Estimated HNR:  2.85
+File: 2448-phrase.npy   True HNR:  2.34 Estimated HNR:  2.27
+File: 2457-phrase.npy   True HNR:  1.57 Estimated HNR:  1.85
+File: 2459-phrase.npy   True HNR: -0.971        Estimated HNR:   nan
+File: 2477-phrase.npy   True HNR:  2.05 Estimated HNR:  2.24
+File: 2481-phrase.npy   True HNR:  2.62 Estimated HNR:  2.83
+File: 2483-phrase.npy   True HNR:  1.71 Estimated HNR:  1.68
+File: 2497-phrase.npy   True HNR:   nan Estimated HNR: -1.14
+File: 2499-phrase.npy   True HNR:   1.6 Estimated HNR:   nan
+File: 2502-phrase.npy   True HNR:   2.4 Estimated HNR:  2.35
+File: 2504-phrase.npy   True HNR: 0.432 Estimated HNR: -1.74
+File: 2505-phrase.npy   True HNR:  1.98 Estimated HNR:  2.55
+File: 2506-phrase.npy   True HNR:  2.69 Estimated HNR:  2.18
+File: 2524-phrase.npy   True HNR:  1.25 Estimated HNR:  1.51
+File: 2528-phrase.npy   True HNR:  2.88 Estimated HNR:  2.28
+File: 2601-phrase.npy   True HNR: -0.631        Estimated HNR:  2.16
+File: 350-phrase.npy    True HNR: 0.598 Estimated HNR:  1.75
+File: 351-phrase.npy    True HNR:   nan Estimated HNR:  1.94
+File: 631-phrase.npy    True HNR:  2.01 Estimated HNR:  1.84
+File: 634-phrase.npy    True HNR:   2.5 Estimated HNR:  2.59
+File: 718-phrase.npy    True HNR:  2.18 Estimated HNR:  2.34
+File: 722-phrase.npy    True HNR:   1.5 Estimated HNR:  1.26
+File: 723-phrase.npy    True HNR:  2.11 Estimated HNR:   1.7
+File: 727-phrase.npy    True HNR:   nan Estimated HNR: -27.3
+File: 729-phrase.npy    True HNR: -0.0887       Estimated HNR: 0.383
+File: 730-phrase.npy    True HNR:  1.71 Estimated HNR:  1.62
+File: 851-phrase.npy    True HNR:  2.07 Estimated HNR:   1.3
+File: 870-phrase.npy    True HNR:  9.26 Estimated HNR:  8.46
+File: 878-phrase.npy    True HNR: -0.168        Estimated HNR: 0.811
+File: 913-phrase.npy    True HNR:   nan Estimated HNR:  1.64
+
+Av True HNR:  2.13      Av Estimated HNR:  2.36
+Median True HNR:  2.05  Median Estimated HNR:  2.28
+Stddev True HNR:  1.34  Stddev Estimated HNR:  1.16
+
+GERD
+File: 1117-phrase.npy   True HNR:  2.25 Estimated HNR:  2.69
+File: 1218-phrase.npy   True HNR:   nan Estimated HNR:  1.24
+File: 1551-phrase.npy   True HNR:  2.81 Estimated HNR:  3.03
+
+Av True HNR:  2.53      Av Estimated HNR:  2.86
+Median True HNR:  2.53  Median Estimated HNR:  2.86
+Stddev True HNR: 0.276  Stddev Estimated HNR: 0.172
+
+Gesangsstimme
+File: 1038-phrase.npy   True HNR:  3.23 Estimated HNR:  3.18
+File: 1041-phrase.npy   True HNR:  2.58 Estimated HNR:   1.9
+File: 1160-phrase.npy   True HNR:  2.81 Estimated HNR:  2.49
+File: 1224-phrase.npy   True HNR: -0.345        Estimated HNR:  1.07
+File: 1275-phrase.npy   True HNR:   nan Estimated HNR: -0.224
+File: 1286-phrase.npy   True HNR:   2.2 Estimated HNR:   2.5
+File: 154-phrase.npy    True HNR:  2.31 Estimated HNR:  2.48
+File: 1574-phrase.npy   True HNR:  4.45 Estimated HNR:  3.84
+File: 1588-phrase.npy   True HNR: -0.614        Estimated HNR:  3.13
+File: 1592-phrase.npy   True HNR:  2.03 Estimated HNR:  2.71
+File: 1600-phrase.npy   True HNR: 0.735 Estimated HNR:  1.57
+File: 1615-phrase.npy   True HNR:  2.56 Estimated HNR: 0.112
+File: 1616-phrase.npy   True HNR:  2.78 Estimated HNR:  2.84
+File: 666-phrase.npy    True HNR:  2.81 Estimated HNR:  3.24
+File: 817-phrase.npy    True HNR:  2.36 Estimated HNR:  2.58
+File: 822-phrase.npy    True HNR:  1.88 Estimated HNR:  2.11
+File: 939-phrase.npy    True HNR:  1.33 Estimated HNR:  1.68
+
+Av True HNR:  2.43      Av Estimated HNR:  2.37
+Median True HNR:  2.46  Median Estimated HNR:   2.5
+Stddev True HNR: 0.837  Stddev Estimated HNR: 0.866
+
+Granulom
+File: 1684-phrase.npy   True HNR:  2.68 Estimated HNR:  2.59
+File: 2566-phrase.npy   True HNR:   nan Estimated HNR:  2.58
+
+Av True HNR:  2.68      Av Estimated HNR:  2.59
+Median True HNR:  2.68  Median Estimated HNR:  2.59
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Hyperasthenie
+File: 1615-phrase.npy   True HNR:  2.56 Estimated HNR: 0.112
+
+Av True HNR:  2.56      Av Estimated HNR: 0.112
+Median True HNR:  2.56  Median Estimated HNR: 0.112
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Hyperfunktionelle Dysphonie
+File: 1037-phrase.npy   True HNR:  2.02 Estimated HNR:  2.38
+File: 1043-phrase.npy   True HNR:  2.66 Estimated HNR:  2.17
+File: 1044-phrase.npy   True HNR:  2.41 Estimated HNR:   2.6
+File: 1050-phrase.npy   True HNR:  1.01 Estimated HNR:  5.51
+File: 1051-phrase.npy   True HNR:  1.73 Estimated HNR:  1.82
+File: 106-phrase.npy    True HNR:   2.6 Estimated HNR: 0.668
+File: 1083-phrase.npy   True HNR:  2.29 Estimated HNR:  2.29
+File: 1085-phrase.npy   True HNR:  2.34 Estimated HNR:  2.04
+File: 1088-phrase.npy   True HNR:  1.67 Estimated HNR:  2.26
+File: 1090-phrase.npy   True HNR:  2.27 Estimated HNR:  2.64
+File: 1113-phrase.npy   True HNR:   nan Estimated HNR: 0.0509
+File: 1118-phrase.npy   True HNR:  2.64 Estimated HNR:  1.48
+File: 1189-phrase.npy   True HNR: -2.18 Estimated HNR:   2.1
+File: 1196-phrase.npy   True HNR: 0.489 Estimated HNR:   nan
+File: 1204-phrase.npy   True HNR:  1.73 Estimated HNR:  2.25
+File: 1222-phrase.npy   True HNR: -2.14 Estimated HNR:  1.26
+File: 1266-phrase.npy   True HNR:   2.4 Estimated HNR:  2.36
+File: 127-phrase.npy    True HNR: -4.61 Estimated HNR:  1.03
+File: 1280-phrase.npy   True HNR:  2.23 Estimated HNR:  2.17
+File: 1282-phrase.npy   True HNR:  2.23 Estimated HNR:  1.19
+File: 1284-phrase.npy   True HNR: -0.173        Estimated HNR:  2.44
+File: 1285-phrase.npy   True HNR:  2.05 Estimated HNR:  2.54
+File: 1294-phrase.npy   True HNR:  2.02 Estimated HNR:  2.25
+File: 1299-phrase.npy   True HNR:  5.43 Estimated HNR:  5.72
+File: 1310-phrase.npy   True HNR:  2.16 Estimated HNR:  2.18
+File: 1324-phrase.npy   True HNR:  1.61 Estimated HNR:  1.83
+File: 1327-phrase.npy   True HNR:  1.15 Estimated HNR:  2.81
+File: 1331-phrase.npy   True HNR:  1.81 Estimated HNR:  1.56
+File: 1335-phrase.npy   True HNR: 0.946 Estimated HNR:  1.94
+File: 1379-phrase.npy   True HNR:  2.38 Estimated HNR:   2.7
+File: 1380-phrase.npy   True HNR:  2.32 Estimated HNR:  2.64
+File: 1394-phrase.npy   True HNR:  2.45 Estimated HNR:  2.65
+File: 140-phrase.npy    True HNR: -0.872        Estimated HNR: 0.248
+File: 1406-phrase.npy   True HNR:  1.32 Estimated HNR:  2.22
+File: 1431-phrase.npy   True HNR:  2.56 Estimated HNR:  2.63
+File: 144-phrase.npy    True HNR:   nan Estimated HNR: 0.594
+File: 1442-phrase.npy   True HNR: 0.884 Estimated HNR: 0.671
+File: 1443-phrase.npy   True HNR: -0.927        Estimated HNR:   1.5
+File: 1459-phrase.npy   True HNR:   nan Estimated HNR: -9.47
+File: 1462-phrase.npy   True HNR:  2.14 Estimated HNR:  2.43
+File: 1464-phrase.npy   True HNR:   nan Estimated HNR:  1.76
+File: 1468-phrase.npy   True HNR: -3.31 Estimated HNR: -1.83
+File: 1471-phrase.npy   True HNR:  1.41 Estimated HNR:   nan
+File: 1476-phrase.npy   True HNR: 0.477 Estimated HNR:   2.1
+File: 1492-phrase.npy   True HNR:  2.01 Estimated HNR:  2.01
+File: 1500-phrase.npy   True HNR:   nan Estimated HNR: -5.35
+File: 1562-phrase.npy   True HNR: -0.346        Estimated HNR:   nan
+File: 1566-phrase.npy   True HNR:  1.37 Estimated HNR:   2.1
+File: 1569-phrase.npy   True HNR:  2.67 Estimated HNR:  2.42
+File: 1571-phrase.npy   True HNR:   nan Estimated HNR: -0.888
+File: 159-phrase.npy    True HNR:  2.87 Estimated HNR:   2.8
+File: 1591-phrase.npy   True HNR:  1.92 Estimated HNR:   nan
+File: 1594-phrase.npy   True HNR:  4.55 Estimated HNR:  7.43
+File: 160-phrase.npy    True HNR:  1.41 Estimated HNR:  2.22
+File: 1602-phrase.npy   True HNR:  2.08 Estimated HNR: 0.211
+File: 1607-phrase.npy   True HNR:  2.28 Estimated HNR:  2.46
+File: 1608-phrase.npy   True HNR:  3.42 Estimated HNR:  4.19
+File: 1637-phrase.npy   True HNR:  1.46 Estimated HNR: -1.12
+File: 1643-phrase.npy   True HNR:  2.12 Estimated HNR:  2.72
+File: 1648-phrase.npy   True HNR:  3.62 Estimated HNR:  2.82
+File: 1653-phrase.npy   True HNR:  2.07 Estimated HNR: -2.17
+File: 1660-phrase.npy   True HNR:  1.87 Estimated HNR:  1.43
+File: 1682-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1686-phrase.npy   True HNR:  2.21 Estimated HNR:  2.51
+File: 1690-phrase.npy   True HNR:   2.5 Estimated HNR:  2.65
+File: 1741-phrase.npy   True HNR:  2.56 Estimated HNR:  2.64
+File: 1745-phrase.npy   True HNR:  2.76 Estimated HNR:  2.49
+File: 1753-phrase.npy   True HNR:  2.87 Estimated HNR:   nan
+File: 1754-phrase.npy   True HNR:  2.08 Estimated HNR:  2.43
+File: 1758-phrase.npy   True HNR:  2.76 Estimated HNR:  2.35
+File: 1777-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1778-phrase.npy   True HNR:  1.12 Estimated HNR: 0.579
+File: 1786-phrase.npy   True HNR:  2.88 Estimated HNR:  2.57
+File: 1792-phrase.npy   True HNR:   1.7 Estimated HNR:  2.06
+File: 1794-phrase.npy   True HNR:  1.78 Estimated HNR:   1.9
+File: 1800-phrase.npy   True HNR:  1.53 Estimated HNR:  1.54
+File: 1802-phrase.npy   True HNR: -2.79 Estimated HNR:   nan
+File: 1812-phrase.npy   True HNR: -3.02 Estimated HNR:   nan
+File: 1813-phrase.npy   True HNR:  2.45 Estimated HNR:  2.75
+File: 1816-phrase.npy   True HNR:   2.1 Estimated HNR:  1.21
+File: 1822-phrase.npy   True HNR:   2.8 Estimated HNR:  2.76
+File: 1823-phrase.npy   True HNR:  2.63 Estimated HNR:  2.58
+File: 1861-phrase.npy   True HNR:  1.75 Estimated HNR:  2.35
+File: 1887-phrase.npy   True HNR:   nan Estimated HNR:  1.79
+File: 1888-phrase.npy   True HNR:  2.22 Estimated HNR:  1.67
+File: 1891-phrase.npy   True HNR:  2.85 Estimated HNR:  2.89
+File: 1895-phrase.npy   True HNR:   nan Estimated HNR:  4.16
+File: 1898-phrase.npy   True HNR: -0.288        Estimated HNR:   nan
+File: 1900-phrase.npy   True HNR:  1.99 Estimated HNR:  2.17
+File: 1903-phrase.npy   True HNR: 0.926 Estimated HNR:  1.59
+File: 1906-phrase.npy   True HNR:  2.51 Estimated HNR:   2.9
+File: 1910-phrase.npy   True HNR:  5.67 Estimated HNR:   3.1
+File: 1927-phrase.npy   True HNR: -3.86 Estimated HNR: -0.234
+File: 1929-phrase.npy   True HNR:  2.32 Estimated HNR:  2.57
+File: 1934-phrase.npy   True HNR:  1.35 Estimated HNR:  1.74
+File: 1944-phrase.npy   True HNR:   nan Estimated HNR:   3.5
+File: 1952-phrase.npy   True HNR: -0.156        Estimated HNR:  1.96
+File: 1964-phrase.npy   True HNR:  2.59 Estimated HNR:  2.61
+File: 1976-phrase.npy   True HNR:  2.66 Estimated HNR:  1.83
+File: 1978-phrase.npy   True HNR:   2.4 Estimated HNR:  2.55
+File: 1982-phrase.npy   True HNR:  2.55 Estimated HNR:  2.69
+File: 1983-phrase.npy   True HNR:  2.53 Estimated HNR:   nan
+File: 1988-phrase.npy   True HNR:   nan Estimated HNR:  2.82
+File: 1989-phrase.npy   True HNR: -0.437        Estimated HNR:  2.16
+File: 1990-phrase.npy   True HNR: 0.931 Estimated HNR: -0.0443
+File: 1993-phrase.npy   True HNR: -0.53 Estimated HNR:  2.25
+File: 2012-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2034-phrase.npy   True HNR:   2.2 Estimated HNR:  2.66
+File: 2062-phrase.npy   True HNR:  2.01 Estimated HNR:   2.4
+File: 2067-phrase.npy   True HNR:  2.75 Estimated HNR:  6.97
+File: 2071-phrase.npy   True HNR: 0.709 Estimated HNR: 0.00552
+File: 2077-phrase.npy   True HNR:  2.25 Estimated HNR:  2.33
+File: 2080-phrase.npy   True HNR:  1.73 Estimated HNR:  2.22
+File: 2081-phrase.npy   True HNR:  2.88 Estimated HNR:  2.74
+File: 2090-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2102-phrase.npy   True HNR:  1.73 Estimated HNR:  2.54
+File: 2104-phrase.npy   True HNR:   nan Estimated HNR: -1.68
+File: 2105-phrase.npy   True HNR:  1.41 Estimated HNR:  2.43
+File: 2107-phrase.npy   True HNR:   nan Estimated HNR:  1.71
+File: 2114-phrase.npy   True HNR: -0.38 Estimated HNR:  2.04
+File: 2121-phrase.npy   True HNR:  2.48 Estimated HNR:   2.2
+File: 2122-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2124-phrase.npy   True HNR: -3.12 Estimated HNR: -1.03
+File: 2135-phrase.npy   True HNR:   nan Estimated HNR:  2.31
+File: 2138-phrase.npy   True HNR:  2.72 Estimated HNR:  2.78
+File: 2139-phrase.npy   True HNR:   2.3 Estimated HNR:  2.25
+File: 2151-phrase.npy   True HNR:  2.58 Estimated HNR:   2.7
+File: 2184-phrase.npy   True HNR:  1.91 Estimated HNR: 0.765
+File: 2185-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2186-phrase.npy   True HNR:  1.54 Estimated HNR:  1.87
+File: 2215-phrase.npy   True HNR:  1.61 Estimated HNR: 0.469
+File: 2221-phrase.npy   True HNR:  1.18 Estimated HNR:   1.6
+File: 2224-phrase.npy   True HNR:  1.57 Estimated HNR:  2.14
+File: 2225-phrase.npy   True HNR:  1.65 Estimated HNR:   2.0
+File: 2228-phrase.npy   True HNR: -3.55 Estimated HNR: -0.84
+File: 2229-phrase.npy   True HNR:   nan Estimated HNR: 0.824
+File: 2230-phrase.npy   True HNR:   1.9 Estimated HNR:  2.12
+File: 2232-phrase.npy   True HNR: 0.261 Estimated HNR:  0.49
+File: 2233-phrase.npy   True HNR:   1.7 Estimated HNR:  1.81
+File: 2239-phrase.npy   True HNR:  2.39 Estimated HNR:  2.92
+File: 2240-phrase.npy   True HNR:  1.91 Estimated HNR:  2.37
+File: 2241-phrase.npy   True HNR:  2.02 Estimated HNR:  1.25
+File: 2245-phrase.npy   True HNR:  2.27 Estimated HNR:  2.63
+File: 2270-phrase.npy   True HNR:   nan Estimated HNR:  2.16
+File: 2272-phrase.npy   True HNR:  5.25 Estimated HNR:  6.71
+File: 2288-phrase.npy   True HNR:  1.35 Estimated HNR: 0.373
+File: 2292-phrase.npy   True HNR:   nan Estimated HNR:  2.18
+File: 2293-phrase.npy   True HNR:  2.27 Estimated HNR:  2.51
+File: 2298-phrase.npy   True HNR:  2.26 Estimated HNR:  2.33
+File: 2307-phrase.npy   True HNR:  2.81 Estimated HNR:  2.95
+File: 2317-phrase.npy   True HNR: -7.18 Estimated HNR: 0.622
+File: 2331-phrase.npy   True HNR:  2.18 Estimated HNR:  2.07
+File: 2338-phrase.npy   True HNR:  0.28 Estimated HNR: 0.712
+File: 2363-phrase.npy   True HNR:  2.35 Estimated HNR:  1.84
+File: 2370-phrase.npy   True HNR: -0.0462       Estimated HNR:  2.53
+File: 2374-phrase.npy   True HNR:  5.19 Estimated HNR:  8.81
+File: 2378-phrase.npy   True HNR:  4.49 Estimated HNR:  4.76
+File: 2398-phrase.npy   True HNR:  1.77 Estimated HNR: 0.124
+File: 2399-phrase.npy   True HNR:  1.15 Estimated HNR:   nan
+File: 2420-phrase.npy   True HNR:  1.01 Estimated HNR:  1.74
+File: 2425-phrase.npy   True HNR:   nan Estimated HNR: -0.496
+File: 2438-phrase.npy   True HNR:  1.72 Estimated HNR:  2.53
+File: 2447-phrase.npy   True HNR: 0.541 Estimated HNR:  1.39
+File: 2449-phrase.npy   True HNR: 0.964 Estimated HNR: 0.762
+File: 2454-phrase.npy   True HNR:   2.8 Estimated HNR:  2.81
+File: 2463-phrase.npy   True HNR:  2.17 Estimated HNR:  2.57
+File: 2466-phrase.npy   True HNR:   nan Estimated HNR:  2.59
+File: 2471-phrase.npy   True HNR:  2.14 Estimated HNR:  2.71
+File: 2479-phrase.npy   True HNR:  2.11 Estimated HNR:  2.21
+File: 2480-phrase.npy   True HNR: -1.84 Estimated HNR:  1.56
+File: 2482-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2487-phrase.npy   True HNR: -0.852        Estimated HNR:  2.58
+File: 2492-phrase.npy   True HNR:  2.71 Estimated HNR:   nan
+File: 2517-phrase.npy   True HNR:  1.34 Estimated HNR:  2.19
+File: 2521-phrase.npy   True HNR:  2.62 Estimated HNR:   2.9
+File: 2523-phrase.npy   True HNR: 0.253 Estimated HNR:  1.96
+File: 2526-phrase.npy   True HNR:   nan Estimated HNR:  2.05
+File: 2540-phrase.npy   True HNR: 0.731 Estimated HNR:  2.65
+File: 2545-phrase.npy   True HNR:  1.81 Estimated HNR:  1.14
+File: 2546-phrase.npy   True HNR:  1.07 Estimated HNR:  1.19
+File: 2553-phrase.npy   True HNR:  2.21 Estimated HNR: 0.675
+File: 2572-phrase.npy   True HNR:  2.09 Estimated HNR:  2.24
+File: 2577-phrase.npy   True HNR:   nan Estimated HNR:  1.36
+File: 2589-phrase.npy   True HNR:  1.55 Estimated HNR:  1.21
+File: 2590-phrase.npy   True HNR:   nan Estimated HNR:  1.64
+File: 2591-phrase.npy   True HNR:   nan Estimated HNR:  1.23
+File: 2603-phrase.npy   True HNR:   nan Estimated HNR: 0.387
+File: 2604-phrase.npy   True HNR:  1.97 Estimated HNR:  1.63
+File: 348-phrase.npy    True HNR:  2.42 Estimated HNR:  2.19
+File: 355-phrase.npy    True HNR:  2.13 Estimated HNR:  2.04
+File: 363-phrase.npy    True HNR:   nan Estimated HNR:  1.99
+File: 499-phrase.npy    True HNR:   1.8 Estimated HNR:  2.36
+File: 665-phrase.npy    True HNR:  2.87 Estimated HNR:  2.91
+File: 669-phrase.npy    True HNR: -0.154        Estimated HNR:  2.66
+File: 692-phrase.npy    True HNR:  2.27 Estimated HNR:  2.33
+File: 724-phrase.npy    True HNR:   nan Estimated HNR: -0.168
+File: 819-phrase.npy    True HNR:  1.15 Estimated HNR:  1.62
+File: 827-phrase.npy    True HNR:  3.03 Estimated HNR:  2.88
+File: 829-phrase.npy    True HNR:  2.57 Estimated HNR:  2.77
+File: 850-phrase.npy    True HNR:   2.7 Estimated HNR:  2.76
+File: 854-phrase.npy    True HNR:   2.9 Estimated HNR:  2.27
+File: 857-phrase.npy    True HNR:   nan Estimated HNR:  1.35
+File: 868-phrase.npy    True HNR:  2.29 Estimated HNR:  2.56
+File: 881-phrase.npy    True HNR:  3.12 Estimated HNR:  4.74
+File: 888-phrase.npy    True HNR: 0.152 Estimated HNR: 0.694
+File: 889-phrase.npy    True HNR: -0.864        Estimated HNR:   nan
+File: 890-phrase.npy    True HNR:  1.02 Estimated HNR:  1.42
+File: 894-phrase.npy    True HNR:   2.6 Estimated HNR:  2.52
+File: 898-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 909-phrase.npy    True HNR:   2.2 Estimated HNR:  2.23
+File: 922-phrase.npy    True HNR:   nan Estimated HNR:  1.78
+File: 934-phrase.npy    True HNR:  3.04 Estimated HNR:  3.28
+
+Av True HNR:  2.15      Av Estimated HNR:  2.34
+Median True HNR:  2.18  Median Estimated HNR:  2.33
+Stddev True HNR:  0.91  Stddev Estimated HNR:  1.24
+
+Hypofunktionelle Dysphonie
+File: 1087-phrase.npy   True HNR:   1.0 Estimated HNR:  2.04
+File: 1117-phrase.npy   True HNR:  2.25 Estimated HNR:  2.69
+File: 1156-phrase.npy   True HNR:  2.07 Estimated HNR:  1.89
+File: 1261-phrase.npy   True HNR:  1.71 Estimated HNR:  1.77
+File: 1291-phrase.npy   True HNR:  2.34 Estimated HNR:  2.91
+File: 1461-phrase.npy   True HNR:  2.21 Estimated HNR:  2.82
+File: 1590-phrase.npy   True HNR:  2.67 Estimated HNR:  2.51
+File: 1603-phrase.npy   True HNR:  2.45 Estimated HNR:  1.67
+File: 1668-phrase.npy   True HNR:  2.63 Estimated HNR:  2.31
+File: 2070-phrase.npy   True HNR:  2.71 Estimated HNR:  2.81
+File: 2116-phrase.npy   True HNR:  1.62 Estimated HNR:  2.52
+File: 2212-phrase.npy   True HNR:  2.38 Estimated HNR:  2.75
+File: 2349-phrase.npy   True HNR: 0.821 Estimated HNR: 0.954
+File: 2579-phrase.npy   True HNR:  1.64 Estimated HNR: 0.628
+File: 2584-phrase.npy   True HNR:  2.68 Estimated HNR:  2.62
+File: 2606-phrase.npy   True HNR:   nan Estimated HNR:  1.57
+
+Av True HNR:  2.08      Av Estimated HNR:  2.19
+Median True HNR:  2.25  Median Estimated HNR:  2.51
+Stddev True HNR:  0.58  Stddev Estimated HNR: 0.673
+
+Hypopharynxtumor
+File: 1439-phrase.npy   True HNR:  2.77 Estimated HNR:   2.7
+File: 1560-phrase.npy   True HNR: 0.00626       Estimated HNR:  2.35
+File: 1773-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1814-phrase.npy   True HNR:  2.83 Estimated HNR:  2.67
+File: 2402-phrase.npy   True HNR:  2.44 Estimated HNR:  2.96
+File: 731-phrase.npy    True HNR:   nan Estimated HNR:  2.81
+
+Av True HNR:  2.01      Av Estimated HNR:  2.67
+Median True HNR:   2.6  Median Estimated HNR:  2.69
+Stddev True HNR:  1.17  Stddev Estimated HNR: 0.214
+
+Hypotone Dysphonie
+File: 129-phrase.npy    True HNR:  2.51 Estimated HNR:  2.01
+File: 1744-phrase.npy   True HNR:  1.74 Estimated HNR:  1.52
+File: 2013-phrase.npy   True HNR:  2.99 Estimated HNR:  2.87
+File: 2020-phrase.npy   True HNR:  2.32 Estimated HNR:  2.19
+File: 2133-phrase.npy   True HNR:  2.77 Estimated HNR:  2.52
+
+Av True HNR:  2.47      Av Estimated HNR:  2.22
+Median True HNR:  2.51  Median Estimated HNR:  2.19
+Stddev True HNR: 0.428  Stddev Estimated HNR: 0.454
+
+Internusschwache
+File: 1255-phrase.npy   True HNR:  1.87 Estimated HNR:  2.28
+
+Av True HNR:  1.87      Av Estimated HNR:  2.28
+Median True HNR:  1.87  Median Estimated HNR:  2.28
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Intubationsgranulom
+File: 1158-phrase.npy   True HNR:  2.79 Estimated HNR:   2.8
+File: 1649-phrase.npy   True HNR:  2.47 Estimated HNR:  2.33
+File: 2434-phrase.npy   True HNR:  1.56 Estimated HNR:   2.5
+File: 2571-phrase.npy   True HNR:   nan Estimated HNR:  2.81
+
+Av True HNR:  2.27      Av Estimated HNR:  2.54
+Median True HNR:  2.47  Median Estimated HNR:   2.5
+Stddev True HNR: 0.522  Stddev Estimated HNR: 0.197
+
+Intubationsschaden
+File: 1396-phrase.npy   True HNR: 0.321 Estimated HNR:  2.42
+File: 1750-phrase.npy   True HNR: -3.16 Estimated HNR: 0.133
+File: 2412-phrase.npy   True HNR:  2.63 Estimated HNR:  2.91
+
+Av True HNR:  1.48      Av Estimated HNR:  2.67
+Median True HNR:  1.48  Median Estimated HNR:  2.67
+Stddev True HNR:  1.16  Stddev Estimated HNR: 0.245
+
+Juvenile Dysphonie
+File: 667-phrase.npy    True HNR:  2.28 Estimated HNR:  3.16
+
+Av True HNR:  2.28      Av Estimated HNR:  3.16
+Median True HNR:  2.28  Median Estimated HNR:  3.16
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Kehlkopftumor
+File: 1670-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1942-phrase.npy   True HNR:   nan Estimated HNR: -1.54
+File: 1968-phrase.npy   True HNR: -3.12 Estimated HNR: -2.95
+File: 2069-phrase.npy   True HNR:  2.54 Estimated HNR:   nan
+File: 940-phrase.npy    True HNR:   nan Estimated HNR:  1.14
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Kontaktpachydermie
+File: 1190-phrase.npy   True HNR:  2.74 Estimated HNR: 0.657
+File: 1195-phrase.npy   True HNR:   nan Estimated HNR:  2.56
+File: 1218-phrase.npy   True HNR:   nan Estimated HNR:  1.24
+File: 1251-phrase.npy   True HNR:  2.24 Estimated HNR:  2.59
+File: 129-phrase.npy    True HNR:  2.51 Estimated HNR:  2.01
+File: 1290-phrase.npy   True HNR:  1.91 Estimated HNR:  1.75
+File: 1305-phrase.npy   True HNR:  2.39 Estimated HNR:  2.55
+File: 1434-phrase.npy   True HNR: 0.845 Estimated HNR:  2.21
+File: 1450-phrase.npy   True HNR: -3.25 Estimated HNR:  3.09
+File: 1481-phrase.npy   True HNR:   nan Estimated HNR:  2.21
+File: 1525-phrase.npy   True HNR:   1.8 Estimated HNR:  2.09
+File: 1551-phrase.npy   True HNR:  2.81 Estimated HNR:  3.03
+File: 1646-phrase.npy   True HNR:  2.22 Estimated HNR:  2.54
+File: 1647-phrase.npy   True HNR:  2.81 Estimated HNR:  2.76
+File: 1668-phrase.npy   True HNR:  2.63 Estimated HNR:  2.31
+File: 1741-phrase.npy   True HNR:  2.56 Estimated HNR:  2.64
+File: 1746-phrase.npy   True HNR:  2.73 Estimated HNR:  2.72
+File: 1747-phrase.npy   True HNR:  2.03 Estimated HNR:  2.68
+File: 1780-phrase.npy   True HNR:  2.59 Estimated HNR:  2.13
+File: 1819-phrase.npy   True HNR:  2.54 Estimated HNR:  1.52
+File: 1897-phrase.npy   True HNR:  1.05 Estimated HNR: 0.804
+File: 1912-phrase.npy   True HNR:   2.7 Estimated HNR:  2.77
+File: 1967-phrase.npy   True HNR:  2.73 Estimated HNR:  2.86
+File: 1986-phrase.npy   True HNR:  2.47 Estimated HNR:  2.53
+File: 1999-phrase.npy   True HNR:  1.45 Estimated HNR:  2.37
+File: 2015-phrase.npy   True HNR:  2.42 Estimated HNR:  2.33
+File: 2027-phrase.npy   True HNR:  2.06 Estimated HNR:  2.78
+File: 2034-phrase.npy   True HNR:   2.2 Estimated HNR:  2.66
+File: 2070-phrase.npy   True HNR:  2.71 Estimated HNR:  2.81
+File: 2092-phrase.npy   True HNR:  2.47 Estimated HNR:  2.59
+File: 2103-phrase.npy   True HNR:   2.4 Estimated HNR:  1.75
+File: 2116-phrase.npy   True HNR:  1.62 Estimated HNR:  2.52
+File: 2135-phrase.npy   True HNR:   nan Estimated HNR:  2.31
+File: 2146-phrase.npy   True HNR:  1.72 Estimated HNR:  2.25
+File: 2154-phrase.npy   True HNR:  2.63 Estimated HNR:  2.53
+File: 2220-phrase.npy   True HNR: 0.573 Estimated HNR:   nan
+File: 2231-phrase.npy   True HNR:  2.67 Estimated HNR:  1.56
+File: 2265-phrase.npy   True HNR: -0.467        Estimated HNR:  1.66
+File: 2326-phrase.npy   True HNR: 0.501 Estimated HNR:  1.01
+File: 2340-phrase.npy   True HNR:   1.0 Estimated HNR:  2.35
+File: 2384-phrase.npy   True HNR:  2.34 Estimated HNR:  2.09
+File: 2385-phrase.npy   True HNR:  1.87 Estimated HNR:  2.12
+File: 2401-phrase.npy   True HNR:  2.66 Estimated HNR:   2.7
+File: 2403-phrase.npy   True HNR:  2.17 Estimated HNR:   2.3
+File: 2406-phrase.npy   True HNR:   nan Estimated HNR:  2.72
+File: 2419-phrase.npy   True HNR:  2.73 Estimated HNR:   2.8
+File: 2420-phrase.npy   True HNR:  1.01 Estimated HNR:  1.74
+File: 2439-phrase.npy   True HNR: 0.667 Estimated HNR:  3.13
+File: 2474-phrase.npy   True HNR: 0.613 Estimated HNR: 0.462
+File: 2489-phrase.npy   True HNR:  2.54 Estimated HNR:  2.45
+File: 2492-phrase.npy   True HNR:  2.71 Estimated HNR:   nan
+File: 2498-phrase.npy   True HNR:   nan Estimated HNR:  2.08
+File: 2506-phrase.npy   True HNR:  2.69 Estimated HNR:  2.18
+File: 2519-phrase.npy   True HNR:   nan Estimated HNR: 0.494
+File: 2531-phrase.npy   True HNR:  2.17 Estimated HNR:  2.16
+File: 2543-phrase.npy   True HNR:  2.52 Estimated HNR:  1.43
+File: 2547-phrase.npy   True HNR: -0.62 Estimated HNR:  2.59
+File: 2555-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2568-phrase.npy   True HNR:  2.09 Estimated HNR: 0.0979
+File: 2580-phrase.npy   True HNR:  2.71 Estimated HNR:   2.7
+File: 2586-phrase.npy   True HNR:  2.05 Estimated HNR:  2.41
+File: 352-phrase.npy    True HNR: -0.53 Estimated HNR:   2.3
+File: 446-phrase.npy    True HNR:   2.0 Estimated HNR:  2.71
+File: 503-phrase.npy    True HNR:  2.52 Estimated HNR:  2.53
+File: 718-phrase.npy    True HNR:  2.18 Estimated HNR:  2.34
+File: 721-phrase.npy    True HNR:  1.43 Estimated HNR:   2.2
+File: 814-phrase.npy    True HNR:  2.78 Estimated HNR:  2.81
+File: 876-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 895-phrase.npy    True HNR:  1.35 Estimated HNR: 0.344
+File: 910-phrase.npy    True HNR:   2.8 Estimated HNR:   nan
+File: 923-phrase.npy    True HNR:  2.06 Estimated HNR:  1.65
+
+Av True HNR:  2.13      Av Estimated HNR:  2.18
+Median True HNR:  2.34  Median Estimated HNR:  2.35
+Stddev True HNR: 0.626  Stddev Estimated HNR: 0.688
+
+Laryngitis
+File: 1046-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1047-phrase.npy   True HNR:  2.82 Estimated HNR:   nan
+File: 107-phrase.npy    True HNR: -7.41 Estimated HNR:  4.26
+File: 1119-phrase.npy   True HNR: -15.3 Estimated HNR: -18.6
+File: 1161-phrase.npy   True HNR:  2.88 Estimated HNR:  2.71
+File: 1163-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1188-phrase.npy   True HNR:  2.27 Estimated HNR:  1.93
+File: 1192-phrase.npy   True HNR:   nan Estimated HNR:  2.14
+File: 1221-phrase.npy   True HNR: -0.374        Estimated HNR: 0.0709
+File: 1228-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1229-phrase.npy   True HNR:  1.17 Estimated HNR:  1.58
+File: 1233-phrase.npy   True HNR:  2.77 Estimated HNR:  2.72
+File: 1235-phrase.npy   True HNR:  2.61 Estimated HNR:  2.42
+File: 1237-phrase.npy   True HNR:  2.46 Estimated HNR: 0.362
+File: 1246-phrase.npy   True HNR:  2.68 Estimated HNR:  2.48
+File: 1248-phrase.npy   True HNR:  1.73 Estimated HNR:  2.23
+File: 1257-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1259-phrase.npy   True HNR:  2.48 Estimated HNR:  2.76
+File: 1260-phrase.npy   True HNR: -0.356        Estimated HNR:   1.7
+File: 1264-phrase.npy   True HNR: -13.9 Estimated HNR:   nan
+File: 1265-phrase.npy   True HNR:  2.83 Estimated HNR:  2.86
+File: 1269-phrase.npy   True HNR: -12.5 Estimated HNR:  3.08
+File: 1274-phrase.npy   True HNR: 0.341 Estimated HNR: 0.612
+File: 1283-phrase.npy   True HNR:   nan Estimated HNR: 0.146
+File: 1295-phrase.npy   True HNR: 0.264 Estimated HNR:  1.21
+File: 1300-phrase.npy   True HNR:  1.65 Estimated HNR:  1.23
+File: 1301-phrase.npy   True HNR:  2.34 Estimated HNR:   2.6
+File: 1307-phrase.npy   True HNR: -0.0918       Estimated HNR:   2.0
+File: 1311-phrase.npy   True HNR:  1.69 Estimated HNR:  2.41
+File: 1315-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1388-phrase.npy   True HNR: 0.865 Estimated HNR:  1.14
+File: 139-phrase.npy    True HNR: 0.164 Estimated HNR: -0.311
+File: 1404-phrase.npy   True HNR:   nan Estimated HNR:  1.98
+File: 1405-phrase.npy   True HNR:  1.37 Estimated HNR:   1.6
+File: 141-phrase.npy    True HNR: 0.987 Estimated HNR: -4.14
+File: 1414-phrase.npy   True HNR:  2.16 Estimated HNR:  2.21
+File: 1418-phrase.npy   True HNR:  1.52 Estimated HNR:  2.47
+File: 1426-phrase.npy   True HNR:   nan Estimated HNR: -1.96
+File: 1436-phrase.npy   True HNR: -0.119        Estimated HNR: 0.194
+File: 1440-phrase.npy   True HNR:  2.42 Estimated HNR:  2.51
+File: 1447-phrase.npy   True HNR:   1.3 Estimated HNR:  1.72
+File: 1456-phrase.npy   True HNR:   1.1 Estimated HNR:   1.9
+File: 1463-phrase.npy   True HNR:  2.18 Estimated HNR:  2.71
+File: 1472-phrase.npy   True HNR: -2.36 Estimated HNR: -2.48
+File: 1554-phrase.npy   True HNR:  2.42 Estimated HNR:  2.35
+File: 1567-phrase.npy   True HNR:  2.19 Estimated HNR: 0.773
+File: 1578-phrase.npy   True HNR:  1.94 Estimated HNR:  1.53
+File: 1591-phrase.npy   True HNR:  1.92 Estimated HNR:   nan
+File: 1599-phrase.npy   True HNR:  1.83 Estimated HNR:  2.01
+File: 1610-phrase.npy   True HNR:  -4.5 Estimated HNR:  1.49
+File: 1613-phrase.npy   True HNR:  2.01 Estimated HNR:  1.61
+File: 1614-phrase.npy   True HNR:  2.08 Estimated HNR:  2.63
+File: 1617-phrase.npy   True HNR:  1.14 Estimated HNR:  2.51
+File: 1629-phrase.npy   True HNR:  2.85 Estimated HNR:  2.76
+File: 1665-phrase.npy   True HNR:   nan Estimated HNR:  2.83
+File: 1780-phrase.npy   True HNR:  2.59 Estimated HNR:  2.13
+File: 1783-phrase.npy   True HNR:  2.24 Estimated HNR:   2.5
+File: 1795-phrase.npy   True HNR:  1.16 Estimated HNR:  1.65
+File: 1796-phrase.npy   True HNR:  1.53 Estimated HNR:  2.85
+File: 1806-phrase.npy   True HNR:  1.26 Estimated HNR:  2.44
+File: 1809-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1930-phrase.npy   True HNR: 0.481 Estimated HNR: -0.112
+File: 1940-phrase.npy   True HNR: -9.36 Estimated HNR: 0.724
+File: 1953-phrase.npy   True HNR:  2.46 Estimated HNR: 0.694
+File: 1965-phrase.npy   True HNR:  2.34 Estimated HNR:   1.9
+File: 1973-phrase.npy   True HNR: -5.41 Estimated HNR:  1.08
+File: 1978-phrase.npy   True HNR:   2.4 Estimated HNR:  2.55
+File: 1987-phrase.npy   True HNR:  2.27 Estimated HNR:  2.58
+File: 2003-phrase.npy   True HNR:  1.38 Estimated HNR:  2.74
+File: 2012-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2021-phrase.npy   True HNR:  2.28 Estimated HNR:  3.08
+File: 2028-phrase.npy   True HNR:   nan Estimated HNR: 0.499
+File: 2075-phrase.npy   True HNR:   nan Estimated HNR:  2.48
+File: 2079-phrase.npy   True HNR:   2.1 Estimated HNR:  1.73
+File: 2097-phrase.npy   True HNR:  1.98 Estimated HNR:  2.56
+File: 2101-phrase.npy   True HNR:   nan Estimated HNR: 0.955
+File: 2110-phrase.npy   True HNR:   nan Estimated HNR:  2.01
+File: 2120-phrase.npy   True HNR:  1.86 Estimated HNR:  2.66
+File: 2126-phrase.npy   True HNR:  2.34 Estimated HNR:  2.56
+File: 2128-phrase.npy   True HNR:  2.86 Estimated HNR:  2.94
+File: 2156-phrase.npy   True HNR:  2.34 Estimated HNR:   2.2
+File: 2191-phrase.npy   True HNR:  2.82 Estimated HNR:   2.8
+File: 2219-phrase.npy   True HNR:  2.71 Estimated HNR:  1.75
+File: 2242-phrase.npy   True HNR:  1.98 Estimated HNR:  2.52
+File: 2276-phrase.npy   True HNR: -0.136        Estimated HNR:  1.61
+File: 2296-phrase.npy   True HNR:  2.42 Estimated HNR:  2.84
+File: 2301-phrase.npy   True HNR:  1.95 Estimated HNR:  1.09
+File: 2305-phrase.npy   True HNR:  1.84 Estimated HNR:  1.86
+File: 2315-phrase.npy   True HNR:  1.15 Estimated HNR:  2.59
+File: 2321-phrase.npy   True HNR:  2.74 Estimated HNR:  2.59
+File: 2328-phrase.npy   True HNR:  2.34 Estimated HNR:  2.58
+File: 2351-phrase.npy   True HNR:  2.69 Estimated HNR:  2.61
+File: 2370-phrase.npy   True HNR: -0.0462       Estimated HNR:  2.53
+File: 2404-phrase.npy   True HNR:   nan Estimated HNR:  2.84
+File: 2424-phrase.npy   True HNR:  2.65 Estimated HNR:  2.42
+File: 2435-phrase.npy   True HNR:   nan Estimated HNR:  2.52
+File: 2443-phrase.npy   True HNR:   nan Estimated HNR:  2.42
+File: 2487-phrase.npy   True HNR: -0.852        Estimated HNR:  2.58
+File: 2510-phrase.npy   True HNR:   nan Estimated HNR:  1.15
+File: 2511-phrase.npy   True HNR:  2.38 Estimated HNR:   nan
+File: 2514-phrase.npy   True HNR:   2.4 Estimated HNR:  2.41
+File: 2516-phrase.npy   True HNR:   nan Estimated HNR:  2.34
+File: 2521-phrase.npy   True HNR:  2.62 Estimated HNR:   2.9
+File: 2525-phrase.npy   True HNR:   nan Estimated HNR:  2.78
+File: 2541-phrase.npy   True HNR:   nan Estimated HNR:  1.23
+File: 2542-phrase.npy   True HNR:   nan Estimated HNR:  2.65
+File: 2555-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2556-phrase.npy   True HNR:   2.8 Estimated HNR:  2.58
+File: 2567-phrase.npy   True HNR:  2.41 Estimated HNR:  2.78
+File: 2574-phrase.npy   True HNR:  1.75 Estimated HNR:  2.88
+File: 2578-phrase.npy   True HNR:   nan Estimated HNR:   2.3
+File: 2582-phrase.npy   True HNR:  2.61 Estimated HNR:  2.67
+File: 2585-phrase.npy   True HNR:  2.66 Estimated HNR:  2.86
+File: 2588-phrase.npy   True HNR: 0.499 Estimated HNR:  2.09
+File: 2600-phrase.npy   True HNR:  2.79 Estimated HNR:  2.32
+File: 2602-phrase.npy   True HNR:  1.95 Estimated HNR:  2.48
+File: 2605-phrase.npy   True HNR:   nan Estimated HNR:  1.89
+File: 2610-phrase.npy   True HNR:  2.68 Estimated HNR:  2.68
+File: 493-phrase.npy    True HNR: -0.319        Estimated HNR: -2.41
+File: 497-phrase.npy    True HNR:  2.47 Estimated HNR:  2.72
+File: 498-phrase.npy    True HNR:  1.91 Estimated HNR:   2.5
+File: 563-phrase.npy    True HNR:  2.68 Estimated HNR: -0.32
+File: 568-phrase.npy    True HNR:  2.55 Estimated HNR:  2.87
+File: 715-phrase.npy    True HNR:  2.02 Estimated HNR:  2.33
+File: 818-phrase.npy    True HNR: 0.574 Estimated HNR:  2.23
+File: 819-phrase.npy    True HNR:  1.15 Estimated HNR:  1.62
+File: 824-phrase.npy    True HNR:   1.9 Estimated HNR:  1.59
+File: 828-phrase.npy    True HNR:  1.75 Estimated HNR: 0.836
+File: 844-phrase.npy    True HNR:  1.72 Estimated HNR:  2.83
+File: 871-phrase.npy    True HNR:  1.89 Estimated HNR:  2.69
+File: 884-phrase.npy    True HNR: -1.84 Estimated HNR:   nan
+File: 886-phrase.npy    True HNR: -1.89 Estimated HNR: 0.625
+File: 902-phrase.npy    True HNR:   nan Estimated HNR:  2.16
+File: 904-phrase.npy    True HNR:  2.64 Estimated HNR:  2.38
+File: 910-phrase.npy    True HNR:   2.8 Estimated HNR:   nan
+File: 918-phrase.npy    True HNR:  1.66 Estimated HNR:   2.8
+File: 919-phrase.npy    True HNR:  2.12 Estimated HNR: -0.472
+File: 930-phrase.npy    True HNR:  2.31 Estimated HNR:  2.67
+File: 931-phrase.npy    True HNR:   nan Estimated HNR: 0.654
+File: 935-phrase.npy    True HNR:  1.36 Estimated HNR:  1.87
+
+Av True HNR:  2.04      Av Estimated HNR:  2.24
+Median True HNR:  2.18  Median Estimated HNR:  2.48
+Stddev True HNR: 0.626  Stddev Estimated HNR: 0.613
+
+Laryngozele
+File: 1205-phrase.npy   True HNR:  2.69 Estimated HNR:  2.85
+File: 1449-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1981-phrase.npy   True HNR:  2.33 Estimated HNR:  2.85
+
+Av True HNR:  2.51      Av Estimated HNR:  2.85
+Median True HNR:  2.51  Median Estimated HNR:  2.85
+Stddev True HNR: 0.181  Stddev Estimated HNR: 0.000169
+
+Leukoplakie
+File: 1186-phrase.npy   True HNR: 0.846 Estimated HNR:   1.9
+File: 119-phrase.npy    True HNR: -4.61 Estimated HNR: -3.41
+File: 1252-phrase.npy   True HNR:  2.67 Estimated HNR:  2.31
+File: 1303-phrase.npy   True HNR:  2.26 Estimated HNR:  1.41
+File: 1405-phrase.npy   True HNR:  1.37 Estimated HNR:   1.6
+File: 1448-phrase.npy   True HNR: -4.35 Estimated HNR: -3.01
+File: 146-phrase.npy    True HNR:  2.41 Estimated HNR:  2.36
+File: 1557-phrase.npy   True HNR:   2.3 Estimated HNR:   2.5
+File: 1559-phrase.npy   True HNR:  4.45 Estimated HNR:  4.89
+File: 1599-phrase.npy   True HNR:  1.83 Estimated HNR:  2.01
+File: 1613-phrase.npy   True HNR:  2.01 Estimated HNR:  1.61
+File: 1617-phrase.npy   True HNR:  1.14 Estimated HNR:  2.51
+File: 1629-phrase.npy   True HNR:  2.85 Estimated HNR:  2.76
+File: 1632-phrase.npy   True HNR:  2.78 Estimated HNR:  2.88
+File: 1665-phrase.npy   True HNR:   nan Estimated HNR:  2.83
+File: 1715-phrase.npy   True HNR:  2.63 Estimated HNR:  2.67
+File: 1783-phrase.npy   True HNR:  2.24 Estimated HNR:   2.5
+File: 1810-phrase.npy   True HNR:  2.09 Estimated HNR:  2.84
+File: 1864-phrase.npy   True HNR:  2.61 Estimated HNR:  2.52
+File: 1913-phrase.npy   True HNR:   nan Estimated HNR: -5.12
+File: 1940-phrase.npy   True HNR: -9.36 Estimated HNR: 0.724
+File: 1987-phrase.npy   True HNR:  2.27 Estimated HNR:  2.58
+File: 2075-phrase.npy   True HNR:   nan Estimated HNR:  2.48
+File: 2079-phrase.npy   True HNR:   2.1 Estimated HNR:  1.73
+File: 2091-phrase.npy   True HNR: 0.00832       Estimated HNR:  2.92
+File: 2096-phrase.npy   True HNR: -2.49 Estimated HNR:  1.01
+File: 2101-phrase.npy   True HNR:   nan Estimated HNR: 0.955
+File: 2242-phrase.npy   True HNR:  1.98 Estimated HNR:  2.52
+File: 2351-phrase.npy   True HNR:  2.69 Estimated HNR:  2.61
+File: 2370-phrase.npy   True HNR: -0.0462       Estimated HNR:  2.53
+File: 2443-phrase.npy   True HNR:   nan Estimated HNR:  2.42
+File: 2484-phrase.npy   True HNR:  2.68 Estimated HNR:  2.47
+File: 2549-phrase.npy   True HNR:   1.8 Estimated HNR:  2.49
+File: 2556-phrase.npy   True HNR:   2.8 Estimated HNR:  2.58
+File: 497-phrase.npy    True HNR:  2.47 Estimated HNR:  2.72
+File: 715-phrase.npy    True HNR:  2.02 Estimated HNR:  2.33
+File: 863-phrase.npy    True HNR:   3.3 Estimated HNR: -2.61
+File: 875-phrase.npy    True HNR:  2.07 Estimated HNR:  2.08
+File: 884-phrase.npy    True HNR: -1.84 Estimated HNR:   nan
+File: 902-phrase.npy    True HNR:   nan Estimated HNR:  2.16
+File: 935-phrase.npy    True HNR:  1.36 Estimated HNR:  1.87
+
+Av True HNR:  2.17      Av Estimated HNR:  2.43
+Median True HNR:  2.25  Median Estimated HNR:   2.5
+Stddev True HNR: 0.778  Stddev Estimated HNR: 0.623
+
+Mediale Halscyste
+File: 1469-phrase.npy   True HNR: -0.192        Estimated HNR:  2.87
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Mesopharynxtumor
+File: 1546-phrase.npy   True HNR:  1.67 Estimated HNR: 0.171
+
+Av True HNR:  1.67      Av Estimated HNR: 0.171
+Median True HNR:  1.67  Median Estimated HNR: 0.171
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Monochorditis
+File: 2220-phrase.npy   True HNR: 0.573 Estimated HNR:   nan
+File: 2403-phrase.npy   True HNR:  2.17 Estimated HNR:   2.3
+File: 828-phrase.npy    True HNR:  1.75 Estimated HNR: 0.836
+
+Av True HNR:  1.96      Av Estimated HNR:  1.57
+Median True HNR:  1.96  Median Estimated HNR:  1.57
+Stddev True HNR: 0.211  Stddev Estimated HNR: 0.734
+
+Morbus Down
+File: 1387-phrase.npy   True HNR:  2.88 Estimated HNR:  2.88
+
+Av True HNR:  2.88      Av Estimated HNR:  2.88
+Median True HNR:  2.88  Median Estimated HNR:  2.88
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Morbus Parkinson
+File: 1580-phrase.npy   True HNR:  1.91 Estimated HNR:   2.0
+
+Av True HNR:  1.91      Av Estimated HNR:   2.0
+Median True HNR:  1.91  Median Estimated HNR:   2.0
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Mutatio
+File: 1445-phrase.npy   True HNR:  2.19 Estimated HNR:   2.5
+File: 1628-phrase.npy   True HNR: 0.742 Estimated HNR:  1.69
+
+Av True HNR:  1.47      Av Estimated HNR:   2.1
+Median True HNR:  1.47  Median Estimated HNR:   2.1
+Stddev True HNR: 0.723  Stddev Estimated HNR: 0.407
+
+Mutationsfistelstimme
+File: 1231-phrase.npy   True HNR:   nan Estimated HNR: -0.189
+File: 1298-phrase.npy   True HNR:  1.82 Estimated HNR:  2.19
+File: 1411-phrase.npy   True HNR:   1.6 Estimated HNR:  1.81
+File: 147-phrase.npy    True HNR:  1.77 Estimated HNR:  2.27
+File: 1556-phrase.npy   True HNR:  1.71 Estimated HNR:  1.92
+File: 2004-phrase.npy   True HNR:  1.77 Estimated HNR:   2.4
+File: 2017-phrase.npy   True HNR:  2.46 Estimated HNR:  2.49
+File: 2468-phrase.npy   True HNR: 0.248 Estimated HNR:  1.59
+File: 349-phrase.npy    True HNR: 0.876 Estimated HNR:   1.3
+File: 814-phrase.npy    True HNR:  2.78 Estimated HNR:  2.81
+
+Av True HNR:  1.67      Av Estimated HNR:  2.09
+Median True HNR:  1.77  Median Estimated HNR:  2.19
+Stddev True HNR: 0.711  Stddev Estimated HNR: 0.446
+
+N. laryngeus superior Lasion
+File: 1116-phrase.npy   True HNR:  2.05 Estimated HNR:   nan
+File: 2299-phrase.npy   True HNR:  2.39 Estimated HNR:  2.52
+File: 357-phrase.npy    True HNR:  1.94 Estimated HNR:  2.43
+
+Av True HNR:  2.17      Av Estimated HNR:  2.47
+Median True HNR:  2.17  Median Estimated HNR:  2.47
+Stddev True HNR: 0.224  Stddev Estimated HNR: 0.0467
+
+N. laryngeus superior Neuralgie
+File: 1928-phrase.npy   True HNR: -0.256        Estimated HNR:  1.79
+File: 2423-phrase.npy   True HNR:  2.51 Estimated HNR:  2.22
+File: 723-phrase.npy    True HNR:  2.11 Estimated HNR:   1.7
+
+Av True HNR:  2.31      Av Estimated HNR:  1.96
+Median True HNR:  2.31  Median Estimated HNR:  1.96
+Stddev True HNR: 0.201  Stddev Estimated HNR:  0.26
+
+Non-fluency-Syndrom
+File: 1202-phrase.npy   True HNR:  2.17 Estimated HNR:   1.7
+File: 149-phrase.npy    True HNR:  2.01 Estimated HNR:  5.76
+
+Av True HNR:  2.09      Av Estimated HNR:  3.73
+Median True HNR:  2.09  Median Estimated HNR:  3.73
+Stddev True HNR: 0.0792 Stddev Estimated HNR:  2.03
+
+Orofaciale Dyspraxie
+File: 1055-phrase.npy   True HNR:  2.89 Estimated HNR:   2.9
+
+Av True HNR:  2.89      Av Estimated HNR:   2.9
+Median True HNR:  2.89  Median Estimated HNR:   2.9
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Papillom
+File: 2529-phrase.npy   True HNR: -0.621        Estimated HNR:   nan
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Phonasthenie
+File: 1417-phrase.npy   True HNR:  1.15 Estimated HNR:  2.01
+File: 1640-phrase.npy   True HNR:  1.93 Estimated HNR:  2.12
+File: 1766-phrase.npy   True HNR:   nan Estimated HNR:  0.98
+File: 1905-phrase.npy   True HNR:  2.45 Estimated HNR:   2.5
+File: 2025-phrase.npy   True HNR:   nan Estimated HNR:  1.79
+File: 2093-phrase.npy   True HNR:  4.67 Estimated HNR:  7.32
+File: 2550-phrase.npy   True HNR:  1.81 Estimated HNR:   2.2
+File: 496-phrase.npy    True HNR:  3.15 Estimated HNR:  4.46
+File: 502-phrase.npy    True HNR:  2.52 Estimated HNR:  2.69
+File: 872-phrase.npy    True HNR:  1.44 Estimated HNR:  1.69
+
+Av True HNR:  2.39      Av Estimated HNR:  3.12
+Median True HNR:  2.19  Median Estimated HNR:  2.35
+Stddev True HNR:  1.05  Stddev Estimated HNR:  1.77
+
+Phonationsknotchen
+File: 1044-phrase.npy   True HNR:  2.41 Estimated HNR:   2.6
+File: 1285-phrase.npy   True HNR:  2.05 Estimated HNR:  2.54
+File: 1294-phrase.npy   True HNR:  2.02 Estimated HNR:  2.25
+File: 131-phrase.npy    True HNR:  2.34 Estimated HNR:   2.4
+File: 1395-phrase.npy   True HNR:   nan Estimated HNR:  1.74
+File: 1464-phrase.npy   True HNR:   nan Estimated HNR:  1.76
+File: 1607-phrase.npy   True HNR:  2.28 Estimated HNR:  2.46
+File: 1616-phrase.npy   True HNR:  2.78 Estimated HNR:  2.84
+File: 1643-phrase.npy   True HNR:  2.12 Estimated HNR:  2.72
+File: 1745-phrase.npy   True HNR:  2.76 Estimated HNR:  2.49
+File: 1800-phrase.npy   True HNR:  1.53 Estimated HNR:  1.54
+File: 1866-phrase.npy   True HNR:   nan Estimated HNR:  2.16
+File: 1927-phrase.npy   True HNR: -3.86 Estimated HNR: -0.234
+File: 2112-phrase.npy   True HNR:  1.09 Estimated HNR:  1.63
+File: 870-phrase.npy    True HNR:  9.26 Estimated HNR:  8.46
+File: 900-phrase.npy    True HNR: 0.847 Estimated HNR:  2.72
+
+Av True HNR:  2.62      Av Estimated HNR:  2.89
+Median True HNR:   2.2  Median Estimated HNR:  2.51
+Stddev True HNR:  2.08  Stddev Estimated HNR:  1.73
+
+Poltersyndrom
+File: 1896-phrase.npy   True HNR:  2.47 Estimated HNR:  2.32
+File: 1962-phrase.npy   True HNR:  2.17 Estimated HNR:  1.74
+File: 2306-phrase.npy   True HNR:  2.56 Estimated HNR:  2.53
+
+Av True HNR:   2.4      Av Estimated HNR:   2.2
+Median True HNR:  2.47  Median Estimated HNR:  2.32
+Stddev True HNR: 0.167  Stddev Estimated HNR: 0.335
+
+Psychogene Aphonie
+File: 937-phrase.npy    True HNR:  1.91 Estimated HNR:  2.72
+
+Av True HNR:  1.91      Av Estimated HNR:  2.72
+Median True HNR:  1.91  Median Estimated HNR:  2.72
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Psychogene Dysphonie
+File: 1042-phrase.npy   True HNR:  2.47 Estimated HNR:   nan
+File: 1051-phrase.npy   True HNR:  1.73 Estimated HNR:  1.82
+File: 1053-phrase.npy   True HNR: -2.47 Estimated HNR: -2.12
+File: 1058-phrase.npy   True HNR:  2.14 Estimated HNR:  2.72
+File: 1198-phrase.npy   True HNR:  1.85 Estimated HNR:  1.93
+File: 1225-phrase.npy   True HNR:   2.6 Estimated HNR:  1.52
+File: 1230-phrase.npy   True HNR:   2.7 Estimated HNR:  2.76
+File: 1258-phrase.npy   True HNR:  1.32 Estimated HNR: 0.697
+File: 1266-phrase.npy   True HNR:   2.4 Estimated HNR:  2.36
+File: 1306-phrase.npy   True HNR:  1.77 Estimated HNR:  2.82
+File: 1319-phrase.npy   True HNR: -1.27 Estimated HNR:  1.21
+File: 1322-phrase.npy   True HNR:  2.63 Estimated HNR:  2.51
+File: 1329-phrase.npy   True HNR:  2.45 Estimated HNR:   2.8
+File: 1335-phrase.npy   True HNR: 0.946 Estimated HNR:  1.94
+File: 1337-phrase.npy   True HNR:   nan Estimated HNR:   2.7
+File: 1340-phrase.npy   True HNR:  1.93 Estimated HNR:  1.95
+File: 1384-phrase.npy   True HNR:  1.77 Estimated HNR:  2.47
+File: 1400-phrase.npy   True HNR:   2.9 Estimated HNR:  2.91
+File: 1408-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1421-phrase.npy   True HNR: 0.00625       Estimated HNR: 0.882
+File: 1425-phrase.npy   True HNR:  1.32 Estimated HNR: 0.698
+File: 1432-phrase.npy   True HNR:   2.7 Estimated HNR:  2.86
+File: 1459-phrase.npy   True HNR:   nan Estimated HNR: -9.47
+File: 1477-phrase.npy   True HNR:   1.4 Estimated HNR:  1.73
+File: 1479-phrase.npy   True HNR:   nan Estimated HNR:  3.41
+File: 151-phrase.npy    True HNR:  2.65 Estimated HNR:  2.74
+File: 1566-phrase.npy   True HNR:  1.37 Estimated HNR:   2.1
+File: 1568-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1593-phrase.npy   True HNR:  1.39 Estimated HNR:  1.57
+File: 1661-phrase.npy   True HNR:  1.92 Estimated HNR:  2.18
+File: 1663-phrase.npy   True HNR: 0.994 Estimated HNR:   nan
+File: 1673-phrase.npy   True HNR:  1.38 Estimated HNR:  1.95
+File: 1675-phrase.npy   True HNR:   nan Estimated HNR: -1.71
+File: 1690-phrase.npy   True HNR:   2.5 Estimated HNR:  2.65
+File: 1744-phrase.npy   True HNR:  1.74 Estimated HNR:  1.52
+File: 1767-phrase.npy   True HNR:  2.05 Estimated HNR:  2.43
+File: 1787-phrase.npy   True HNR:  2.72 Estimated HNR:  2.66
+File: 1868-phrase.npy   True HNR: -0.642        Estimated HNR:  1.19
+File: 1891-phrase.npy   True HNR:  2.85 Estimated HNR:  2.89
+File: 1900-phrase.npy   True HNR:  1.99 Estimated HNR:  2.17
+File: 1904-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1910-phrase.npy   True HNR:  5.67 Estimated HNR:   3.1
+File: 1928-phrase.npy   True HNR: -0.256        Estimated HNR:  1.79
+File: 1931-phrase.npy   True HNR:  1.97 Estimated HNR:  2.15
+File: 1951-phrase.npy   True HNR:  2.47 Estimated HNR:  2.53
+File: 1958-phrase.npy   True HNR: -2.44 Estimated HNR: -0.193
+File: 1959-phrase.npy   True HNR:  1.88 Estimated HNR:   nan
+File: 1964-phrase.npy   True HNR:  2.59 Estimated HNR:  2.61
+File: 1988-phrase.npy   True HNR:   nan Estimated HNR:  2.82
+File: 1989-phrase.npy   True HNR: -0.437        Estimated HNR:  2.16
+File: 2025-phrase.npy   True HNR:   nan Estimated HNR:  1.79
+File: 2074-phrase.npy   True HNR:  1.75 Estimated HNR:  2.68
+File: 2085-phrase.npy   True HNR:   nan Estimated HNR: -7.96
+File: 2104-phrase.npy   True HNR:   nan Estimated HNR: -1.68
+File: 2107-phrase.npy   True HNR:   nan Estimated HNR:  1.71
+File: 2112-phrase.npy   True HNR:  1.09 Estimated HNR:  1.63
+File: 2123-phrase.npy   True HNR:  1.05 Estimated HNR:  2.46
+File: 2134-phrase.npy   True HNR:   nan Estimated HNR: 0.484
+File: 2213-phrase.npy   True HNR:  2.38 Estimated HNR:  2.76
+File: 2246-phrase.npy   True HNR:   nan Estimated HNR: -9.52
+File: 2275-phrase.npy   True HNR: -1.93 Estimated HNR:  2.26
+File: 2302-phrase.npy   True HNR: 0.389 Estimated HNR:  2.35
+File: 2310-phrase.npy   True HNR:  1.25 Estimated HNR:  2.03
+File: 2312-phrase.npy   True HNR:   nan Estimated HNR:  1.24
+File: 2316-phrase.npy   True HNR:   nan Estimated HNR:  1.45
+File: 2317-phrase.npy   True HNR: -7.18 Estimated HNR: 0.622
+File: 2336-phrase.npy   True HNR:  1.18 Estimated HNR:   nan
+File: 2337-phrase.npy   True HNR: -6.71 Estimated HNR:  6.46
+File: 2339-phrase.npy   True HNR:  1.29 Estimated HNR:  2.08
+File: 2372-phrase.npy   True HNR:   nan Estimated HNR:  1.35
+File: 2431-phrase.npy   True HNR:  2.36 Estimated HNR:  1.97
+File: 2433-phrase.npy   True HNR: 0.265 Estimated HNR:  2.34
+File: 2441-phrase.npy   True HNR:  2.31 Estimated HNR:  2.55
+File: 2452-phrase.npy   True HNR:  2.15 Estimated HNR: 0.813
+File: 2489-phrase.npy   True HNR:  2.54 Estimated HNR:  2.45
+File: 2517-phrase.npy   True HNR:  1.34 Estimated HNR:  2.19
+File: 2520-phrase.npy   True HNR:  2.83 Estimated HNR:   2.8
+File: 2526-phrase.npy   True HNR:   nan Estimated HNR:  2.05
+File: 2528-phrase.npy   True HNR:  2.88 Estimated HNR:  2.28
+File: 2533-phrase.npy   True HNR:  3.01 Estimated HNR:  2.95
+File: 2534-phrase.npy   True HNR:  2.65 Estimated HNR:  2.48
+File: 2535-phrase.npy   True HNR:   1.9 Estimated HNR:  1.95
+File: 2577-phrase.npy   True HNR:   nan Estimated HNR:  1.36
+File: 366-phrase.npy    True HNR: -10.7 Estimated HNR:   nan
+File: 741-phrase.npy    True HNR:  1.88 Estimated HNR:  2.38
+File: 823-phrase.npy    True HNR:  2.77 Estimated HNR:  2.84
+File: 848-phrase.npy    True HNR:  1.63 Estimated HNR:   2.0
+File: 877-phrase.npy    True HNR:  2.41 Estimated HNR:  2.24
+File: 885-phrase.npy    True HNR:  1.45 Estimated HNR:  1.91
+File: 911-phrase.npy    True HNR:  2.71 Estimated HNR:   1.9
+File: 917-phrase.npy    True HNR: -0.945        Estimated HNR:  1.36
+
+Av True HNR:  2.04      Av Estimated HNR:  2.22
+Median True HNR:  1.99  Median Estimated HNR:  2.34
+Stddev True HNR: 0.846  Stddev Estimated HNR:  0.56
+
+Psychogene Mikrophonie
+File: 1316-phrase.npy   True HNR:  1.98 Estimated HNR:  3.92
+
+Av True HNR:  1.98      Av Estimated HNR:  3.92
+Median True HNR:  1.98  Median Estimated HNR:  3.92
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Reinke Odem
+File: 1045-phrase.npy   True HNR:  1.94 Estimated HNR:  2.59
+File: 1046-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1056-phrase.npy   True HNR:  2.31 Estimated HNR:  2.26
+File: 1090-phrase.npy   True HNR:  2.27 Estimated HNR:  2.64
+File: 1206-phrase.npy   True HNR:  2.29 Estimated HNR:   1.8
+File: 1221-phrase.npy   True HNR: -0.374        Estimated HNR: 0.0709
+File: 1229-phrase.npy   True HNR:  1.17 Estimated HNR:  1.58
+File: 1253-phrase.npy   True HNR: 0.491 Estimated HNR:  2.22
+File: 1274-phrase.npy   True HNR: 0.341 Estimated HNR: 0.612
+File: 1382-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1436-phrase.npy   True HNR: -0.119        Estimated HNR: 0.194
+File: 1447-phrase.npy   True HNR:   1.3 Estimated HNR:  1.72
+File: 1453-phrase.npy   True HNR: 0.825 Estimated HNR:  1.71
+File: 1462-phrase.npy   True HNR:  2.14 Estimated HNR:  2.43
+File: 1500-phrase.npy   True HNR:   nan Estimated HNR: -5.35
+File: 1563-phrase.npy   True HNR:  1.35 Estimated HNR:  2.73
+File: 1572-phrase.npy   True HNR: 0.942 Estimated HNR: 0.476
+File: 1610-phrase.npy   True HNR:  -4.5 Estimated HNR:  1.49
+File: 1656-phrase.npy   True HNR:   1.6 Estimated HNR:  1.58
+File: 1667-phrase.npy   True HNR: 0.689 Estimated HNR: -0.163
+File: 1717-phrase.npy   True HNR:   1.9 Estimated HNR:  1.74
+File: 1721-phrase.npy   True HNR:   2.8 Estimated HNR:  2.87
+File: 1778-phrase.npy   True HNR:  1.12 Estimated HNR: 0.579
+File: 1811-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1828-phrase.npy   True HNR:  1.47 Estimated HNR:  1.06
+File: 1889-phrase.npy   True HNR:   nan Estimated HNR:  1.34
+File: 1890-phrase.npy   True HNR:  1.93 Estimated HNR:  2.13
+File: 1941-phrase.npy   True HNR:  2.52 Estimated HNR:  2.85
+File: 1946-phrase.npy   True HNR: 0.191 Estimated HNR:   nan
+File: 1963-phrase.npy   True HNR:   2.7 Estimated HNR:  2.43
+File: 2031-phrase.npy   True HNR: -0.484        Estimated HNR: 0.166
+File: 2089-phrase.npy   True HNR: -0.269        Estimated HNR:  2.77
+File: 2098-phrase.npy   True HNR:  1.91 Estimated HNR:  2.72
+File: 2110-phrase.npy   True HNR:   nan Estimated HNR:  2.01
+File: 2112-phrase.npy   True HNR:  1.09 Estimated HNR:  1.63
+File: 2118-phrase.npy   True HNR:  2.85 Estimated HNR:  2.53
+File: 2161-phrase.npy   True HNR:  2.27 Estimated HNR:  2.21
+File: 2188-phrase.npy   True HNR: -1.26 Estimated HNR:  2.76
+File: 2193-phrase.npy   True HNR:  2.19 Estimated HNR: -1.11
+File: 2211-phrase.npy   True HNR: -0.445        Estimated HNR: 0.825
+File: 2271-phrase.npy   True HNR:  2.47 Estimated HNR:  2.65
+File: 2305-phrase.npy   True HNR:  1.84 Estimated HNR:  1.86
+File: 2333-phrase.npy   True HNR:  2.49 Estimated HNR:  2.56
+File: 2344-phrase.npy   True HNR:  2.79 Estimated HNR:  2.44
+File: 2345-phrase.npy   True HNR:  1.94 Estimated HNR:  1.07
+File: 2358-phrase.npy   True HNR:   nan Estimated HNR: -1.01
+File: 2375-phrase.npy   True HNR: 0.879 Estimated HNR: 0.679
+File: 2381-phrase.npy   True HNR: -0.705        Estimated HNR:  1.02
+File: 2411-phrase.npy   True HNR:   nan Estimated HNR:   4.9
+File: 2426-phrase.npy   True HNR:  2.28 Estimated HNR:  2.03
+File: 2449-phrase.npy   True HNR: 0.964 Estimated HNR: 0.762
+File: 2491-phrase.npy   True HNR:  1.92 Estimated HNR:  2.28
+File: 2518-phrase.npy   True HNR:  1.87 Estimated HNR:  2.44
+File: 2573-phrase.npy   True HNR:  1.78 Estimated HNR:  2.06
+File: 2588-phrase.npy   True HNR: 0.499 Estimated HNR:  2.09
+File: 2591-phrase.npy   True HNR:   nan Estimated HNR:  1.23
+File: 2594-phrase.npy   True HNR:  2.81 Estimated HNR:  2.83
+File: 2595-phrase.npy   True HNR:  2.59 Estimated HNR:   nan
+File: 495-phrase.npy    True HNR:   nan Estimated HNR:  2.32
+File: 564-phrase.npy    True HNR:  2.77 Estimated HNR:  2.84
+File: 627-phrase.npy    True HNR: 0.553 Estimated HNR:  1.36
+File: 630-phrase.npy    True HNR:  1.43 Estimated HNR:  1.99
+File: 632-phrase.npy    True HNR:  1.71 Estimated HNR:  1.16
+File: 720-phrase.npy    True HNR: -17.6 Estimated HNR: -0.151
+File: 821-phrase.npy    True HNR:   nan Estimated HNR:  2.68
+File: 886-phrase.npy    True HNR: -1.89 Estimated HNR: 0.625
+File: 889-phrase.npy    True HNR: -0.864        Estimated HNR:   nan
+File: 901-phrase.npy    True HNR:   nan Estimated HNR: -3.54
+
+Av True HNR:  1.77      Av Estimated HNR:  1.96
+Median True HNR:   1.9  Median Estimated HNR:  2.09
+Stddev True HNR: 0.717  Stddev Estimated HNR: 0.695
+
+Rekurrensparese
+File: 1040-phrase.npy   True HNR:   nan Estimated HNR:  2.02
+File: 1049-phrase.npy   True HNR:  2.18 Estimated HNR:  2.51
+File: 105-phrase.npy    True HNR:  2.31 Estimated HNR:   2.4
+File: 1054-phrase.npy   True HNR:   2.4 Estimated HNR:  2.14
+File: 108-phrase.npy    True HNR:   nan Estimated HNR:   2.5
+File: 1120-phrase.npy   True HNR:  2.84 Estimated HNR:  2.85
+File: 1166-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 120-phrase.npy    True HNR: -1.06 Estimated HNR:   1.7
+File: 1206-phrase.npy   True HNR:  2.29 Estimated HNR:   1.8
+File: 1223-phrase.npy   True HNR:  2.05 Estimated HNR:   2.5
+File: 1249-phrase.npy   True HNR:   nan Estimated HNR: -5.44
+File: 1256-phrase.npy   True HNR:  2.47 Estimated HNR:  2.59
+File: 1262-phrase.npy   True HNR: -0.843        Estimated HNR:  1.61
+File: 1263-phrase.npy   True HNR: -6.54 Estimated HNR: -3.26
+File: 1270-phrase.npy   True HNR:  1.24 Estimated HNR:  1.83
+File: 1271-phrase.npy   True HNR:   nan Estimated HNR: 0.984
+File: 1272-phrase.npy   True HNR:  1.57 Estimated HNR:  2.68
+File: 1277-phrase.npy   True HNR:  2.27 Estimated HNR:  2.33
+File: 128-phrase.npy    True HNR:   nan Estimated HNR: -19.3
+File: 1289-phrase.npy   True HNR:  0.23 Estimated HNR:  1.39
+File: 1292-phrase.npy   True HNR: -2.72 Estimated HNR: 0.448
+File: 1293-phrase.npy   True HNR:   nan Estimated HNR: -3.11
+File: 130-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 1304-phrase.npy   True HNR:  2.53 Estimated HNR:   nan
+File: 1314-phrase.npy   True HNR:  1.02 Estimated HNR:  1.12
+File: 1325-phrase.npy   True HNR:  2.24 Estimated HNR:  2.46
+File: 1330-phrase.npy   True HNR: -3.05 Estimated HNR: 0.866
+File: 138-phrase.npy    True HNR: -1.67 Estimated HNR:  1.78
+File: 1382-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1390-phrase.npy   True HNR: -2.05 Estimated HNR: -2.64
+File: 1397-phrase.npy   True HNR:   nan Estimated HNR: -0.193
+File: 1399-phrase.npy   True HNR: 0.198 Estimated HNR: 0.335
+File: 1402-phrase.npy   True HNR:  3.49 Estimated HNR:   nan
+File: 1407-phrase.npy   True HNR: -0.686        Estimated HNR:   nan
+File: 1418-phrase.npy   True HNR:  1.52 Estimated HNR:  2.47
+File: 142-phrase.npy    True HNR: -11.2 Estimated HNR:  1.61
+File: 1424-phrase.npy   True HNR: -8.09 Estimated HNR:  -3.0
+File: 1434-phrase.npy   True HNR: 0.845 Estimated HNR:  2.21
+File: 1437-phrase.npy   True HNR:  3.07 Estimated HNR:  6.65
+File: 1444-phrase.npy   True HNR:  5.22 Estimated HNR:  6.92
+File: 1466-phrase.npy   True HNR:  2.64 Estimated HNR:  2.51
+File: 1470-phrase.npy   True HNR:   nan Estimated HNR: -14.6
+File: 1478-phrase.npy   True HNR: 0.658 Estimated HNR:  2.97
+File: 1484-phrase.npy   True HNR:  2.23 Estimated HNR:   1.6
+File: 1489-phrase.npy   True HNR: -2.48 Estimated HNR:  1.31
+File: 150-phrase.npy    True HNR:  2.77 Estimated HNR:  2.74
+File: 152-phrase.npy    True HNR:  1.79 Estimated HNR:  2.13
+File: 1547-phrase.npy   True HNR:  2.84 Estimated HNR:  2.94
+File: 1548-phrase.npy   True HNR:  2.58 Estimated HNR:  2.65
+File: 1549-phrase.npy   True HNR:   2.1 Estimated HNR:  2.38
+File: 155-phrase.npy    True HNR:  2.84 Estimated HNR:   nan
+File: 1553-phrase.npy   True HNR:   1.9 Estimated HNR:  2.12
+File: 1555-phrase.npy   True HNR: -1.93 Estimated HNR:   nan
+File: 1564-phrase.npy   True HNR:  1.89 Estimated HNR:  2.19
+File: 1570-phrase.npy   True HNR:  6.65 Estimated HNR:  6.79
+File: 1581-phrase.npy   True HNR:   nan Estimated HNR:  2.46
+File: 1601-phrase.npy   True HNR: 0.945 Estimated HNR: -2.52
+File: 1604-phrase.npy   True HNR:   nan Estimated HNR:  2.04
+File: 1620-phrase.npy   True HNR:   nan Estimated HNR:  1.96
+File: 1624-phrase.npy   True HNR: -10.5 Estimated HNR: 0.839
+File: 1626-phrase.npy   True HNR:  2.31 Estimated HNR:  2.28
+File: 1630-phrase.npy   True HNR: -13.6 Estimated HNR: -1.55
+File: 1631-phrase.npy   True HNR: -10.6 Estimated HNR: -3.61
+File: 1638-phrase.npy   True HNR:  2.21 Estimated HNR: -17.4
+File: 1641-phrase.npy   True HNR:  1.17 Estimated HNR:  2.89
+File: 1655-phrase.npy   True HNR:   nan Estimated HNR: 0.427
+File: 1658-phrase.npy   True HNR: 0.224 Estimated HNR:  1.02
+File: 1662-phrase.npy   True HNR: -0.283        Estimated HNR:   2.1
+File: 1664-phrase.npy   True HNR:  1.14 Estimated HNR:  2.02
+File: 1671-phrase.npy   True HNR:  2.46 Estimated HNR:  1.79
+File: 1676-phrase.npy   True HNR:  1.54 Estimated HNR:  2.09
+File: 1683-phrase.npy   True HNR:  1.98 Estimated HNR: -9.55
+File: 1691-phrase.npy   True HNR:  2.48 Estimated HNR:  2.79
+File: 1713-phrase.npy   True HNR:   1.2 Estimated HNR:  1.03
+File: 1722-phrase.npy   True HNR:  2.34 Estimated HNR:   2.4
+File: 1743-phrase.npy   True HNR:  2.41 Estimated HNR:  3.26
+File: 1748-phrase.npy   True HNR: -0.261        Estimated HNR:  1.06
+File: 1755-phrase.npy   True HNR: 0.343 Estimated HNR: 0.117
+File: 1760-phrase.npy   True HNR:   nan Estimated HNR: -0.99
+File: 1776-phrase.npy   True HNR:  1.69 Estimated HNR:  2.56
+File: 1784-phrase.npy   True HNR:  1.71 Estimated HNR:  1.96
+File: 1785-phrase.npy   True HNR:  1.04 Estimated HNR:  2.89
+File: 1788-phrase.npy   True HNR:   2.3 Estimated HNR:  2.62
+File: 1789-phrase.npy   True HNR:  2.58 Estimated HNR:  2.54
+File: 1803-phrase.npy   True HNR:  4.09 Estimated HNR:  7.11
+File: 1818-phrase.npy   True HNR:  2.34 Estimated HNR:  2.86
+File: 1820-phrase.npy   True HNR:  2.66 Estimated HNR:  2.65
+File: 1825-phrase.npy   True HNR:   4.7 Estimated HNR:  4.75
+File: 1826-phrase.npy   True HNR: -6.01 Estimated HNR:   nan
+File: 1829-phrase.npy   True HNR:  1.54 Estimated HNR:  2.95
+File: 1830-phrase.npy   True HNR:  2.52 Estimated HNR:  2.85
+File: 1831-phrase.npy   True HNR: 0.532 Estimated HNR: 0.792
+File: 1832-phrase.npy   True HNR:  2.53 Estimated HNR:  2.61
+File: 1835-phrase.npy   True HNR: -8.85 Estimated HNR: -3.81
+File: 1836-phrase.npy   True HNR:   nan Estimated HNR: -1.91
+File: 1863-phrase.npy   True HNR:   2.7 Estimated HNR:  2.87
+File: 1867-phrase.npy   True HNR:  2.29 Estimated HNR:  2.48
+File: 1892-phrase.npy   True HNR:  2.54 Estimated HNR:  1.21
+File: 1901-phrase.npy   True HNR:   2.0 Estimated HNR:  2.57
+File: 1939-phrase.npy   True HNR:   nan Estimated HNR:  2.27
+File: 1955-phrase.npy   True HNR:  4.65 Estimated HNR:  4.94
+File: 1970-phrase.npy   True HNR:  2.19 Estimated HNR:  2.46
+File: 2002-phrase.npy   True HNR:  2.77 Estimated HNR:  2.76
+File: 2007-phrase.npy   True HNR:  2.28 Estimated HNR:  2.93
+File: 2009-phrase.npy   True HNR:  2.73 Estimated HNR:  2.85
+File: 2014-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2024-phrase.npy   True HNR: 0.233 Estimated HNR: 0.665
+File: 2033-phrase.npy   True HNR: -1.29 Estimated HNR:  1.96
+File: 2058-phrase.npy   True HNR: -0.181        Estimated HNR:   nan
+File: 2072-phrase.npy   True HNR: 0.915 Estimated HNR:  1.41
+File: 2073-phrase.npy   True HNR:  2.07 Estimated HNR:  2.16
+File: 2078-phrase.npy   True HNR:  2.27 Estimated HNR:  2.41
+File: 2083-phrase.npy   True HNR:   2.3 Estimated HNR:  2.24
+File: 2086-phrase.npy   True HNR:   1.7 Estimated HNR:  2.62
+File: 2088-phrase.npy   True HNR:  2.76 Estimated HNR:  2.21
+File: 2100-phrase.npy   True HNR:   2.8 Estimated HNR:   2.8
+File: 2109-phrase.npy   True HNR:  2.33 Estimated HNR:  2.81
+File: 2115-phrase.npy   True HNR: 0.783 Estimated HNR:  2.69
+File: 2148-phrase.npy   True HNR: 0.921 Estimated HNR: -1.55
+File: 2150-phrase.npy   True HNR: 0.781 Estimated HNR:  1.53
+File: 2152-phrase.npy   True HNR: 0.878 Estimated HNR:  1.13
+File: 2153-phrase.npy   True HNR:  2.78 Estimated HNR:  2.93
+File: 2155-phrase.npy   True HNR:  2.63 Estimated HNR:  2.49
+File: 2160-phrase.npy   True HNR:  1.03 Estimated HNR:  1.81
+File: 2182-phrase.npy   True HNR:   nan Estimated HNR: -7.18
+File: 2190-phrase.npy   True HNR:  2.31 Estimated HNR:  2.45
+File: 2192-phrase.npy   True HNR:  2.56 Estimated HNR:  2.83
+File: 2216-phrase.npy   True HNR:   nan Estimated HNR:  2.51
+File: 2218-phrase.npy   True HNR:  2.76 Estimated HNR:  2.68
+File: 2235-phrase.npy   True HNR: -1.12 Estimated HNR: -7.55
+File: 2237-phrase.npy   True HNR: -3.07 Estimated HNR:  1.22
+File: 2243-phrase.npy   True HNR:  2.69 Estimated HNR:  2.72
+File: 2247-phrase.npy   True HNR:  2.51 Estimated HNR:  2.64
+File: 2274-phrase.npy   True HNR:  -2.7 Estimated HNR:  2.24
+File: 2330-phrase.npy   True HNR:  2.26 Estimated HNR:  3.06
+File: 2341-phrase.npy   True HNR:  2.37 Estimated HNR:   2.6
+File: 2342-phrase.npy   True HNR: -14.8 Estimated HNR:  2.75
+File: 2346-phrase.npy   True HNR: -3.88 Estimated HNR: 0.381
+File: 2378-phrase.npy   True HNR:  4.49 Estimated HNR:  4.76
+File: 2393-phrase.npy   True HNR:  2.35 Estimated HNR:  2.51
+File: 2394-phrase.npy   True HNR: -4.03 Estimated HNR:   nan
+File: 2395-phrase.npy   True HNR:  2.82 Estimated HNR:   2.6
+File: 2408-phrase.npy   True HNR:  2.34 Estimated HNR:  2.52
+File: 2414-phrase.npy   True HNR:   nan Estimated HNR:  2.28
+File: 2418-phrase.npy   True HNR:   nan Estimated HNR: -3.58
+File: 2430-phrase.npy   True HNR:  1.59 Estimated HNR:  1.98
+File: 2450-phrase.npy   True HNR:  1.49 Estimated HNR: 0.492
+File: 2455-phrase.npy   True HNR:  2.54 Estimated HNR:  2.53
+File: 2460-phrase.npy   True HNR:  2.76 Estimated HNR:  2.79
+File: 2464-phrase.npy   True HNR: -0.35 Estimated HNR: -0.77
+File: 2465-phrase.npy   True HNR: -1.34 Estimated HNR: 0.0545
+File: 2469-phrase.npy   True HNR:  3.91 Estimated HNR:  5.95
+File: 2476-phrase.npy   True HNR:   nan Estimated HNR: -0.504
+File: 2491-phrase.npy   True HNR:  1.92 Estimated HNR:  2.28
+File: 2493-phrase.npy   True HNR:  2.33 Estimated HNR:  2.24
+File: 2496-phrase.npy   True HNR: -6.32 Estimated HNR:  1.59
+File: 2501-phrase.npy   True HNR:   1.4 Estimated HNR:  1.23
+File: 2507-phrase.npy   True HNR:   1.9 Estimated HNR:  1.43
+File: 2508-phrase.npy   True HNR:  2.87 Estimated HNR:   2.9
+File: 2512-phrase.npy   True HNR:  2.03 Estimated HNR:  2.47
+File: 2527-phrase.npy   True HNR:  2.93 Estimated HNR:  2.71
+File: 2536-phrase.npy   True HNR: -1.23 Estimated HNR:  2.85
+File: 2538-phrase.npy   True HNR:  1.81 Estimated HNR:  2.22
+File: 2539-phrase.npy   True HNR:  2.07 Estimated HNR:  2.53
+File: 2562-phrase.npy   True HNR:  2.27 Estimated HNR:  2.42
+File: 2563-phrase.npy   True HNR: 0.309 Estimated HNR:  2.39
+File: 2564-phrase.npy   True HNR: -2.65 Estimated HNR:  2.25
+File: 2565-phrase.npy   True HNR:  2.04 Estimated HNR:  2.43
+File: 2570-phrase.npy   True HNR:  1.68 Estimated HNR:  1.61
+File: 2581-phrase.npy   True HNR:   3.8 Estimated HNR:  5.85
+File: 352-phrase.npy    True HNR: -0.53 Estimated HNR:   2.3
+File: 356-phrase.npy    True HNR:   3.2 Estimated HNR:  3.49
+File: 358-phrase.npy    True HNR:  1.81 Estimated HNR:  2.28
+File: 362-phrase.npy    True HNR:   2.4 Estimated HNR:  2.67
+File: 364-phrase.npy    True HNR:   2.3 Estimated HNR: -4.06
+File: 365-phrase.npy    True HNR:  2.33 Estimated HNR:  2.39
+File: 448-phrase.npy    True HNR:  2.49 Estimated HNR:  1.14
+File: 450-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 492-phrase.npy    True HNR: -2.65 Estimated HNR:   nan
+File: 565-phrase.npy    True HNR:  2.68 Estimated HNR:  2.78
+File: 627-phrase.npy    True HNR: 0.553 Estimated HNR:  1.36
+File: 629-phrase.npy    True HNR:  1.44 Estimated HNR:   nan
+File: 632-phrase.npy    True HNR:  1.71 Estimated HNR:  1.16
+File: 633-phrase.npy    True HNR: -0.268        Estimated HNR: 0.941
+File: 670-phrase.npy    True HNR: 0.389 Estimated HNR:  0.96
+File: 671-phrase.npy    True HNR:  2.35 Estimated HNR:  2.56
+File: 712-phrase.npy    True HNR:  1.12 Estimated HNR:  2.18
+File: 716-phrase.npy    True HNR:  2.73 Estimated HNR:  2.73
+File: 725-phrase.npy    True HNR:  1.14 Estimated HNR:  1.71
+File: 726-phrase.npy    True HNR:  2.18 Estimated HNR:  2.51
+File: 728-phrase.npy    True HNR:   nan Estimated HNR: 0.598
+File: 825-phrase.npy    True HNR:   nan Estimated HNR:  1.98
+File: 849-phrase.npy    True HNR:  2.08 Estimated HNR:   nan
+File: 855-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 859-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 864-phrase.npy    True HNR: 0.586 Estimated HNR:  1.87
+File: 869-phrase.npy    True HNR:  1.58 Estimated HNR:  2.33
+File: 874-phrase.npy    True HNR: -1.67 Estimated HNR:  1.16
+File: 879-phrase.npy    True HNR:  2.01 Estimated HNR:  2.47
+File: 880-phrase.npy    True HNR:  2.25 Estimated HNR:  2.51
+File: 883-phrase.npy    True HNR: 0.0297        Estimated HNR:  2.53
+File: 887-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 893-phrase.npy    True HNR:  1.49 Estimated HNR:   1.2
+File: 896-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 897-phrase.npy    True HNR: -4.97 Estimated HNR:   nan
+File: 908-phrase.npy    True HNR:  2.68 Estimated HNR:   nan
+File: 912-phrase.npy    True HNR:  2.68 Estimated HNR:  2.71
+File: 914-phrase.npy    True HNR:  2.98 Estimated HNR: 0.302
+File: 924-phrase.npy    True HNR:  2.58 Estimated HNR:  2.41
+File: 926-phrase.npy    True HNR:  2.11 Estimated HNR:  2.53
+File: 928-phrase.npy    True HNR:  2.01 Estimated HNR:  2.48
+File: 929-phrase.npy    True HNR:  1.97 Estimated HNR:  2.21
+
+Av True HNR:  2.13      Av Estimated HNR:  2.49
+Median True HNR:  2.27  Median Estimated HNR:  2.48
+Stddev True HNR:   1.0  Stddev Estimated HNR:  1.16
+
+Rhinophonie aperta
+File: 1115-phrase.npy   True HNR:  2.77 Estimated HNR:   2.7
+File: 1251-phrase.npy   True HNR:  2.24 Estimated HNR:  2.59
+File: 1323-phrase.npy   True HNR:  2.16 Estimated HNR:  2.95
+File: 1430-phrase.npy   True HNR:  2.83 Estimated HNR:  2.89
+File: 1452-phrase.npy   True HNR:   2.5 Estimated HNR:  1.81
+File: 147-phrase.npy    True HNR:  1.77 Estimated HNR:  2.27
+File: 1911-phrase.npy   True HNR:  2.52 Estimated HNR:  2.52
+File: 1933-phrase.npy   True HNR:  1.78 Estimated HNR:  2.77
+File: 2140-phrase.npy   True HNR:  2.65 Estimated HNR:  2.48
+File: 2294-phrase.npy   True HNR:  5.47 Estimated HNR:  8.17
+File: 2353-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2368-phrase.npy   True HNR:  2.71 Estimated HNR:  2.71
+File: 2513-phrase.npy   True HNR:   nan Estimated HNR:  1.74
+File: 447-phrase.npy    True HNR:  2.75 Estimated HNR:  2.83
+File: 693-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 927-phrase.npy    True HNR:  2.09 Estimated HNR:  2.24
+File: 938-phrase.npy    True HNR:  1.45 Estimated HNR:  1.12
+
+Av True HNR:  2.55      Av Estimated HNR:  2.86
+Median True HNR:  2.51  Median Estimated HNR:  2.65
+Stddev True HNR:  0.91  Stddev Estimated HNR:  1.55
+
+Rhinophonie clausa
+File: 1085-phrase.npy   True HNR:  2.34 Estimated HNR:  2.04
+
+Av True HNR:  2.34      Av Estimated HNR:  2.04
+Median True HNR:  2.34  Median Estimated HNR:  2.04
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Rhinophonie mixta
+File: 853-phrase.npy    True HNR: -0.594        Estimated HNR:  2.17
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Sangerstimme
+File: 118-phrase.npy    True HNR: 0.859 Estimated HNR:   2.3
+File: 1980-phrase.npy   True HNR: 0.135 Estimated HNR:  1.85
+
+Av True HNR: 0.497      Av Estimated HNR:  2.08
+Median True HNR: 0.497  Median Estimated HNR:  2.08
+Stddev True HNR: 0.362  Stddev Estimated HNR: 0.226
+
+Sigmatismus
+File: 1196-phrase.npy   True HNR: 0.489 Estimated HNR:   nan
+File: 1378-phrase.npy   True HNR:   nan Estimated HNR:  2.86
+File: 1491-phrase.npy   True HNR: -4.12 Estimated HNR: 0.441
+File: 2558-phrase.npy   True HNR:   2.7 Estimated HNR:  2.51
+
+Av True HNR:   2.7      Av Estimated HNR:  2.51
+Median True HNR:   2.7  Median Estimated HNR:  2.51
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Spasmodische Dysphonie
+File: 143-phrase.npy    True HNR: 0.0416        Estimated HNR:  1.32
+File: 1438-phrase.npy   True HNR: -1.12 Estimated HNR:  2.38
+File: 1482-phrase.npy   True HNR: -1.27 Estimated HNR:   nan
+File: 1565-phrase.npy   True HNR:  2.45 Estimated HNR:  2.24
+File: 1652-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1666-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1672-phrase.npy   True HNR:  2.53 Estimated HNR:  1.81
+File: 1677-phrase.npy   True HNR:  2.75 Estimated HNR:  2.48
+File: 1679-phrase.npy   True HNR:  2.44 Estimated HNR:  2.39
+File: 1689-phrase.npy   True HNR:  2.03 Estimated HNR:  2.64
+File: 1723-phrase.npy   True HNR:   2.3 Estimated HNR:  2.42
+File: 1752-phrase.npy   True HNR:  1.47 Estimated HNR:  1.58
+File: 1757-phrase.npy   True HNR:   nan Estimated HNR:  0.51
+File: 1762-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1763-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1769-phrase.npy   True HNR:  2.25 Estimated HNR:  2.01
+File: 1770-phrase.npy   True HNR:  2.14 Estimated HNR:  2.33
+File: 1782-phrase.npy   True HNR:  2.04 Estimated HNR:  2.24
+File: 1790-phrase.npy   True HNR:  2.58 Estimated HNR:  2.59
+File: 1797-phrase.npy   True HNR:  2.37 Estimated HNR:  2.43
+File: 1804-phrase.npy   True HNR: -0.168        Estimated HNR:  1.59
+File: 1807-phrase.npy   True HNR:  1.79 Estimated HNR:   2.3
+File: 1817-phrase.npy   True HNR:   nan Estimated HNR:  1.13
+File: 1821-phrase.npy   True HNR:  2.45 Estimated HNR:  2.65
+File: 1834-phrase.npy   True HNR:   nan Estimated HNR:  1.26
+File: 1869-phrase.npy   True HNR:  1.11 Estimated HNR:  1.87
+File: 1902-phrase.npy   True HNR: -0.716        Estimated HNR:   nan
+File: 1908-phrase.npy   True HNR:  1.67 Estimated HNR:  2.28
+File: 1909-phrase.npy   True HNR:  1.44 Estimated HNR:   2.9
+File: 1914-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1937-phrase.npy   True HNR:  1.82 Estimated HNR:  3.04
+File: 1938-phrase.npy   True HNR:  1.74 Estimated HNR:  2.43
+File: 1945-phrase.npy   True HNR:   1.4 Estimated HNR:  1.64
+File: 1950-phrase.npy   True HNR: 0.549 Estimated HNR:  1.27
+File: 1960-phrase.npy   True HNR:  2.18 Estimated HNR:  2.86
+File: 1961-phrase.npy   True HNR:  2.16 Estimated HNR:   1.9
+File: 1972-phrase.npy   True HNR: 0.518 Estimated HNR:  1.89
+File: 1992-phrase.npy   True HNR:  1.09 Estimated HNR:   nan
+File: 1994-phrase.npy   True HNR:   nan Estimated HNR:  2.88
+File: 1998-phrase.npy   True HNR:  2.23 Estimated HNR:  2.29
+File: 2008-phrase.npy   True HNR:  2.87 Estimated HNR:  2.73
+File: 2010-phrase.npy   True HNR: -3.06 Estimated HNR:  2.38
+File: 2022-phrase.npy   True HNR:  1.88 Estimated HNR:  2.14
+File: 2023-phrase.npy   True HNR:  1.93 Estimated HNR: 0.0782
+File: 2030-phrase.npy   True HNR:  1.44 Estimated HNR:  1.88
+File: 2082-phrase.npy   True HNR:  1.21 Estimated HNR:  2.27
+File: 2141-phrase.npy   True HNR:   3.1 Estimated HNR:  2.37
+File: 2158-phrase.npy   True HNR: 0.599 Estimated HNR:  1.67
+File: 2159-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2194-phrase.npy   True HNR:  1.97 Estimated HNR:  1.32
+File: 2227-phrase.npy   True HNR:  2.78 Estimated HNR:  2.04
+File: 2234-phrase.npy   True HNR:  2.96 Estimated HNR:  2.53
+File: 2273-phrase.npy   True HNR:   nan Estimated HNR:   1.8
+File: 2304-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2320-phrase.npy   True HNR:  1.97 Estimated HNR:   1.0
+File: 2352-phrase.npy   True HNR: -4.94 Estimated HNR:   nan
+File: 2361-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2396-phrase.npy   True HNR:  1.93 Estimated HNR:  3.38
+File: 2397-phrase.npy   True HNR: 0.738 Estimated HNR:  1.02
+File: 2440-phrase.npy   True HNR: -5.35 Estimated HNR:  8.69
+File: 2485-phrase.npy   True HNR:  1.83 Estimated HNR:  1.61
+File: 2560-phrase.npy   True HNR:  1.02 Estimated HNR:   2.1
+File: 665-phrase.npy    True HNR:  2.87 Estimated HNR:  2.91
+File: 901-phrase.npy    True HNR:   nan Estimated HNR: -3.54
+
+Av True HNR:  1.89      Av Estimated HNR:  2.12
+Median True HNR:  1.97  Median Estimated HNR:  2.26
+Stddev True HNR: 0.717  Stddev Estimated HNR: 0.621
+
+Stimmlippenkarzinom
+File: 1048-phrase.npy   True HNR: 0.294 Estimated HNR: -0.188
+File: 110-phrase.npy    True HNR:  1.35 Estimated HNR:  1.49
+File: 1239-phrase.npy   True HNR:  0.49 Estimated HNR:  2.31
+File: 1245-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1247-phrase.npy   True HNR:   nan Estimated HNR: -1.64
+File: 1273-phrase.npy   True HNR: -1.92 Estimated HNR:  2.21
+File: 1332-phrase.npy   True HNR:  2.05 Estimated HNR: -14.7
+File: 1341-phrase.npy   True HNR:  1.52 Estimated HNR:  1.02
+File: 1383-phrase.npy   True HNR:   nan Estimated HNR:  2.22
+File: 1391-phrase.npy   True HNR:  1.37 Estimated HNR:  2.08
+File: 1403-phrase.npy   True HNR:  2.68 Estimated HNR:  1.11
+File: 1416-phrase.npy   True HNR:  1.75 Estimated HNR:  1.96
+File: 1428-phrase.npy   True HNR:  1.32 Estimated HNR:  2.68
+File: 1451-phrase.npy   True HNR:  2.08 Estimated HNR:  2.58
+File: 1458-phrase.npy   True HNR:  2.62 Estimated HNR:  2.69
+File: 1465-phrase.npy   True HNR:  1.56 Estimated HNR:  2.14
+File: 1545-phrase.npy   True HNR:  2.61 Estimated HNR:   nan
+File: 1714-phrase.npy   True HNR: -1.87 Estimated HNR: -0.0932
+File: 2343-phrase.npy   True HNR:   nan Estimated HNR: 0.0101
+File: 2467-phrase.npy   True HNR:  1.73 Estimated HNR:  2.24
+File: 500-phrase.npy    True HNR:   nan Estimated HNR:  2.82
+File: 742-phrase.npy    True HNR:  1.74 Estimated HNR:   1.1
+
+Av True HNR:  1.68      Av Estimated HNR:  1.95
+Median True HNR:  1.65  Median Estimated HNR:  2.11
+Stddev True HNR: 0.566  Stddev Estimated HNR: 0.595
+
+Stimmlippenpolyp
+File: 1052-phrase.npy   True HNR:  1.11 Estimated HNR: -1.17
+File: 109-phrase.npy    True HNR:   nan Estimated HNR:  2.14
+File: 1157-phrase.npy   True HNR: -0.281        Estimated HNR: 0.382
+File: 1164-phrase.npy   True HNR:   nan Estimated HNR: -0.525
+File: 1188-phrase.npy   True HNR:  2.27 Estimated HNR:  1.93
+File: 131-phrase.npy    True HNR:  2.34 Estimated HNR:   2.4
+File: 1317-phrase.npy   True HNR: -15.8 Estimated HNR:   nan
+File: 1334-phrase.npy   True HNR:   2.0 Estimated HNR:  1.97
+File: 1386-phrase.npy   True HNR:  1.79 Estimated HNR:  2.49
+File: 1389-phrase.npy   True HNR:  2.44 Estimated HNR:  2.37
+File: 1433-phrase.npy   True HNR:  2.79 Estimated HNR:  2.87
+File: 1525-phrase.npy   True HNR:   1.8 Estimated HNR:  2.09
+File: 1576-phrase.npy   True HNR:  1.86 Estimated HNR: 0.875
+File: 1621-phrase.npy   True HNR:  2.52 Estimated HNR:  2.31
+File: 1622-phrase.npy   True HNR: -2.28 Estimated HNR:   nan
+File: 1639-phrase.npy   True HNR: -5.25 Estimated HNR: -0.143
+File: 1719-phrase.npy   True HNR:  1.92 Estimated HNR:   1.8
+File: 1722-phrase.npy   True HNR:  2.34 Estimated HNR:   2.4
+File: 1749-phrase.npy   True HNR: -1.91 Estimated HNR: -3.79
+File: 1764-phrase.npy   True HNR: -4.19 Estimated HNR:  2.63
+File: 1779-phrase.npy   True HNR:  2.02 Estimated HNR:  2.58
+File: 1890-phrase.npy   True HNR:  1.93 Estimated HNR:  2.13
+File: 1957-phrase.npy   True HNR:  2.71 Estimated HNR:  1.45
+File: 2005-phrase.npy   True HNR:  2.78 Estimated HNR:  2.98
+File: 2056-phrase.npy   True HNR: -2.28 Estimated HNR:   nan
+File: 2090-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 2099-phrase.npy   True HNR: -2.03 Estimated HNR:  1.37
+File: 2157-phrase.npy   True HNR:  2.37 Estimated HNR:  2.66
+File: 2300-phrase.npy   True HNR:  2.14 Estimated HNR:  2.52
+File: 2303-phrase.npy   True HNR:  1.05 Estimated HNR:  1.93
+File: 2466-phrase.npy   True HNR:   nan Estimated HNR:  2.59
+File: 2518-phrase.npy   True HNR:  1.87 Estimated HNR:  2.44
+File: 2525-phrase.npy   True HNR:   nan Estimated HNR:  2.78
+File: 2557-phrase.npy   True HNR:  2.27 Estimated HNR:  2.29
+File: 2572-phrase.npy   True HNR:  2.09 Estimated HNR:  2.24
+File: 2587-phrase.npy   True HNR: 0.856 Estimated HNR:  2.67
+File: 2592-phrase.npy   True HNR:  2.55 Estimated HNR:  2.57
+File: 491-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 501-phrase.npy    True HNR:  2.01 Estimated HNR:  2.55
+File: 504-phrase.npy    True HNR:   nan Estimated HNR:  5.53
+File: 562-phrase.npy    True HNR:  2.47 Estimated HNR:  2.66
+File: 720-phrase.npy    True HNR: -17.6 Estimated HNR: -0.151
+File: 859-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 895-phrase.npy    True HNR:  1.35 Estimated HNR: 0.344
+File: 932-phrase.npy    True HNR: -0.0807       Estimated HNR:  2.24
+
+Av True HNR:   2.1      Av Estimated HNR:  2.21
+Median True HNR:  2.11  Median Estimated HNR:  2.38
+Stddev True HNR: 0.472  Stddev Estimated HNR: 0.576
+
+Synechie
+File: 1162-phrase.npy   True HNR:  1.89 Estimated HNR:   nan
+File: 2183-phrase.npy   True HNR:   nan Estimated HNR:   nan
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Taschenfaltenhyperplasie
+File: 1386-phrase.npy   True HNR:  1.79 Estimated HNR:  2.49
+File: 2089-phrase.npy   True HNR: -0.269        Estimated HNR:  2.77
+
+Av True HNR:  1.79      Av Estimated HNR:  2.49
+Median True HNR:  1.79  Median Estimated HNR:  2.49
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Taschenfaltenstimme
+File: 1084-phrase.npy   True HNR: 0.109 Estimated HNR:   nan
+File: 1163-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1429-phrase.npy   True HNR: -2.05 Estimated HNR:  2.11
+File: 1467-phrase.npy   True HNR:   nan Estimated HNR:   nan
+File: 1486-phrase.npy   True HNR:  2.44 Estimated HNR:   nan
+File: 1625-phrase.npy   True HNR:   nan Estimated HNR:  2.75
+File: 2029-phrase.npy   True HNR: -3.64 Estimated HNR: -0.0285
+File: 2380-phrase.npy   True HNR: 0.071 Estimated HNR:  1.04
+File: 2400-phrase.npy   True HNR: -4.14 Estimated HNR:   nan
+File: 2458-phrase.npy   True HNR:   1.5 Estimated HNR:  0.89
+File: 719-phrase.npy    True HNR: -17.7 Estimated HNR:   nan
+
+Av True HNR: 0.784      Av Estimated HNR: 0.963
+Median True HNR: 0.784  Median Estimated HNR: 0.963
+Stddev True HNR: 0.713  Stddev Estimated HNR: 0.0728
+
+Valleculacyste
+File: 1302-phrase.npy   True HNR: -1.36 Estimated HNR: 0.968
+
+Av True HNR:   nan      Av Estimated HNR:   nan
+Median True HNR:   nan  Median Estimated HNR:   nan
+Stddev True HNR:   nan  Stddev Estimated HNR:   nan
+
+Velopharyngoplastik
+File: 111-phrase.npy    True HNR: -0.0103       Estimated HNR:   nan
+File: 1115-phrase.npy   True HNR:  2.77 Estimated HNR:   2.7
+
+Av True HNR:  2.77      Av Estimated HNR:   2.7
+Median True HNR:  2.77  Median Estimated HNR:   2.7
+Stddev True HNR:   0.0  Stddev Estimated HNR:   0.0
+
+Vox senilis
+File: 1039-phrase.npy   True HNR:   1.7 Estimated HNR:  1.49
+File: 1159-phrase.npy   True HNR:  2.64 Estimated HNR:  2.65
+File: 1197-phrase.npy   True HNR:  2.77 Estimated HNR:  2.64
+File: 1203-phrase.npy   True HNR: 0.366 Estimated HNR:  1.73
+File: 1220-phrase.npy   True HNR:  2.74 Estimated HNR:  2.65
+File: 1268-phrase.npy   True HNR:  2.88 Estimated HNR:  2.89
+File: 1338-phrase.npy   True HNR: -2.86 Estimated HNR: -6.48
+File: 1478-phrase.npy   True HNR: 0.658 Estimated HNR:  2.97
+File: 148-phrase.npy    True HNR:  2.53 Estimated HNR:  2.78
+File: 1636-phrase.npy   True HNR:   nan Estimated HNR:  1.83
+File: 1694-phrase.npy   True HNR:  9.27 Estimated HNR:  8.96
+File: 1772-phrase.npy   True HNR:  2.43 Estimated HNR:   1.9
+File: 1819-phrase.npy   True HNR:  2.54 Estimated HNR:  1.52
+File: 1971-phrase.npy   True HNR:  2.45 Estimated HNR:   2.2
+File: 2003-phrase.npy   True HNR:  1.38 Estimated HNR:  2.74
+File: 2055-phrase.npy   True HNR:  2.66 Estimated HNR:  2.62
+File: 2097-phrase.npy   True HNR:  1.98 Estimated HNR:  2.56
+File: 2110-phrase.npy   True HNR:   nan Estimated HNR:  2.01
+File: 2121-phrase.npy   True HNR:  2.48 Estimated HNR:   2.2
+File: 2303-phrase.npy   True HNR:  1.05 Estimated HNR:  1.93
+File: 2307-phrase.npy   True HNR:  2.81 Estimated HNR:  2.95
+File: 2319-phrase.npy   True HNR:  2.72 Estimated HNR:  2.86
+File: 2377-phrase.npy   True HNR:  1.85 Estimated HNR:  2.65
+File: 2415-phrase.npy   True HNR:  2.43 Estimated HNR:  2.53
+File: 2421-phrase.npy   True HNR: -0.158        Estimated HNR: 0.952
+File: 2509-phrase.npy   True HNR:  1.19 Estimated HNR:  2.59
+File: 2515-phrase.npy   True HNR:  1.88 Estimated HNR:  2.34
+File: 2522-phrase.npy   True HNR:  1.94 Estimated HNR:  2.86
+File: 2564-phrase.npy   True HNR: -2.65 Estimated HNR:  2.25
+File: 2569-phrase.npy   True HNR:  2.36 Estimated HNR:  2.29
+File: 2596-phrase.npy   True HNR:  2.54 Estimated HNR:  2.52
+File: 2601-phrase.npy   True HNR: -0.631        Estimated HNR:  2.16
+File: 360-phrase.npy    True HNR:  1.39 Estimated HNR:  1.76
+File: 612-phrase.npy    True HNR:  2.37 Estimated HNR:   nan
+File: 816-phrase.npy    True HNR: 0.643 Estimated HNR:  1.66
+File: 818-phrase.npy    True HNR: 0.574 Estimated HNR:  2.23
+File: 826-phrase.npy    True HNR:  0.63 Estimated HNR:  1.56
+File: 846-phrase.npy    True HNR:   nan Estimated HNR:   nan
+File: 899-phrase.npy    True HNR:  2.23 Estimated HNR:  2.64
+File: 933-phrase.npy    True HNR: 0.0946        Estimated HNR: 0.889
+
+Av True HNR:  2.12      Av Estimated HNR:  2.52
+Median True HNR:  2.29  Median Estimated HNR:  2.55
+Stddev True HNR:  1.53  Stddev Estimated HNR:  1.26
+
+Zentral-laryngale Bewegungsstorung
+File: 1381-phrase.npy   True HNR:  2.87 Estimated HNR:  2.85
+File: 1398-phrase.npy   True HNR:  2.81 Estimated HNR:   nan
+File: 1654-phrase.npy   True HNR:  3.01 Estimated HNR:  2.71
+File: 1831-phrase.npy   True HNR: 0.532 Estimated HNR: 0.792
+File: 1907-phrase.npy   True HNR:  2.69 Estimated HNR:  2.51
+File: 1943-phrase.npy   True HNR:  2.28 Estimated HNR:  2.77
+File: 2001-phrase.npy   True HNR:  2.71 Estimated HNR:  1.29
+File: 2063-phrase.npy   True HNR:   nan Estimated HNR:  1.79
+File: 2095-phrase.npy   True HNR: 0.196 Estimated HNR: -3.05
+File: 2214-phrase.npy   True HNR:   2.2 Estimated HNR:  2.38
+File: 2376-phrase.npy   True HNR:  2.64 Estimated HNR:   2.8
+File: 2451-phrase.npy   True HNR:  2.03 Estimated HNR:  2.58
+File: 2599-phrase.npy   True HNR:  2.79 Estimated HNR:  2.49
+File: 359-phrase.npy    True HNR:  2.45 Estimated HNR:  2.83
+
+Av True HNR:  2.38      Av Estimated HNR:  2.36
+Median True HNR:  2.64  Median Estimated HNR:  2.58
+Stddev True HNR: 0.651  Stddev Estimated HNR: 0.648
