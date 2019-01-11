@@ -60,6 +60,21 @@ def parse():
         type=str,
         help="File to visualize",
     )
+    parser.add_argument(
+        "-s",
+        "--save",
+        dest="save",
+        nargs="?",
+        help="specifies if and where to save the output figure, specifying without an output file will save in figure.png",
+        const="figure.png",
+    )
+    parser.add_argument(
+        "-no",
+        "--no-show",
+        dest="noshow",
+        action="store_true",
+        help="whether not to display the generated figure (False by default)",
+    )
     return parser.parse_args()
 
 
@@ -89,22 +104,26 @@ def main():
     ax = plt.subplot(211)
     plt.plot(speech[region], "k", label="Speech Waveform")
     plt.ylabel("Amplitude")
+    plt.legend()
 
     plt.subplot(212, sharex=ax)
     plt.plot(true_egg[region], "k", label="Ground Truth EGG")
     plt.plot(estimated_egg[region], "b", label="Estimated EGG")
     plt.xlabel("Sample Number")
     plt.ylabel("Amplitude")
+    plt.legend()
 
     plt.subplots_adjust(
         top=0.962, bottom=0.087, left=0.057, right=0.981, hspace=0.212, wspace=0.2
     )
 
-    mng = plt.get_current_fig_manager()
-    mng.window.showMaximized()
+    if not args.noshow:
+        mng = plt.get_current_fig_manager()
+        mng.window.showMaximized()
+        plt.show()
 
-    plt.show()
-    # fig.savefig("images/speech_egg.png")
+    if args.save:
+        fig.savefig(args.save)
 
 
 if __name__ == "__main__":
