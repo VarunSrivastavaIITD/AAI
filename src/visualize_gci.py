@@ -4,9 +4,7 @@ import warnings
 
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
-from scipy.signal import butter, filtfilt, find_peaks_cwt, medfilt
-from utils import positions2onehot, detrend, smooth
+from utils import detrend, minmaxnormalize, positions2onehot
 from extract_metrics import (
     geneggfilter,
     genegg_process,
@@ -15,7 +13,6 @@ from extract_metrics import (
     detectgenwaveletgci,
     detectgroundwaveletgci,
     detect_voiced_region,
-    extract_gci_metrics,
     corrected_naylor_metrics,
 )
 
@@ -73,8 +70,8 @@ def main():
     rawground, rawgen = eground, egen
     voicedground, voicedgen = detect_voiced_region(rawground, rawgen)
 
-    voicedground = voicedground / np.max(np.abs(voicedground))
-    voicedgen = voicedgen / np.max(np.abs(voicedgen))
+    voicedground = minmaxnormalize(voicedground)
+    voicedgen = minmaxnormalize(voicedgen)
 
     eground, egen = detect_voiced_region(eground, egen)
     eground, egen = groundeggfilter(eground), geneggfilter(egen)
@@ -91,7 +88,8 @@ def main():
     peaksgen = positions2onehot(peaksposgen, egen.shape)
     assert len(peaksgen) == len(peaksground)
 
-    metrics = corrected_naylor_metrics(peaksposground / 16e3, peaksposgen / 16e3)
+    fs = 16e3
+    metrics = corrected_naylor_metrics(peaksposground / fs, peaksposgen / fs)
 
     idr = metrics["identification_rate"]
     msr = metrics["miss_rate"]
@@ -104,7 +102,6 @@ def main():
 
     hits = metrics["hits"]
     hits, hit_distances = zip(*hits)
-    fs = 16e3
     hits = np.array(hits).squeeze() * fs
     misses = np.array(metrics["misses"]).squeeze() * fs
     fars = np.array(metrics["fars"]).squeeze() * fs
