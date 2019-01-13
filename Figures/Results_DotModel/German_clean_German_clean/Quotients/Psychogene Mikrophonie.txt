@@ -1,0 +1,3 @@
+1316-phrase.npy: CQ_true: 0.486  CQ_estimated: 0.465     OQ_true: 0.514  OQ_estimated: 0.535     SQ_true:  2.2   SQ_estimated: 2.78
+
+CQ_true:0.4864 CQ_estimated:0.4655 OQ_true:0.5136 OQ_estimated:0.5345 SQ_true:2.202 SQ_estimated:2.775

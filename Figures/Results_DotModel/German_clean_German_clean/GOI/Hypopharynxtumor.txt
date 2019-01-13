@@ -1,0 +1,8 @@
+731-phrase.npy: IDR: 93.09%      MR: 4.79%       FAR: 2.13%      IDA: 0.246 ms
+1560-phrase.npy: IDR: 96.49%     MR: 1.17%       FAR: 2.34%      IDA: 0.320 ms
+1439-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.129 ms
+1773-phrase.npy: IDR: 96.71%     MR: 2.63%       FAR: 0.66%      IDA: 0.178 ms
+1814-phrase.npy: IDR: 98.68%     MR: 1.32%       FAR: 0.00%      IDA: 0.109 ms
+2402-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.263 ms
+
+identification_rate:0.975 miss_rate:0.01651 false_alarm_rate:0.008541 identification_accuracy:0.0002076

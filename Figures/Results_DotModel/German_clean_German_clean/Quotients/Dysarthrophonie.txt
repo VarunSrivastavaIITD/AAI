@@ -1,0 +1,21 @@
+921-phrase.npy: CQ_true: 0.41    CQ_estimated: 0.364     OQ_true: 0.59   OQ_estimated: 0.636     SQ_true: 2.58   SQ_estimated: 2.05
+1199-phrase.npy: CQ_true: 0.421  CQ_estimated: 0.405     OQ_true: 0.579  OQ_estimated: 0.595     SQ_true: 2.78   SQ_estimated: 2.27
+1242-phrase.npy: CQ_true: 0.381  CQ_estimated: 0.36      OQ_true: 0.619  OQ_estimated: 0.64      SQ_true: 1.17   SQ_estimated: 1.18
+2001-phrase.npy: CQ_true: 0.488  CQ_estimated: 0.427     OQ_true: 0.512  OQ_estimated: 0.573     SQ_true: 2.42   SQ_estimated: 1.92
+1772-phrase.npy: CQ_true: 0.464  CQ_estimated: 0.418     OQ_true: 0.536  OQ_estimated: 0.582     SQ_true: 2.49   SQ_estimated: 2.18
+1948-phrase.npy: CQ_true: 0.419  CQ_estimated: 0.409     OQ_true: 0.581  OQ_estimated: 0.591     SQ_true: 1.42   SQ_estimated: 1.71
+2057-phrase.npy: CQ_true: 0.463  CQ_estimated: 0.425     OQ_true: 0.537  OQ_estimated: 0.575     SQ_true: 2.79   SQ_estimated:  2.0
+2094-phrase.npy: CQ_true: 0.415  CQ_estimated: 0.427     OQ_true: 0.585  OQ_estimated: 0.573     SQ_true: 2.09   SQ_estimated: 2.13
+1943-phrase.npy: CQ_true: 0.467  CQ_estimated: 0.454     OQ_true: 0.533  OQ_estimated: 0.546     SQ_true: 2.29   SQ_estimated: 1.96
+2032-phrase.npy: CQ_true: 0.53   CQ_estimated: 0.51      OQ_true: 0.47   OQ_estimated: 0.49      SQ_true: 1.94   SQ_estimated:  1.7
+2223-phrase.npy: CQ_true: 0.374  CQ_estimated: 0.385     OQ_true: 0.626  OQ_estimated: 0.615     SQ_true: 1.38   SQ_estimated: 1.55
+2113-phrase.npy: CQ_true: 0.485  CQ_estimated: 0.422     OQ_true: 0.515  OQ_estimated: 0.578     SQ_true: 2.49   SQ_estimated: 1.69
+2332-phrase.npy: CQ_true: 0.422  CQ_estimated: 0.373     OQ_true: 0.578  OQ_estimated: 0.627     SQ_true: 1.46   SQ_estimated: 1.75
+2130-phrase.npy: CQ_true: 0.429  CQ_estimated: 0.408     OQ_true: 0.571  OQ_estimated: 0.592     SQ_true: 2.23   SQ_estimated: 1.93
+2295-phrase.npy: CQ_true: 0.444  CQ_estimated: 0.39      OQ_true: 0.556  OQ_estimated: 0.61      SQ_true: 2.29   SQ_estimated: 1.79
+2355-phrase.npy: CQ_true: 0.44   CQ_estimated:  0.4      OQ_true: 0.56   OQ_estimated:  0.6      SQ_true: 2.15   SQ_estimated: 1.89
+2390-phrase.npy: CQ_true: 0.365  CQ_estimated: 0.347     OQ_true: 0.635  OQ_estimated: 0.653     SQ_true: 1.17   SQ_estimated: 1.16
+2334-phrase.npy: CQ_true: 0.503  CQ_estimated: 0.431     OQ_true: 0.497  OQ_estimated: 0.569     SQ_true: 2.58   SQ_estimated: 2.38
+2329-phrase.npy: CQ_true: 0.482  CQ_estimated: 0.427     OQ_true: 0.518  OQ_estimated: 0.573     SQ_true: 2.23   SQ_estimated:  2.1
+
+CQ_true:0.4422 CQ_estimated:0.4096 OQ_true:0.5578 OQ_estimated:0.5904 SQ_true:2.102 SQ_estimated: 1.86
