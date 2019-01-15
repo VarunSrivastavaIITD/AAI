@@ -14,7 +14,7 @@ with open(csvfile) as csvfile:
         results.append(row)
 
 
-csvfile = "MultispeakerResults.csv"
+csvfile = "adv_results.csv"
 yolo_results = []
 with open(csvfile) as csvfile:
     readCSV = csv.reader(csvfile, delimiter=",")
@@ -123,7 +123,7 @@ for i in range(3):
     index = 5 * np.arange(6)
     plt.plot(index, IDR_babble[:, i], label=names[i])
 
-plt.plot(index, IDR_YOLO_babble, label="YOLO")
+plt.plot(index, IDR_YOLO_babble, label="AAI")
 plt.xlabel("SNR")
 plt.ylabel("IDR")
 plt.title("IDR for Babble Noise")
