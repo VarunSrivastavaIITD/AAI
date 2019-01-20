@@ -1,0 +1,12 @@
+349-phrase.npy: IDR: 74.14%      MR: 10.34%      FAR: 15.52%     IDA: 2.100 ms
+147-phrase.npy: IDR: 93.48%      MR: 3.62%       FAR: 2.90%      IDA: 1.072 ms
+814-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.144 ms
+1231-phrase.npy: IDR: 99.38%     MR: 0.00%       FAR: 0.62%      IDA: 0.129 ms
+1298-phrase.npy: IDR: 94.16%     MR: 0.00%       FAR: 5.84%      IDA: 0.113 ms
+1411-phrase.npy: IDR: 99.33%     MR: 0.00%       FAR: 0.67%      IDA: 0.116 ms
+1556-phrase.npy: IDR: 98.18%     MR: 0.61%       FAR: 1.21%      IDA: 0.116 ms
+2004-phrase.npy: IDR: 96.60%     MR: 0.00%       FAR: 3.40%      IDA: 0.091 ms
+2017-phrase.npy: IDR: 95.48%     MR: 1.29%       FAR: 3.23%      IDA: 1.152 ms
+2468-phrase.npy: IDR: 85.23%     MR: 8.52%       FAR: 6.25%      IDA: 1.966 ms
+
+identification_rate:0.936 miss_rate:0.02439 false_alarm_rate:0.03963 identification_accuracy:0.0006999

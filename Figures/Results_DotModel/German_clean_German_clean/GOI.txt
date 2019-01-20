@@ -1,0 +1,1899 @@
+Amyotrophe Lateralsklerose
+1242-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.380 ms
+2373-phrase.npy: IDR: 99.09%     MR: 0.91%       FAR: 0.00%      IDA: 0.140 ms
+
+identification_rate:0.9955 miss_rate:0.004545 false_alarm_rate:  0.0 identification_accuracy:0.0002603
+
+Aryluxation
+1201-phrase.npy: IDR: 81.34%     MR: 8.21%       FAR: 10.45%     IDA: 1.539 ms
+1575-phrase.npy: IDR: 95.06%     MR: 1.85%       FAR: 3.09%      IDA: 1.327 ms
+1678-phrase.npy: IDR: 69.57%     MR: 17.39%      FAR: 13.04%     IDA: 2.446 ms
+1887-phrase.npy: IDR: 86.26%     MR: 6.11%       FAR: 7.63%      IDA: 1.288 ms
+1894-phrase.npy: IDR: 92.06%     MR: 4.76%       FAR: 3.17%      IDA: 0.851 ms
+1906-phrase.npy: IDR: 84.83%     MR: 6.90%       FAR: 8.28%      IDA: 1.601 ms
+
+identification_rate:0.8485 miss_rate:0.07536 false_alarm_rate:0.0761 identification_accuracy:0.001509
+
+Balbuties
+668-phrase.npy: IDR: 85.08%      MR: 7.26%       FAR: 7.66%      IDA: 1.343 ms
+672-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.140 ms
+1296-phrase.npy: IDR: 99.16%     MR: 0.84%       FAR: 0.00%      IDA: 0.133 ms
+1483-phrase.npy: IDR: 97.10%     MR: 1.45%       FAR: 1.45%      IDA: 0.624 ms
+930-phrase.npy: IDR: 98.36%      MR: 1.09%       FAR: 0.55%      IDA: 0.305 ms
+1297-phrase.npy: IDR: 98.73%     MR: 0.00%       FAR: 1.27%      IDA: 0.123 ms
+892-phrase.npy: IDR: 98.05%      MR: 1.30%       FAR: 0.65%      IDA: 0.102 ms
+1650-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.186 ms
+2145-phrase.npy: IDR: 95.51%     MR: 4.49%       FAR: 0.00%      IDA: 0.344 ms
+2149-phrase.npy: IDR: 99.19%     MR: 0.81%       FAR: 0.00%      IDA: 0.080 ms
+1595-phrase.npy: IDR: 96.52%     MR: 0.00%       FAR: 3.48%      IDA: 0.124 ms
+2013-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.108 ms
+2289-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.123 ms
+2236-phrase.npy: IDR: 98.11%     MR: 0.63%       FAR: 1.26%      IDA: 0.158 ms
+2554-phrase.npy: IDR: 97.77%     MR: 1.12%       FAR: 1.12%      IDA: 0.518 ms
+2470-phrase.npy: IDR: 98.70%     MR: 0.65%       FAR: 0.65%      IDA: 0.228 ms
+2611-phrase.npy: IDR: 97.44%     MR: 0.00%       FAR: 2.56%      IDA: 0.309 ms
+2609-phrase.npy: IDR: 99.08%     MR: 0.92%       FAR: 0.00%      IDA: 0.087 ms
+2129-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.110 ms
+
+identification_rate:0.9783 miss_rate:0.01082 false_alarm_rate:0.01086 identification_accuracy:0.0002708
+
+Bulbarparalyse
+101-phrase.npy: IDR: 88.05%      MR: 6.29%       FAR: 5.66%      IDA: 1.466 ms
+1227-phrase.npy: IDR: 93.58%     MR: 3.38%       FAR: 3.04%      IDA: 1.006 ms
+
+identification_rate:0.9082 miss_rate:0.04834 false_alarm_rate:0.0435 identification_accuracy:0.001236
+
+Carcinoma in situ
+1472-phrase.npy: IDR: 92.62%     MR: 3.28%       FAR: 4.10%      IDA: 0.665 ms
+
+identification_rate:0.9262 miss_rate:0.03279 false_alarm_rate:0.04098 identification_accuracy:0.0006646
+
+Chondrom
+1338-phrase.npy: IDR: 86.54%     MR: 7.69%       FAR: 5.77%      IDA: 1.184 ms
+
+identification_rate:0.8654 miss_rate:0.07692 false_alarm_rate:0.05769 identification_accuracy:0.001184
+
+Chordektomie
+491-phrase.npy: IDR: 56.84%      MR: 29.47%      FAR: 13.68%     IDA: 1.805 ms
+719-phrase.npy: IDR: 73.12%      MR: 10.75%      FAR: 16.13%     IDA: 3.229 ms
+628-phrase.npy: IDR: 99.22%      MR: 0.78%       FAR: 0.00%      IDA: 0.330 ms
+845-phrase.npy: IDR: 82.98%      MR: 10.64%      FAR: 6.38%      IDA: 0.687 ms
+504-phrase.npy: IDR: 60.00%      MR: 18.82%      FAR: 21.18%     IDA: 2.029 ms
+915-phrase.npy: IDR: 76.47%      MR: 15.69%      FAR: 7.84%      IDA: 1.713 ms
+847-phrase.npy: IDR: 68.33%      MR: 13.33%      FAR: 18.33%     IDA: 2.383 ms
+920-phrase.npy: IDR: 75.81%      MR: 9.14%       FAR: 15.05%     IDA: 1.713 ms
+873-phrase.npy: IDR: 98.18%      MR: 1.82%       FAR: 0.00%      IDA: 0.084 ms
+1089-phrase.npy: IDR: 61.90%     MR: 9.52%       FAR: 28.57%     IDA: 2.221 ms
+1084-phrase.npy: IDR: 71.79%     MR: 17.95%      FAR: 10.26%     IDA: 2.236 ms
+1333-phrase.npy: IDR: 98.39%     MR: 1.08%       FAR: 0.54%      IDA: 0.339 ms
+1339-phrase.npy: IDR: 99.48%     MR: 0.52%       FAR: 0.00%      IDA: 0.292 ms
+1217-phrase.npy: IDR: 83.72%     MR: 9.30%       FAR: 6.98%      IDA: 1.509 ms
+1321-phrase.npy: IDR: 96.03%     MR: 3.97%       FAR: 0.00%      IDA: 0.304 ms
+1376-phrase.npy: IDR: 99.31%     MR: 0.00%       FAR: 0.69%      IDA: 0.417 ms
+1385-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.468 ms
+1393-phrase.npy: IDR: 96.32%     MR: 2.21%       FAR: 1.47%      IDA: 0.254 ms
+1392-phrase.npy: IDR: 83.89%     MR: 7.11%       FAR: 9.00%      IDA: 1.698 ms
+1412-phrase.npy: IDR: 95.89%     MR: 4.11%       FAR: 0.00%      IDA: 0.722 ms
+1410-phrase.npy: IDR: 95.54%     MR: 0.00%       FAR: 4.46%      IDA: 0.379 ms
+1401-phrase.npy: IDR: 96.28%     MR: 2.13%       FAR: 1.60%      IDA: 0.480 ms
+1422-phrase.npy: IDR: 98.43%     MR: 0.52%       FAR: 1.05%      IDA: 0.355 ms
+1486-phrase.npy: IDR: 94.83%     MR: 4.31%       FAR: 0.86%      IDA: 1.061 ms
+1429-phrase.npy: IDR: 98.58%     MR: 1.42%       FAR: 0.00%      IDA: 0.513 ms
+1450-phrase.npy: IDR: 62.30%     MR: 14.75%      FAR: 22.95%     IDA: 2.439 ms
+1625-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.130 ms
+1487-phrase.npy: IDR: 92.00%     MR: 3.43%       FAR: 4.57%      IDA: 1.289 ms
+1606-phrase.npy: IDR: 64.71%     MR: 23.53%      FAR: 11.76%     IDA: 2.347 ms
+1503-phrase.npy: IDR: 60.90%     MR: 14.74%      FAR: 24.36%     IDA: 2.182 ms
+1651-phrase.npy: IDR: 94.76%     MR: 2.18%       FAR: 3.06%      IDA: 0.818 ms
+1674-phrase.npy: IDR: 91.32%     MR: 4.11%       FAR: 4.57%      IDA: 0.953 ms
+1720-phrase.npy: IDR: 91.14%     MR: 3.80%       FAR: 5.06%      IDA: 1.117 ms
+1693-phrase.npy: IDR: 97.24%     MR: 2.76%       FAR: 0.00%      IDA: 0.508 ms
+1771-phrase.npy: IDR: 92.86%     MR: 3.57%       FAR: 3.57%      IDA: 2.196 ms
+1942-phrase.npy: IDR: 75.00%     MR: 0.00%       FAR: 25.00%     IDA: 3.929 ms
+1774-phrase.npy: IDR: 44.00%     MR: 48.00%      FAR: 8.00%      IDA: 2.273 ms
+2136-phrase.npy: IDR: 79.78%     MR: 8.99%       FAR: 11.24%     IDA: 1.941 ms
+1991-phrase.npy: IDR: 83.33%     MR: 11.11%      FAR: 5.56%      IDA: 2.012 ms
+1932-phrase.npy: IDR: 95.87%     MR: 2.29%       FAR: 1.83%      IDA: 0.216 ms
+2064-phrase.npy: IDR: 56.58%     MR: 25.00%      FAR: 18.42%     IDA: 2.942 ms
+2029-phrase.npy: IDR: 79.37%     MR: 11.11%      FAR: 9.52%      IDA: 1.879 ms
+2183-phrase.npy: IDR: 76.56%     MR: 12.50%      FAR: 10.94%     IDA: 1.730 ms
+2291-phrase.npy: IDR: 93.62%     MR: 2.13%       FAR: 4.26%      IDA: 0.969 ms
+2226-phrase.npy: IDR: 33.33%     MR: 33.33%      FAR: 33.33%     IDA: 0.857 ms
+2189-phrase.npy: IDR: 69.23%     MR: 12.82%      FAR: 17.95%     IDA: 2.717 ms
+2380-phrase.npy: IDR: 84.27%     MR: 3.37%       FAR: 12.36%     IDA: 0.985 ms
+2400-phrase.npy: IDR: 69.52%     MR: 14.29%      FAR: 16.19%     IDA: 2.126 ms
+2362-phrase.npy: IDR: 74.24%     MR: 15.15%      FAR: 10.61%     IDA: 2.469 ms
+2490-phrase.npy: IDR: 72.13%     MR: 5.74%       FAR: 22.13%     IDA: 0.502 ms
+2458-phrase.npy: IDR: 98.28%     MR: 0.00%       FAR: 1.72%      IDA: 1.322 ms
+2484-phrase.npy: IDR: 95.00%     MR: 2.14%       FAR: 2.86%      IDA: 0.912 ms
+2453-phrase.npy: IDR: 60.00%     MR: 20.00%      FAR: 20.00%     IDA: 2.883 ms
+2503-phrase.npy: IDR: 80.81%     MR: 13.37%      FAR: 5.81%      IDA: 2.226 ms
+2494-phrase.npy: IDR: 86.15%     MR: 1.54%       FAR: 12.31%     IDA: 1.674 ms
+2575-phrase.npy: IDR: 90.91%     MR: 5.68%       FAR: 3.41%      IDA: 1.266 ms
+2548-phrase.npy: IDR: 62.16%     MR: 13.51%      FAR: 24.32%     IDA: 2.540 ms
+
+identification_rate:0.8191 miss_rate:0.0894 false_alarm_rate:0.09154 identification_accuracy:0.001431
+
+Cyste
+1340-phrase.npy: IDR: 83.33%     MR: 9.65%       FAR: 7.02%      IDA: 1.782 ms
+1931-phrase.npy: IDR: 94.01%     MR: 2.99%       FAR: 2.99%      IDA: 0.816 ms
+1941-phrase.npy: IDR: 90.36%     MR: 5.58%       FAR: 4.06%      IDA: 0.893 ms
+2137-phrase.npy: IDR: 90.30%     MR: 5.97%       FAR: 3.73%      IDA: 1.277 ms
+2144-phrase.npy: IDR: 93.04%     MR: 3.48%       FAR: 3.48%      IDA: 0.782 ms
+2500-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.097 ms
+
+identification_rate:0.9184 miss_rate:0.04613 false_alarm_rate:0.03547 identification_accuracy:0.0009411
+
+Diplophonie
+850-phrase.npy: IDR: 98.29%      MR: 1.02%       FAR: 0.68%      IDA: 0.653 ms
+876-phrase.npy: IDR: 91.06%      MR: 4.07%       FAR: 4.88%      IDA: 1.227 ms
+1791-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.162 ms
+1802-phrase.npy: IDR: 93.12%     MR: 1.88%       FAR: 5.00%      IDA: 1.017 ms
+1904-phrase.npy: IDR: 81.67%     MR: 8.33%       FAR: 10.00%     IDA: 1.365 ms
+
+identification_rate:0.9283 miss_rate:0.03059 false_alarm_rate:0.04112 identification_accuracy:0.0008848
+
+Dish-Syndrom
+714-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.184 ms
+
+identification_rate:  1.0 miss_rate:  0.0 false_alarm_rate:  0.0 identification_accuracy:0.0001838
+
+Dysarthrophonie
+921-phrase.npy: IDR: 90.48%      MR: 8.10%       FAR: 1.43%      IDA: 0.099 ms
+1199-phrase.npy: IDR: 98.45%     MR: 0.52%       FAR: 1.04%      IDA: 0.201 ms
+1242-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.380 ms
+1772-phrase.npy: IDR: 80.12%     MR: 9.94%       FAR: 9.94%      IDA: 1.927 ms
+1948-phrase.npy: IDR: 97.00%     MR: 1.12%       FAR: 1.87%      IDA: 0.977 ms
+2001-phrase.npy: IDR: 97.98%     MR: 1.01%       FAR: 1.01%      IDA: 0.264 ms
+1943-phrase.npy: IDR: 97.44%     MR: 1.54%       FAR: 1.03%      IDA: 0.415 ms
+2094-phrase.npy: IDR: 86.16%     MR: 6.92%       FAR: 6.92%      IDA: 1.736 ms
+2032-phrase.npy: IDR: 97.64%     MR: 1.97%       FAR: 0.39%      IDA: 0.177 ms
+2113-phrase.npy: IDR: 98.92%     MR: 0.54%       FAR: 0.54%      IDA: 0.159 ms
+2057-phrase.npy: IDR: 97.14%     MR: 1.43%       FAR: 1.43%      IDA: 0.173 ms
+2223-phrase.npy: IDR: 83.76%     MR: 5.98%       FAR: 10.26%     IDA: 1.595 ms
+2130-phrase.npy: IDR: 84.26%     MR: 9.36%       FAR: 6.38%      IDA: 1.547 ms
+2390-phrase.npy: IDR: 94.71%     MR: 3.53%       FAR: 1.76%      IDA: 0.582 ms
+2332-phrase.npy: IDR: 81.25%     MR: 7.81%       FAR: 10.94%     IDA: 1.533 ms
+2334-phrase.npy: IDR: 98.14%     MR: 1.40%       FAR: 0.47%      IDA: 0.196 ms
+2295-phrase.npy: IDR: 96.72%     MR: 1.64%       FAR: 1.64%      IDA: 0.255 ms
+2355-phrase.npy: IDR: 77.57%     MR: 7.48%       FAR: 14.95%     IDA: 1.943 ms
+2329-phrase.npy: IDR: 94.84%     MR: 3.76%       FAR: 1.41%      IDA: 0.378 ms
+
+identification_rate:0.9224 miss_rate:0.03896 false_alarm_rate:0.03863 identification_accuracy:0.0007652
+
+Dysodie
+367-phrase.npy: IDR: 83.21%      MR: 8.40%       FAR: 8.40%      IDA: 1.789 ms
+127-phrase.npy: IDR: 90.04%      MR: 6.22%       FAR: 3.73%      IDA: 1.202 ms
+567-phrase.npy: IDR: 95.24%      MR: 1.06%       FAR: 3.70%      IDA: 0.355 ms
+673-phrase.npy: IDR: 94.64%      MR: 1.79%       FAR: 3.57%      IDA: 1.187 ms
+830-phrase.npy: IDR: 97.14%      MR: 1.90%       FAR: 0.95%      IDA: 0.160 ms
+692-phrase.npy: IDR: 94.64%      MR: 2.98%       FAR: 2.38%      IDA: 1.267 ms
+907-phrase.npy: IDR: 93.48%      MR: 3.26%       FAR: 3.26%      IDA: 0.493 ms
+851-phrase.npy: IDR: 81.61%      MR: 4.60%       FAR: 13.79%     IDA: 2.558 ms
+1241-phrase.npy: IDR: 83.19%     MR: 8.40%       FAR: 8.40%      IDA: 1.583 ms
+1203-phrase.npy: IDR: 89.52%     MR: 2.62%       FAR: 7.86%      IDA: 1.371 ms
+1193-phrase.npy: IDR: 86.81%     MR: 5.96%       FAR: 7.23%      IDA: 1.489 ms
+1309-phrase.npy: IDR: 92.63%     MR: 4.21%       FAR: 3.16%      IDA: 1.318 ms
+1443-phrase.npy: IDR: 92.65%     MR: 1.96%       FAR: 5.39%      IDA: 0.490 ms
+1454-phrase.npy: IDR: 80.25%     MR: 8.64%       FAR: 11.11%     IDA: 1.705 ms
+1501-phrase.npy: IDR: 84.06%     MR: 8.70%       FAR: 7.25%      IDA: 1.796 ms
+1488-phrase.npy: IDR: 99.22%     MR: 0.00%       FAR: 0.78%      IDA: 0.068 ms
+1550-phrase.npy: IDR: 97.97%     MR: 1.35%       FAR: 0.68%      IDA: 0.176 ms
+1581-phrase.npy: IDR: 84.36%     MR: 7.11%       FAR: 8.53%      IDA: 1.924 ms
+1659-phrase.npy: IDR: 88.24%     MR: 2.94%       FAR: 8.82%      IDA: 1.763 ms
+1596-phrase.npy: IDR: 83.16%     MR: 4.21%       FAR: 12.63%     IDA: 1.547 ms
+1687-phrase.npy: IDR: 99.46%     MR: 0.54%       FAR: 0.00%      IDA: 0.220 ms
+1759-phrase.npy: IDR: 88.33%     MR: 3.33%       FAR: 8.33%      IDA: 1.423 ms
+1681-phrase.npy: IDR: 91.94%     MR: 3.23%       FAR: 4.84%      IDA: 1.003 ms
+1761-phrase.npy: IDR: 78.35%     MR: 11.34%      FAR: 10.31%     IDA: 2.095 ms
+1793-phrase.npy: IDR: 99.47%     MR: 0.00%       FAR: 0.53%      IDA: 0.110 ms
+1799-phrase.npy: IDR: 97.47%     MR: 0.00%       FAR: 2.53%      IDA: 0.827 ms
+2074-phrase.npy: IDR: 87.41%     MR: 5.19%       FAR: 7.41%      IDA: 1.592 ms
+1981-phrase.npy: IDR: 92.27%     MR: 2.42%       FAR: 5.31%      IDA: 1.151 ms
+2102-phrase.npy: IDR: 83.82%     MR: 7.35%       FAR: 8.82%      IDA: 1.680 ms
+2061-phrase.npy: IDR: 99.12%     MR: 0.88%       FAR: 0.00%      IDA: 0.140 ms
+1813-phrase.npy: IDR: 85.86%     MR: 5.76%       FAR: 8.38%      IDA: 1.746 ms
+2068-phrase.npy: IDR: 95.07%     MR: 4.23%       FAR: 0.70%      IDA: 0.268 ms
+2103-phrase.npy: IDR: 97.99%     MR: 1.34%       FAR: 0.67%      IDA: 0.453 ms
+2143-phrase.npy: IDR: 80.28%     MR: 10.56%      FAR: 9.15%      IDA: 1.552 ms
+2184-phrase.npy: IDR: 75.63%     MR: 10.08%      FAR: 14.29%     IDA: 2.232 ms
+2290-phrase.npy: IDR: 90.14%     MR: 4.93%       FAR: 4.93%      IDA: 0.845 ms
+2187-phrase.npy: IDR: 90.53%     MR: 6.51%       FAR: 2.96%      IDA: 1.017 ms
+2222-phrase.npy: IDR: 87.28%     MR: 5.78%       FAR: 6.94%      IDA: 1.165 ms
+2114-phrase.npy: IDR: 86.39%     MR: 6.51%       FAR: 7.10%      IDA: 2.023 ms
+2124-phrase.npy: IDR: 94.86%     MR: 1.40%       FAR: 3.74%      IDA: 0.974 ms
+2313-phrase.npy: IDR: 97.14%     MR: 1.90%       FAR: 0.95%      IDA: 0.405 ms
+2309-phrase.npy: IDR: 88.37%     MR: 3.49%       FAR: 8.14%      IDA: 1.689 ms
+2308-phrase.npy: IDR: 84.77%     MR: 7.95%       FAR: 7.28%      IDA: 1.869 ms
+2364-phrase.npy: IDR: 86.61%     MR: 5.51%       FAR: 7.87%      IDA: 1.625 ms
+2335-phrase.npy: IDR: 85.27%     MR: 5.43%       FAR: 9.30%      IDA: 1.759 ms
+2327-phrase.npy: IDR: 98.40%     MR: 1.60%       FAR: 0.00%      IDA: 0.362 ms
+2322-phrase.npy: IDR: 85.14%     MR: 6.31%       FAR: 8.56%      IDA: 1.548 ms
+2354-phrase.npy: IDR: 83.74%     MR: 7.32%       FAR: 8.94%      IDA: 0.835 ms
+2371-phrase.npy: IDR: 88.21%     MR: 4.25%       FAR: 7.55%      IDA: 1.218 ms
+2474-phrase.npy: IDR: 96.88%     MR: 2.08%       FAR: 1.04%      IDA: 0.220 ms
+2398-phrase.npy: IDR: 92.12%     MR: 3.03%       FAR: 4.85%      IDA: 1.144 ms
+2475-phrase.npy: IDR: 89.14%     MR: 5.71%       FAR: 5.14%      IDA: 1.246 ms
+2486-phrase.npy: IDR: 76.52%     MR: 8.70%       FAR: 14.78%     IDA: 1.529 ms
+2524-phrase.npy: IDR: 95.19%     MR: 3.85%       FAR: 0.96%      IDA: 0.332 ms
+2552-phrase.npy: IDR: 92.75%     MR: 5.80%       FAR: 1.45%      IDA: 0.434 ms
+2558-phrase.npy: IDR: 99.38%     MR: 0.00%       FAR: 0.62%      IDA: 0.093 ms
+
+identification_rate:0.8988 miss_rate:0.04475 false_alarm_rate:0.05643 identification_accuracy:0.001126
+
+Dysphonie
+368-phrase.npy: IDR: 98.86%      MR: 0.00%       FAR: 1.14%      IDA: 0.119 ms
+446-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.207 ms
+445-phrase.npy: IDR: 89.47%      MR: 3.51%       FAR: 7.02%      IDA: 1.600 ms
+449-phrase.npy: IDR: 97.86%      MR: 0.00%       FAR: 2.14%      IDA: 0.182 ms
+494-phrase.npy: IDR: 93.69%      MR: 2.91%       FAR: 3.40%      IDA: 0.740 ms
+495-phrase.npy: IDR: 98.10%      MR: 1.90%       FAR: 0.00%      IDA: 0.142 ms
+561-phrase.npy: IDR: 61.54%      MR: 25.00%      FAR: 13.46%     IDA: 2.376 ms
+451-phrase.npy: IDR: 82.58%      MR: 7.87%       FAR: 9.55%      IDA: 1.521 ms
+742-phrase.npy: IDR: 99.32%      MR: 0.68%       FAR: 0.00%      IDA: 0.192 ms
+674-phrase.npy: IDR: 73.45%      MR: 14.16%      FAR: 12.39%     IDA: 2.076 ms
+872-phrase.npy: IDR: 89.06%      MR: 5.47%       FAR: 5.47%      IDA: 1.093 ms
+916-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.188 ms
+1187-phrase.npy: IDR: 75.76%     MR: 12.12%      FAR: 12.12%     IDA: 2.150 ms
+925-phrase.npy: IDR: 98.44%      MR: 0.00%       FAR: 1.56%      IDA: 0.425 ms
+1194-phrase.npy: IDR: 97.37%     MR: 1.32%       FAR: 1.32%      IDA: 0.210 ms
+1086-phrase.npy: IDR: 92.47%     MR: 7.53%       FAR: 0.00%      IDA: 0.085 ms
+1057-phrase.npy: IDR: 67.33%     MR: 18.67%      FAR: 14.00%     IDA: 1.873 ms
+1247-phrase.npy: IDR: 55.81%     MR: 20.93%      FAR: 23.26%     IDA: 1.734 ms
+1219-phrase.npy: IDR: 76.38%     MR: 13.39%      FAR: 10.24%     IDA: 1.627 ms
+1250-phrase.npy: IDR: 90.07%     MR: 6.38%       FAR: 3.55%      IDA: 0.114 ms
+1276-phrase.npy: IDR: 86.36%     MR: 4.55%       FAR: 9.09%      IDA: 1.802 ms
+1248-phrase.npy: IDR: 98.99%     MR: 0.00%       FAR: 1.01%      IDA: 0.137 ms
+1312-phrase.npy: IDR: 62.90%     MR: 20.97%      FAR: 16.13%     IDA: 2.747 ms
+1387-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.121 ms
+1453-phrase.npy: IDR: 93.64%     MR: 2.73%       FAR: 3.64%      IDA: 1.037 ms
+1455-phrase.npy: IDR: 99.06%     MR: 0.94%       FAR: 0.00%      IDA: 0.141 ms
+1597-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.078 ms
+1457-phrase.npy: IDR: 99.50%     MR: 0.50%       FAR: 0.00%      IDA: 0.915 ms
+1580-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.168 ms
+1485-phrase.npy: IDR: 74.47%     MR: 12.06%      FAR: 13.48%     IDA: 2.249 ms
+1628-phrase.npy: IDR: 99.39%     MR: 0.61%       FAR: 0.00%      IDA: 0.105 ms
+1633-phrase.npy: IDR: 91.88%     MR: 1.25%       FAR: 6.88%      IDA: 1.209 ms
+1502-phrase.npy: IDR: 93.58%     MR: 2.29%       FAR: 4.13%      IDA: 1.252 ms
+1657-phrase.npy: IDR: 88.79%     MR: 0.86%       FAR: 10.34%     IDA: 0.103 ms
+1636-phrase.npy: IDR: 91.87%     MR: 3.83%       FAR: 4.31%      IDA: 1.044 ms
+1751-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.090 ms
+1718-phrase.npy: IDR: 88.46%     MR: 4.81%       FAR: 6.73%      IDA: 1.551 ms
+1768-phrase.npy: IDR: 94.57%     MR: 1.09%       FAR: 4.35%      IDA: 1.173 ms
+1894-phrase.npy: IDR: 92.06%     MR: 4.76%       FAR: 3.17%      IDA: 0.851 ms
+1833-phrase.npy: IDR: 93.36%     MR: 1.42%       FAR: 5.21%      IDA: 0.869 ms
+2000-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.224 ms
+1984-phrase.npy: IDR: 91.97%     MR: 5.11%       FAR: 2.92%      IDA: 0.602 ms
+2028-phrase.npy: IDR: 96.77%     MR: 1.08%       FAR: 2.15%      IDA: 0.175 ms
+2087-phrase.npy: IDR: 88.00%     MR: 4.00%       FAR: 8.00%      IDA: 1.625 ms
+2066-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.300 ms
+2019-phrase.npy: IDR: 47.83%     MR: 21.74%      FAR: 30.43%     IDA: 1.807 ms
+2096-phrase.npy: IDR: 97.44%     MR: 0.85%       FAR: 1.71%      IDA: 0.177 ms
+2091-phrase.npy: IDR: 95.41%     MR: 1.53%       FAR: 3.06%      IDA: 0.859 ms
+2016-phrase.npy: IDR: 95.87%     MR: 0.83%       FAR: 3.31%      IDA: 0.204 ms
+2097-phrase.npy: IDR: 94.58%     MR: 0.99%       FAR: 4.43%      IDA: 0.524 ms
+2117-phrase.npy: IDR: 93.71%     MR: 2.80%       FAR: 3.50%      IDA: 1.293 ms
+2118-phrase.npy: IDR: 98.64%     MR: 0.68%       FAR: 0.68%      IDA: 0.195 ms
+2125-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.477 ms
+2152-phrase.npy: IDR: 97.50%     MR: 1.67%       FAR: 0.83%      IDA: 0.286 ms
+2106-phrase.npy: IDR: 90.00%     MR: 3.60%       FAR: 6.40%      IDA: 1.323 ms
+2126-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.403 ms
+2119-phrase.npy: IDR: 90.00%     MR: 3.53%       FAR: 6.47%      IDA: 1.273 ms
+2120-phrase.npy: IDR: 95.80%     MR: 0.00%       FAR: 4.20%      IDA: 0.128 ms
+2147-phrase.npy: IDR: 87.18%     MR: 4.49%       FAR: 8.33%      IDA: 1.512 ms
+2127-phrase.npy: IDR: 75.25%     MR: 7.92%       FAR: 16.83%     IDA: 2.276 ms
+2226-phrase.npy: IDR: 33.33%     MR: 33.33%      FAR: 33.33%     IDA: 0.857 ms
+2217-phrase.npy: IDR: 68.42%     MR: 13.53%      FAR: 18.05%     IDA: 2.095 ms
+2154-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.126 ms
+2219-phrase.npy: IDR: 99.45%     MR: 0.55%       FAR: 0.00%      IDA: 0.239 ms
+2238-phrase.npy: IDR: 65.75%     MR: 12.33%      FAR: 21.92%     IDA: 2.460 ms
+2311-phrase.npy: IDR: 75.21%     MR: 12.40%      FAR: 12.40%     IDA: 1.791 ms
+2309-phrase.npy: IDR: 88.37%     MR: 3.49%       FAR: 8.14%      IDA: 1.689 ms
+2266-phrase.npy: IDR: 92.52%     MR: 3.74%       FAR: 3.74%      IDA: 0.903 ms
+2326-phrase.npy: IDR: 99.02%     MR: 0.98%       FAR: 0.00%      IDA: 0.165 ms
+2323-phrase.npy: IDR: 98.14%     MR: 1.86%       FAR: 0.00%      IDA: 0.289 ms
+2347-phrase.npy: IDR: 92.95%     MR: 3.85%       FAR: 3.21%      IDA: 0.811 ms
+2333-phrase.npy: IDR: 91.22%     MR: 4.73%       FAR: 4.05%      IDA: 0.888 ms
+2356-phrase.npy: IDR: 96.88%     MR: 1.56%       FAR: 1.56%      IDA: 0.193 ms
+2350-phrase.npy: IDR: 92.05%     MR: 3.41%       FAR: 4.55%      IDA: 1.372 ms
+2348-phrase.npy: IDR: 92.36%     MR: 6.94%       FAR: 0.69%      IDA: 0.255 ms
+2325-phrase.npy: IDR: 97.93%     MR: 2.07%       FAR: 0.00%      IDA: 0.367 ms
+2366-phrase.npy: IDR: 93.02%     MR: 3.72%       FAR: 3.26%      IDA: 0.749 ms
+2369-phrase.npy: IDR: 97.97%     MR: 1.35%       FAR: 0.68%      IDA: 1.392 ms
+2387-phrase.npy: IDR: 89.29%     MR: 5.61%       FAR: 5.10%      IDA: 1.480 ms
+2388-phrase.npy: IDR: 88.50%     MR: 4.50%       FAR: 7.00%      IDA: 1.312 ms
+2384-phrase.npy: IDR: 96.37%     MR: 2.59%       FAR: 1.04%      IDA: 0.734 ms
+2401-phrase.npy: IDR: 96.49%     MR: 0.58%       FAR: 2.92%      IDA: 0.974 ms
+2389-phrase.npy: IDR: 88.63%     MR: 5.69%       FAR: 5.69%      IDA: 1.715 ms
+2422-phrase.npy: IDR: 65.22%     MR: 18.48%      FAR: 16.30%     IDA: 2.248 ms
+2391-phrase.npy: IDR: 70.62%     MR: 15.00%      FAR: 14.37%     IDA: 2.326 ms
+2392-phrase.npy: IDR: 99.07%     MR: 0.00%       FAR: 0.93%      IDA: 0.173 ms
+2428-phrase.npy: IDR: 84.09%     MR: 5.30%       FAR: 10.61%     IDA: 1.611 ms
+2405-phrase.npy: IDR: 95.33%     MR: 2.00%       FAR: 2.67%      IDA: 0.973 ms
+2488-phrase.npy: IDR: 97.50%     MR: 1.67%       FAR: 0.83%      IDA: 0.229 ms
+2436-phrase.npy: IDR: 99.43%     MR: 0.57%       FAR: 0.00%      IDA: 0.111 ms
+2530-phrase.npy: IDR: 65.74%     MR: 14.81%      FAR: 19.44%     IDA: 2.430 ms
+2461-phrase.npy: IDR: 97.44%     MR: 1.03%       FAR: 1.54%      IDA: 0.219 ms
+2456-phrase.npy: IDR: 79.80%     MR: 8.08%       FAR: 12.12%     IDA: 1.381 ms
+2544-phrase.npy: IDR: 84.62%     MR: 5.92%       FAR: 9.47%      IDA: 1.829 ms
+2559-phrase.npy: IDR: 99.21%     MR: 0.79%       FAR: 0.00%      IDA: 0.416 ms
+2537-phrase.npy: IDR: 96.34%     MR: 2.03%       FAR: 1.63%      IDA: 1.032 ms
+2607-phrase.npy: IDR: 94.44%     MR: 3.17%       FAR: 2.38%      IDA: 0.933 ms
+2575-phrase.npy: IDR: 90.91%     MR: 5.68%       FAR: 3.41%      IDA: 1.266 ms
+2608-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.277 ms
+2583-phrase.npy: IDR: 83.93%     MR: 8.48%       FAR: 7.59%      IDA: 1.560 ms
+2596-phrase.npy: IDR: 96.11%     MR: 1.41%       FAR: 2.47%      IDA: 0.177 ms
+
+identification_rate:0.8966 miss_rate:0.04837 false_alarm_rate:0.05499 identification_accuracy:0.0009307
+
+Dysplastische Dysphonie
+1649-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.128 ms
+
+identification_rate:  1.0 miss_rate:  0.0 false_alarm_rate:  0.0 identification_accuracy:0.0001278
+
+Dysplastischer Kehlkopf
+820-phrase.npy: IDR: 95.03%      MR: 2.48%       FAR: 2.48%      IDA: 0.977 ms
+
+identification_rate:0.9503 miss_rate:0.02484 false_alarm_rate:0.02484 identification_accuracy:0.000977
+
+Epiglottiskarzinom
+1047-phrase.npy: IDR: 85.71%     MR: 7.37%       FAR: 6.91%      IDA: 1.667 ms
+
+identification_rate:0.8571 miss_rate:0.07373 false_alarm_rate:0.06912 identification_accuracy:0.001667
+
+Fibrom
+106-phrase.npy: IDR: 98.21%      MR: 0.00%       FAR: 1.79%      IDA: 0.170 ms
+1781-phrase.npy: IDR: 84.52%     MR: 6.55%       FAR: 8.93%      IDA: 1.680 ms
+
+identification_rate:0.9137 miss_rate:0.03274 false_alarm_rate:0.0536 identification_accuracy:0.0009254
+
+Frontolaterale Teilresektion
+815-phrase.npy: IDR: 72.50%      MR: 11.25%      FAR: 16.25%     IDA: 2.699 ms
+936-phrase.npy: IDR: 68.18%      MR: 13.64%      FAR: 18.18%     IDA: 2.647 ms
+1191-phrase.npy: IDR: 89.66%     MR: 6.90%       FAR: 3.45%      IDA: 1.546 ms
+1162-phrase.npy: IDR: 55.38%     MR: 1.54%       FAR: 43.08%     IDA: 1.677 ms
+891-phrase.npy: IDR: 78.38%      MR: 8.11%       FAR: 13.51%     IDA: 1.214 ms
+1232-phrase.npy: IDR: 72.73%     MR: 18.18%      FAR: 9.09%      IDA: 2.305 ms
+1165-phrase.npy: IDR: 82.46%     MR: 7.02%       FAR: 10.53%     IDA: 1.260 ms
+1267-phrase.npy: IDR: 84.81%     MR: 13.92%      FAR: 1.27%      IDA: 1.375 ms
+1234-phrase.npy: IDR: 96.72%     MR: 3.28%       FAR: 0.00%      IDA: 0.577 ms
+1238-phrase.npy: IDR: 79.80%     MR: 11.11%      FAR: 9.09%      IDA: 1.508 ms
+1243-phrase.npy: IDR: 62.07%     MR: 20.69%      FAR: 17.24%     IDA: 1.813 ms
+1279-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.477 ms
+1313-phrase.npy: IDR: 99.30%     MR: 0.00%       FAR: 0.70%      IDA: 0.310 ms
+1409-phrase.npy: IDR: 69.12%     MR: 17.65%      FAR: 13.24%     IDA: 2.407 ms
+1446-phrase.npy: IDR: 81.82%     MR: 7.27%       FAR: 10.91%     IDA: 2.268 ms
+1561-phrase.npy: IDR: 63.64%     MR: 21.97%      FAR: 14.39%     IDA: 2.072 ms
+1487-phrase.npy: IDR: 92.00%     MR: 3.43%       FAR: 4.57%      IDA: 1.289 ms
+1490-phrase.npy: IDR: 87.78%     MR: 6.67%       FAR: 5.56%      IDA: 1.793 ms
+1634-phrase.npy: IDR: 84.09%     MR: 7.95%       FAR: 7.95%      IDA: 1.937 ms
+1558-phrase.npy: IDR: 97.01%     MR: 1.80%       FAR: 1.20%      IDA: 0.225 ms
+1756-phrase.npy: IDR: 82.50%     MR: 8.33%       FAR: 9.17%      IDA: 1.533 ms
+1635-phrase.npy: IDR: 68.22%     MR: 13.18%      FAR: 18.60%     IDA: 1.905 ms
+1749-phrase.npy: IDR: 73.39%     MR: 18.35%      FAR: 8.26%      IDA: 2.521 ms
+1692-phrase.npy: IDR: 66.67%     MR: 22.22%      FAR: 11.11%     IDA: 0.543 ms
+1720-phrase.npy: IDR: 91.14%     MR: 3.80%       FAR: 5.06%      IDA: 1.117 ms
+1808-phrase.npy: IDR: 96.41%     MR: 0.00%       FAR: 3.59%      IDA: 0.445 ms
+1716-phrase.npy: IDR: 61.90%     MR: 22.45%      FAR: 15.65%     IDA: 2.550 ms
+1949-phrase.npy: IDR: 70.92%     MR: 14.18%      FAR: 14.89%     IDA: 1.477 ms
+2383-phrase.npy: IDR: 79.03%     MR: 6.45%       FAR: 14.52%     IDA: 2.333 ms
+1913-phrase.npy: IDR: 40.00%     MR: 40.00%      FAR: 20.00%     IDA: 1.812 ms
+2011-phrase.npy: IDR: 93.57%     MR: 1.75%       FAR: 4.68%      IDA: 0.349 ms
+2131-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 1.359 ms
+2386-phrase.npy: IDR: 77.68%     MR: 6.25%       FAR: 16.07%     IDA: 1.834 ms
+2437-phrase.npy: IDR: 89.09%     MR: 4.55%       FAR: 6.36%      IDA: 1.248 ms
+2456-phrase.npy: IDR: 79.80%     MR: 8.08%       FAR: 12.12%     IDA: 1.381 ms
+
+identification_rate:0.7965 miss_rate:0.1006 false_alarm_rate:0.1029 identification_accuracy:0.001537
+
+Funktionelle Dysphonie
+350-phrase.npy: IDR: 90.23%      MR: 4.51%       FAR: 5.26%      IDA: 1.640 ms
+631-phrase.npy: IDR: 99.10%      MR: 0.00%       FAR: 0.90%      IDA: 0.210 ms
+351-phrase.npy: IDR: 90.66%      MR: 5.49%       FAR: 3.85%      IDA: 1.111 ms
+634-phrase.npy: IDR: 98.70%      MR: 0.65%       FAR: 0.65%      IDA: 0.158 ms
+718-phrase.npy: IDR: 84.67%      MR: 2.92%       FAR: 12.41%     IDA: 0.500 ms
+722-phrase.npy: IDR: 99.05%      MR: 0.47%       FAR: 0.47%      IDA: 0.347 ms
+729-phrase.npy: IDR: 80.77%      MR: 10.26%      FAR: 8.97%      IDA: 2.190 ms
+730-phrase.npy: IDR: 99.52%      MR: 0.00%       FAR: 0.48%      IDA: 0.141 ms
+723-phrase.npy: IDR: 89.16%      MR: 7.23%       FAR: 3.61%      IDA: 0.414 ms
+727-phrase.npy: IDR: 93.33%      MR: 2.78%       FAR: 3.89%      IDA: 0.999 ms
+870-phrase.npy: IDR: 72.34%      MR: 13.83%      FAR: 13.83%     IDA: 2.233 ms
+878-phrase.npy: IDR: 93.02%      MR: 0.78%       FAR: 6.20%      IDA: 0.639 ms
+851-phrase.npy: IDR: 81.61%      MR: 4.60%       FAR: 13.79%     IDA: 2.558 ms
+1200-phrase.npy: IDR: 92.45%     MR: 2.83%       FAR: 4.72%      IDA: 0.670 ms
+1230-phrase.npy: IDR: 99.19%     MR: 0.00%       FAR: 0.81%      IDA: 0.117 ms
+913-phrase.npy: IDR: 70.21%      MR: 12.06%      FAR: 17.73%     IDA: 1.883 ms
+1240-phrase.npy: IDR: 86.07%     MR: 5.74%       FAR: 8.20%      IDA: 1.610 ms
+1241-phrase.npy: IDR: 83.19%     MR: 8.40%       FAR: 8.40%      IDA: 1.583 ms
+1244-phrase.npy: IDR: 74.83%     MR: 12.59%      FAR: 12.59%     IDA: 2.130 ms
+1254-phrase.npy: IDR: 69.44%     MR: 17.36%      FAR: 13.19%     IDA: 2.638 ms
+1193-phrase.npy: IDR: 86.81%     MR: 5.96%       FAR: 7.23%      IDA: 1.489 ms
+1309-phrase.npy: IDR: 92.63%     MR: 4.21%       FAR: 3.16%      IDA: 1.318 ms
+1318-phrase.npy: IDR: 94.51%     MR: 4.40%       FAR: 1.10%      IDA: 0.172 ms
+1281-phrase.npy: IDR: 73.30%     MR: 12.04%      FAR: 14.66%     IDA: 2.190 ms
+1328-phrase.npy: IDR: 94.44%     MR: 4.44%       FAR: 1.11%      IDA: 0.186 ms
+1258-phrase.npy: IDR: 98.80%     MR: 1.20%       FAR: 0.00%      IDA: 0.192 ms
+1322-phrase.npy: IDR: 82.00%     MR: 12.00%      FAR: 6.00%      IDA: 2.255 ms
+1400-phrase.npy: IDR: 90.32%     MR: 4.03%       FAR: 5.65%      IDA: 1.762 ms
+1415-phrase.npy: IDR: 75.47%     MR: 11.32%      FAR: 13.21%     IDA: 1.551 ms
+1432-phrase.npy: IDR: 89.93%     MR: 4.32%       FAR: 5.76%      IDA: 0.959 ms
+1435-phrase.npy: IDR: 81.19%     MR: 4.95%       FAR: 13.86%     IDA: 1.560 ms
+1326-phrase.npy: IDR: 90.00%     MR: 5.29%       FAR: 4.71%      IDA: 0.991 ms
+1441-phrase.npy: IDR: 90.91%     MR: 5.19%       FAR: 3.90%      IDA: 1.358 ms
+1552-phrase.npy: IDR: 88.79%     MR: 4.31%       FAR: 6.90%      IDA: 0.745 ms
+1611-phrase.npy: IDR: 91.14%     MR: 1.27%       FAR: 7.59%      IDA: 1.063 ms
+1609-phrase.npy: IDR: 69.77%     MR: 13.37%      FAR: 16.86%     IDA: 2.714 ms
+1627-phrase.npy: IDR: 69.33%     MR: 14.00%      FAR: 16.67%     IDA: 2.386 ms
+1589-phrase.npy: IDR: 91.50%     MR: 4.50%       FAR: 4.00%      IDA: 1.263 ms
+1642-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.093 ms
+1659-phrase.npy: IDR: 88.24%     MR: 2.94%       FAR: 8.82%      IDA: 1.763 ms
+1645-phrase.npy: IDR: 93.41%     MR: 2.75%       FAR: 3.85%      IDA: 1.013 ms
+1680-phrase.npy: IDR: 64.96%     MR: 17.95%      FAR: 17.09%     IDA: 2.044 ms
+1640-phrase.npy: IDR: 89.85%     MR: 5.58%       FAR: 4.57%      IDA: 1.137 ms
+1685-phrase.npy: IDR: 90.67%     MR: 5.33%       FAR: 4.00%      IDA: 1.939 ms
+1688-phrase.npy: IDR: 80.00%     MR: 7.37%       FAR: 12.63%     IDA: 2.129 ms
+1681-phrase.npy: IDR: 91.94%     MR: 3.23%       FAR: 4.84%      IDA: 1.003 ms
+1694-phrase.npy: IDR: 83.65%     MR: 5.03%       FAR: 11.32%     IDA: 2.107 ms
+1798-phrase.npy: IDR: 96.47%     MR: 2.35%       FAR: 1.18%      IDA: 0.407 ms
+1827-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.128 ms
+1742-phrase.npy: IDR: 82.55%     MR: 7.38%       FAR: 10.07%     IDA: 1.993 ms
+1801-phrase.npy: IDR: 68.70%     MR: 14.78%      FAR: 16.52%     IDA: 1.889 ms
+1824-phrase.npy: IDR: 89.88%     MR: 5.26%       FAR: 4.86%      IDA: 0.966 ms
+1899-phrase.npy: IDR: 90.70%     MR: 2.33%       FAR: 6.98%      IDA: 0.824 ms
+1862-phrase.npy: IDR: 81.33%     MR: 6.02%       FAR: 12.65%     IDA: 1.757 ms
+1935-phrase.npy: IDR: 86.83%     MR: 5.99%       FAR: 7.19%      IDA: 1.480 ms
+1958-phrase.npy: IDR: 92.51%     MR: 2.67%       FAR: 4.81%      IDA: 1.317 ms
+1936-phrase.npy: IDR: 79.86%     MR: 9.72%       FAR: 10.42%     IDA: 1.899 ms
+2006-phrase.npy: IDR: 99.35%     MR: 0.65%       FAR: 0.00%      IDA: 0.234 ms
+1977-phrase.npy: IDR: 80.37%     MR: 9.35%       FAR: 10.28%     IDA: 2.092 ms
+2123-phrase.npy: IDR: 88.10%     MR: 5.56%       FAR: 6.35%      IDA: 1.505 ms
+1966-phrase.npy: IDR: 81.58%     MR: 8.77%       FAR: 9.65%      IDA: 1.682 ms
+2231-phrase.npy: IDR: 98.14%     MR: 0.62%       FAR: 1.24%      IDA: 0.101 ms
+2290-phrase.npy: IDR: 90.14%     MR: 4.93%       FAR: 4.93%      IDA: 0.845 ms
+2112-phrase.npy: IDR: 77.48%     MR: 9.93%       FAR: 12.58%     IDA: 2.259 ms
+2297-phrase.npy: IDR: 90.51%     MR: 3.80%       FAR: 5.70%      IDA: 1.403 ms
+2267-phrase.npy: IDR: 83.72%     MR: 7.44%       FAR: 8.84%      IDA: 1.659 ms
+2302-phrase.npy: IDR: 82.89%     MR: 7.89%       FAR: 9.21%      IDA: 1.300 ms
+2265-phrase.npy: IDR: 95.07%     MR: 3.45%       FAR: 1.48%      IDA: 0.568 ms
+2303-phrase.npy: IDR: 88.29%     MR: 6.31%       FAR: 5.41%      IDA: 1.371 ms
+2308-phrase.npy: IDR: 84.77%     MR: 7.95%       FAR: 7.28%      IDA: 1.869 ms
+2312-phrase.npy: IDR: 79.58%     MR: 9.15%       FAR: 11.27%     IDA: 1.887 ms
+2313-phrase.npy: IDR: 97.14%     MR: 1.90%       FAR: 0.95%      IDA: 0.405 ms
+2310-phrase.npy: IDR: 94.95%     MR: 3.03%       FAR: 2.02%      IDA: 0.950 ms
+2360-phrase.npy: IDR: 83.61%     MR: 4.10%       FAR: 12.30%     IDA: 1.257 ms
+2357-phrase.npy: IDR: 88.64%     MR: 4.55%       FAR: 6.82%      IDA: 0.936 ms
+2359-phrase.npy: IDR: 80.30%     MR: 12.12%      FAR: 7.58%      IDA: 1.746 ms
+2318-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.133 ms
+2327-phrase.npy: IDR: 98.40%     MR: 1.60%       FAR: 0.00%      IDA: 0.362 ms
+2314-phrase.npy: IDR: 96.93%     MR: 1.84%       FAR: 1.23%      IDA: 0.522 ms
+2336-phrase.npy: IDR: 98.92%     MR: 0.54%       FAR: 0.54%      IDA: 0.182 ms
+2340-phrase.npy: IDR: 99.25%     MR: 0.00%       FAR: 0.75%      IDA: 0.099 ms
+2382-phrase.npy: IDR: 92.74%     MR: 4.84%       FAR: 2.42%      IDA: 0.808 ms
+2410-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.436 ms
+2365-phrase.npy: IDR: 91.30%     MR: 2.17%       FAR: 6.52%      IDA: 0.265 ms
+2417-phrase.npy: IDR: 98.45%     MR: 0.52%       FAR: 1.04%      IDA: 0.087 ms
+2413-phrase.npy: IDR: 98.00%     MR: 1.00%       FAR: 1.00%      IDA: 0.981 ms
+2416-phrase.npy: IDR: 82.56%     MR: 9.30%       FAR: 8.14%      IDA: 1.933 ms
+2419-phrase.npy: IDR: 99.38%     MR: 0.62%       FAR: 0.00%      IDA: 0.388 ms
+2367-phrase.npy: IDR: 95.27%     MR: 1.18%       FAR: 3.55%      IDA: 0.781 ms
+2429-phrase.npy: IDR: 89.74%     MR: 1.71%       FAR: 8.55%      IDA: 0.205 ms
+2427-phrase.npy: IDR: 94.15%     MR: 1.60%       FAR: 4.26%      IDA: 0.836 ms
+2442-phrase.npy: IDR: 93.10%     MR: 1.72%       FAR: 5.17%      IDA: 1.263 ms
+2431-phrase.npy: IDR: 80.43%     MR: 9.78%       FAR: 9.78%      IDA: 2.008 ms
+2446-phrase.npy: IDR: 84.15%     MR: 7.32%       FAR: 8.54%      IDA: 1.100 ms
+2432-phrase.npy: IDR: 68.33%     MR: 16.67%      FAR: 15.00%     IDA: 1.861 ms
+2444-phrase.npy: IDR: 98.10%     MR: 1.90%       FAR: 0.00%      IDA: 0.132 ms
+2445-phrase.npy: IDR: 83.87%     MR: 8.29%       FAR: 7.83%      IDA: 1.467 ms
+2448-phrase.npy: IDR: 95.56%     MR: 2.67%       FAR: 1.78%      IDA: 1.142 ms
+2459-phrase.npy: IDR: 87.74%     MR: 6.60%       FAR: 5.66%      IDA: 1.451 ms
+2477-phrase.npy: IDR: 83.89%     MR: 6.11%       FAR: 10.00%     IDA: 1.742 ms
+2497-phrase.npy: IDR: 99.15%     MR: 0.00%       FAR: 0.85%      IDA: 0.081 ms
+2457-phrase.npy: IDR: 95.20%     MR: 2.95%       FAR: 1.85%      IDA: 1.024 ms
+2483-phrase.npy: IDR: 90.64%     MR: 4.68%       FAR: 4.68%      IDA: 0.561 ms
+2502-phrase.npy: IDR: 95.53%     MR: 2.23%       FAR: 2.23%      IDA: 0.985 ms
+2505-phrase.npy: IDR: 80.00%     MR: 6.67%       FAR: 13.33%     IDA: 2.121 ms
+2504-phrase.npy: IDR: 82.26%     MR: 12.90%      FAR: 4.84%      IDA: 1.219 ms
+2524-phrase.npy: IDR: 95.19%     MR: 3.85%       FAR: 0.96%      IDA: 0.332 ms
+2499-phrase.npy: IDR: 85.57%     MR: 6.47%       FAR: 7.96%      IDA: 1.850 ms
+2481-phrase.npy: IDR: 99.70%     MR: 0.00%       FAR: 0.30%      IDA: 0.186 ms
+2506-phrase.npy: IDR: 54.30%     MR: 3.76%       FAR: 41.94%     IDA: 2.285 ms
+2601-phrase.npy: IDR: 82.05%     MR: 4.49%       FAR: 13.46%     IDA: 1.080 ms
+2528-phrase.npy: IDR: 89.07%     MR: 5.30%       FAR: 5.63%      IDA: 1.694 ms
+
+identification_rate:0.8816 miss_rate:0.05257 false_alarm_rate:0.06587 identification_accuracy:0.001174
+
+GERD
+1117-phrase.npy: IDR: 96.97%     MR: 0.00%       FAR: 3.03%      IDA: 0.184 ms
+1218-phrase.npy: IDR: 99.11%     MR: 0.00%       FAR: 0.89%      IDA: 0.132 ms
+1551-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.246 ms
+
+identification_rate:0.9869 miss_rate:  0.0 false_alarm_rate:0.01308 identification_accuracy:0.0001875
+
+Gesangsstimme
+154-phrase.npy: IDR: 85.53%      MR: 7.89%       FAR: 6.58%      IDA: 1.459 ms
+822-phrase.npy: IDR: 88.08%      MR: 5.30%       FAR: 6.62%      IDA: 1.116 ms
+666-phrase.npy: IDR: 76.92%      MR: 12.82%      FAR: 10.26%     IDA: 2.414 ms
+817-phrase.npy: IDR: 91.14%      MR: 5.06%       FAR: 3.80%      IDA: 1.174 ms
+1038-phrase.npy: IDR: 85.39%     MR: 6.18%       FAR: 8.43%      IDA: 1.479 ms
+939-phrase.npy: IDR: 99.48%      MR: 0.00%       FAR: 0.52%      IDA: 0.070 ms
+1041-phrase.npy: IDR: 83.10%     MR: 7.75%       FAR: 9.15%      IDA: 1.592 ms
+1224-phrase.npy: IDR: 97.92%     MR: 0.00%       FAR: 2.08%      IDA: 0.088 ms
+1160-phrase.npy: IDR: 97.67%     MR: 1.86%       FAR: 0.47%      IDA: 0.128 ms
+1275-phrase.npy: IDR: 77.37%     MR: 10.22%      FAR: 12.41%     IDA: 1.764 ms
+1286-phrase.npy: IDR: 95.60%     MR: 1.89%       FAR: 2.52%      IDA: 1.066 ms
+1588-phrase.npy: IDR: 82.35%     MR: 5.88%       FAR: 11.76%     IDA: 1.222 ms
+1600-phrase.npy: IDR: 81.54%     MR: 6.15%       FAR: 12.31%     IDA: 1.957 ms
+1574-phrase.npy: IDR: 60.26%     MR: 28.21%      FAR: 11.54%     IDA: 2.374 ms
+1592-phrase.npy: IDR: 83.60%     MR: 5.82%       FAR: 10.58%     IDA: 2.116 ms
+1616-phrase.npy: IDR: 69.52%     MR: 14.29%      FAR: 16.19%     IDA: 2.464 ms
+1615-phrase.npy: IDR: 93.53%     MR: 5.76%       FAR: 0.72%      IDA: 0.525 ms
+
+identification_rate:0.8523 miss_rate:0.07357 false_alarm_rate:0.07408 identification_accuracy:0.001353
+
+Granulom
+1684-phrase.npy: IDR: 99.26%     MR: 0.74%       FAR: 0.00%      IDA: 0.152 ms
+2566-phrase.npy: IDR: 76.77%     MR: 8.39%       FAR: 14.84%     IDA: 2.463 ms
+
+identification_rate:0.8802 miss_rate:0.04561 false_alarm_rate:0.07419 identification_accuracy:0.001308
+
+Hyperasthenie
+1615-phrase.npy: IDR: 93.53%     MR: 5.76%       FAR: 0.72%      IDA: 0.525 ms
+
+identification_rate:0.9353 miss_rate:0.05755 false_alarm_rate:0.007194 identification_accuracy:0.0005252
+
+Hyperfunktionelle Dysphonie
+140-phrase.npy: IDR: 91.34%      MR: 3.94%       FAR: 4.72%      IDA: 0.449 ms
+106-phrase.npy: IDR: 98.21%      MR: 0.00%       FAR: 1.79%      IDA: 0.170 ms
+127-phrase.npy: IDR: 90.04%      MR: 6.22%       FAR: 3.73%      IDA: 1.202 ms
+144-phrase.npy: IDR: 80.95%      MR: 7.14%       FAR: 11.90%     IDA: 2.351 ms
+159-phrase.npy: IDR: 98.68%      MR: 0.66%       FAR: 0.66%      IDA: 0.184 ms
+363-phrase.npy: IDR: 88.17%      MR: 5.33%       FAR: 6.51%      IDA: 1.354 ms
+160-phrase.npy: IDR: 95.95%      MR: 3.47%       FAR: 0.58%      IDA: 0.137 ms
+355-phrase.npy: IDR: 92.37%      MR: 4.58%       FAR: 3.05%      IDA: 1.197 ms
+499-phrase.npy: IDR: 87.27%      MR: 5.45%       FAR: 7.27%      IDA: 1.367 ms
+348-phrase.npy: IDR: 99.58%      MR: 0.00%       FAR: 0.42%      IDA: 0.112 ms
+669-phrase.npy: IDR: 91.53%      MR: 4.23%       FAR: 4.23%      IDA: 1.051 ms
+724-phrase.npy: IDR: 86.80%      MR: 6.60%       FAR: 6.60%      IDA: 1.387 ms
+692-phrase.npy: IDR: 94.64%      MR: 2.98%       FAR: 2.38%      IDA: 1.267 ms
+665-phrase.npy: IDR: 95.89%      MR: 2.05%       FAR: 2.05%      IDA: 0.728 ms
+819-phrase.npy: IDR: 97.00%      MR: 1.00%       FAR: 2.00%      IDA: 1.195 ms
+829-phrase.npy: IDR: 99.23%      MR: 0.00%       FAR: 0.77%      IDA: 0.243 ms
+827-phrase.npy: IDR: 85.29%      MR: 5.88%       FAR: 8.82%      IDA: 1.239 ms
+854-phrase.npy: IDR: 99.10%      MR: 0.90%       FAR: 0.00%      IDA: 0.147 ms
+857-phrase.npy: IDR: 76.32%      MR: 7.89%       FAR: 15.79%     IDA: 2.119 ms
+881-phrase.npy: IDR: 76.74%      MR: 8.14%       FAR: 15.12%     IDA: 2.435 ms
+850-phrase.npy: IDR: 98.29%      MR: 1.02%       FAR: 0.68%      IDA: 0.653 ms
+888-phrase.npy: IDR: 84.00%      MR: 4.00%       FAR: 12.00%     IDA: 1.544 ms
+889-phrase.npy: IDR: 90.31%      MR: 5.61%       FAR: 4.08%      IDA: 1.018 ms
+868-phrase.npy: IDR: 85.43%      MR: 6.48%       FAR: 8.10%      IDA: 1.434 ms
+890-phrase.npy: IDR: 87.67%      MR: 8.22%       FAR: 4.11%      IDA: 2.048 ms
+898-phrase.npy: IDR: 90.32%      MR: 4.03%       FAR: 5.65%      IDA: 0.735 ms
+894-phrase.npy: IDR: 99.33%      MR: 0.00%       FAR: 0.67%      IDA: 0.155 ms
+909-phrase.npy: IDR: 86.29%      MR: 5.65%       FAR: 8.06%      IDA: 1.427 ms
+922-phrase.npy: IDR: 97.94%      MR: 2.06%       FAR: 0.00%      IDA: 0.132 ms
+934-phrase.npy: IDR: 73.13%      MR: 13.43%      FAR: 13.43%     IDA: 2.478 ms
+1037-phrase.npy: IDR: 89.36%     MR: 5.67%       FAR: 4.96%      IDA: 0.867 ms
+1043-phrase.npy: IDR: 97.60%     MR: 1.60%       FAR: 0.80%      IDA: 0.121 ms
+1044-phrase.npy: IDR: 89.71%     MR: 5.88%       FAR: 4.41%      IDA: 1.345 ms
+1050-phrase.npy: IDR: 65.85%     MR: 14.02%      FAR: 20.12%     IDA: 2.254 ms
+1113-phrase.npy: IDR: 89.43%     MR: 4.88%       FAR: 5.69%      IDA: 1.039 ms
+1088-phrase.npy: IDR: 82.19%     MR: 4.11%       FAR: 13.70%     IDA: 1.228 ms
+1051-phrase.npy: IDR: 94.71%     MR: 2.65%       FAR: 2.65%      IDA: 0.593 ms
+1083-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.119 ms
+1085-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.125 ms
+1090-phrase.npy: IDR: 86.54%     MR: 8.17%       FAR: 5.29%      IDA: 1.193 ms
+1118-phrase.npy: IDR: 86.36%     MR: 5.45%       FAR: 8.18%      IDA: 1.466 ms
+1189-phrase.npy: IDR: 91.18%     MR: 3.68%       FAR: 5.15%      IDA: 0.990 ms
+1222-phrase.npy: IDR: 83.90%     MR: 7.63%       FAR: 8.47%      IDA: 1.890 ms
+1282-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.132 ms
+1266-phrase.npy: IDR: 68.00%     MR: 12.80%      FAR: 19.20%     IDA: 2.001 ms
+1280-phrase.npy: IDR: 73.58%     MR: 12.26%      FAR: 14.15%     IDA: 2.414 ms
+1204-phrase.npy: IDR: 85.12%     MR: 7.74%       FAR: 7.14%      IDA: 1.619 ms
+1284-phrase.npy: IDR: 89.06%     MR: 4.69%       FAR: 6.25%      IDA: 1.392 ms
+1196-phrase.npy: IDR: 66.86%     MR: 16.86%      FAR: 16.28%     IDA: 2.655 ms
+1285-phrase.npy: IDR: 98.68%     MR: 0.66%       FAR: 0.66%      IDA: 0.125 ms
+1294-phrase.npy: IDR: 85.37%     MR: 6.71%       FAR: 7.93%      IDA: 1.466 ms
+1299-phrase.npy: IDR: 83.12%     MR: 9.09%       FAR: 7.79%      IDA: 1.090 ms
+1310-phrase.npy: IDR: 96.12%     MR: 3.88%       FAR: 0.00%      IDA: 0.101 ms
+1324-phrase.npy: IDR: 90.00%     MR: 4.29%       FAR: 5.71%      IDA: 1.494 ms
+1331-phrase.npy: IDR: 83.33%     MR: 6.41%       FAR: 10.26%     IDA: 1.563 ms
+1335-phrase.npy: IDR: 95.14%     MR: 2.78%       FAR: 2.08%      IDA: 1.185 ms
+1379-phrase.npy: IDR: 73.42%     MR: 11.39%      FAR: 15.19%     IDA: 1.995 ms
+1380-phrase.npy: IDR: 91.09%     MR: 3.96%       FAR: 4.95%      IDA: 1.220 ms
+1327-phrase.npy: IDR: 82.95%     MR: 6.98%       FAR: 10.08%     IDA: 2.015 ms
+1431-phrase.npy: IDR: 90.00%     MR: 4.44%       FAR: 5.56%      IDA: 0.555 ms
+1406-phrase.npy: IDR: 84.44%     MR: 6.67%       FAR: 8.89%      IDA: 1.777 ms
+1442-phrase.npy: IDR: 87.58%     MR: 6.54%       FAR: 5.88%      IDA: 1.936 ms
+1443-phrase.npy: IDR: 92.65%     MR: 1.96%       FAR: 5.39%      IDA: 0.490 ms
+1394-phrase.npy: IDR: 95.71%     MR: 1.23%       FAR: 3.07%      IDA: 0.839 ms
+1464-phrase.npy: IDR: 91.97%     MR: 5.84%       FAR: 2.19%      IDA: 1.022 ms
+1459-phrase.npy: IDR: 85.71%     MR: 4.76%       FAR: 9.52%      IDA: 1.465 ms
+1471-phrase.npy: IDR: 71.17%     MR: 11.71%      FAR: 17.12%     IDA: 2.551 ms
+1462-phrase.npy: IDR: 90.83%     MR: 3.93%       FAR: 5.24%      IDA: 1.166 ms
+1468-phrase.npy: IDR: 68.75%     MR: 11.81%      FAR: 19.44%     IDA: 2.455 ms
+1476-phrase.npy: IDR: 87.07%     MR: 6.80%       FAR: 6.12%      IDA: 1.437 ms
+1492-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.200 ms
+1562-phrase.npy: IDR: 74.67%     MR: 18.67%      FAR: 6.67%      IDA: 1.318 ms
+1602-phrase.npy: IDR: 96.92%     MR: 0.00%       FAR: 3.08%      IDA: 0.134 ms
+1569-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.104 ms
+1571-phrase.npy: IDR: 91.28%     MR: 1.38%       FAR: 7.34%      IDA: 0.453 ms
+1566-phrase.npy: IDR: 87.03%     MR: 5.95%       FAR: 7.03%      IDA: 1.181 ms
+1500-phrase.npy: IDR: 64.95%     MR: 18.22%      FAR: 16.82%     IDA: 2.009 ms
+1607-phrase.npy: IDR: 85.11%     MR: 7.09%       FAR: 7.80%      IDA: 1.943 ms
+1594-phrase.npy: IDR: 74.07%     MR: 9.26%       FAR: 16.67%     IDA: 2.057 ms
+1637-phrase.npy: IDR: 93.83%     MR: 1.23%       FAR: 4.94%      IDA: 0.105 ms
+1608-phrase.npy: IDR: 89.15%     MR: 5.43%       FAR: 5.43%      IDA: 1.334 ms
+1643-phrase.npy: IDR: 96.28%     MR: 2.33%       FAR: 1.40%      IDA: 0.822 ms
+1653-phrase.npy: IDR: 84.07%     MR: 15.93%      FAR: 0.00%      IDA: 0.240 ms
+1591-phrase.npy: IDR: 99.70%     MR: 0.00%       FAR: 0.30%      IDA: 0.118 ms
+1660-phrase.npy: IDR: 76.32%     MR: 10.53%      FAR: 13.16%     IDA: 2.273 ms
+1682-phrase.npy: IDR: 83.76%     MR: 6.84%       FAR: 9.40%      IDA: 2.318 ms
+1648-phrase.npy: IDR: 91.32%     MR: 4.15%       FAR: 4.53%      IDA: 1.630 ms
+1686-phrase.npy: IDR: 96.86%     MR: 1.89%       FAR: 1.26%      IDA: 0.894 ms
+1741-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.129 ms
+1690-phrase.npy: IDR: 95.44%     MR: 2.28%       FAR: 2.28%      IDA: 1.146 ms
+1753-phrase.npy: IDR: 71.07%     MR: 16.35%      FAR: 12.58%     IDA: 2.729 ms
+1745-phrase.npy: IDR: 92.23%     MR: 3.11%       FAR: 4.66%      IDA: 1.013 ms
+1778-phrase.npy: IDR: 88.96%     MR: 6.13%       FAR: 4.91%      IDA: 1.063 ms
+1777-phrase.npy: IDR: 82.61%     MR: 4.89%       FAR: 12.50%     IDA: 1.270 ms
+1754-phrase.npy: IDR: 94.06%     MR: 4.11%       FAR: 1.83%      IDA: 0.858 ms
+1792-phrase.npy: IDR: 91.72%     MR: 2.96%       FAR: 5.33%      IDA: 1.173 ms
+1794-phrase.npy: IDR: 75.58%     MR: 9.30%       FAR: 15.12%     IDA: 2.269 ms
+1800-phrase.npy: IDR: 93.37%     MR: 3.01%       FAR: 3.61%      IDA: 0.938 ms
+1786-phrase.npy: IDR: 79.19%     MR: 11.41%      FAR: 9.40%      IDA: 2.174 ms
+1802-phrase.npy: IDR: 93.12%     MR: 1.88%       FAR: 5.00%      IDA: 1.017 ms
+1812-phrase.npy: IDR: 78.72%     MR: 6.38%       FAR: 14.89%     IDA: 0.676 ms
+1822-phrase.npy: IDR: 87.27%     MR: 6.06%       FAR: 6.67%      IDA: 1.403 ms
+1816-phrase.npy: IDR: 76.98%     MR: 7.14%       FAR: 15.87%     IDA: 2.205 ms
+1758-phrase.npy: IDR: 82.53%     MR: 6.99%       FAR: 10.48%     IDA: 1.754 ms
+1813-phrase.npy: IDR: 85.86%     MR: 5.76%       FAR: 8.38%      IDA: 1.746 ms
+1887-phrase.npy: IDR: 86.26%     MR: 6.11%       FAR: 7.63%      IDA: 1.288 ms
+1888-phrase.npy: IDR: 84.43%     MR: 8.98%       FAR: 6.59%      IDA: 1.576 ms
+1861-phrase.npy: IDR: 95.03%     MR: 2.48%       FAR: 2.48%      IDA: 1.292 ms
+1823-phrase.npy: IDR: 88.45%     MR: 4.78%       FAR: 6.77%      IDA: 1.682 ms
+1891-phrase.npy: IDR: 93.28%     MR: 1.49%       FAR: 5.22%      IDA: 1.313 ms
+1895-phrase.npy: IDR: 60.95%     MR: 18.10%      FAR: 20.95%     IDA: 1.777 ms
+1898-phrase.npy: IDR: 85.71%     MR: 2.75%       FAR: 11.54%     IDA: 0.665 ms
+1900-phrase.npy: IDR: 97.20%     MR: 1.40%       FAR: 1.40%      IDA: 0.200 ms
+1903-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.099 ms
+1910-phrase.npy: IDR: 69.92%     MR: 15.79%      FAR: 14.29%     IDA: 1.891 ms
+1927-phrase.npy: IDR: 86.75%     MR: 4.82%       FAR: 8.43%      IDA: 1.399 ms
+1906-phrase.npy: IDR: 84.83%     MR: 6.90%       FAR: 8.28%      IDA: 1.601 ms
+1944-phrase.npy: IDR: 72.15%     MR: 13.92%      FAR: 13.92%     IDA: 2.132 ms
+1929-phrase.npy: IDR: 92.99%     MR: 3.82%       FAR: 3.18%      IDA: 0.873 ms
+1934-phrase.npy: IDR: 97.81%     MR: 0.00%       FAR: 2.19%      IDA: 0.120 ms
+1952-phrase.npy: IDR: 71.43%     MR: 12.78%      FAR: 15.79%     IDA: 2.296 ms
+1982-phrase.npy: IDR: 84.09%     MR: 9.09%       FAR: 6.82%      IDA: 2.324 ms
+1978-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.112 ms
+1988-phrase.npy: IDR: 76.92%     MR: 6.99%       FAR: 16.08%     IDA: 1.445 ms
+1964-phrase.npy: IDR: 90.70%     MR: 4.65%       FAR: 4.65%      IDA: 1.215 ms
+1989-phrase.npy: IDR: 89.04%     MR: 5.48%       FAR: 5.48%      IDA: 1.475 ms
+1983-phrase.npy: IDR: 83.89%     MR: 4.70%       FAR: 11.41%     IDA: 1.994 ms
+1976-phrase.npy: IDR: 88.53%     MR: 5.05%       FAR: 6.42%      IDA: 1.192 ms
+1990-phrase.npy: IDR: 83.96%     MR: 5.66%       FAR: 10.38%     IDA: 0.892 ms
+2012-phrase.npy: IDR: 82.18%     MR: 9.90%       FAR: 7.92%      IDA: 0.981 ms
+2034-phrase.npy: IDR: 96.64%     MR: 0.67%       FAR: 2.68%      IDA: 1.172 ms
+1993-phrase.npy: IDR: 84.81%     MR: 5.70%       FAR: 9.49%      IDA: 1.357 ms
+2062-phrase.npy: IDR: 83.97%     MR: 6.87%       FAR: 9.16%      IDA: 1.861 ms
+2067-phrase.npy: IDR: 73.58%     MR: 9.43%       FAR: 16.98%     IDA: 2.516 ms
+2071-phrase.npy: IDR: 79.13%     MR: 8.70%       FAR: 12.17%     IDA: 1.634 ms
+2081-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.081 ms
+2077-phrase.npy: IDR: 94.30%     MR: 2.63%       FAR: 3.07%      IDA: 0.655 ms
+2080-phrase.npy: IDR: 92.55%     MR: 4.26%       FAR: 3.19%      IDA: 1.419 ms
+2104-phrase.npy: IDR: 74.44%     MR: 12.22%      FAR: 13.33%     IDA: 2.289 ms
+2102-phrase.npy: IDR: 83.82%     MR: 7.35%       FAR: 8.82%      IDA: 1.680 ms
+2107-phrase.npy: IDR: 85.71%     MR: 7.14%       FAR: 7.14%      IDA: 1.548 ms
+2090-phrase.npy: IDR: 88.74%     MR: 5.86%       FAR: 5.41%      IDA: 1.174 ms
+2114-phrase.npy: IDR: 86.39%     MR: 6.51%       FAR: 7.10%      IDA: 2.023 ms
+2122-phrase.npy: IDR: 86.15%     MR: 4.62%       FAR: 9.23%      IDA: 1.874 ms
+2105-phrase.npy: IDR: 84.67%     MR: 5.23%       FAR: 10.10%     IDA: 1.596 ms
+2121-phrase.npy: IDR: 79.10%     MR: 9.60%       FAR: 11.30%     IDA: 1.831 ms
+2135-phrase.npy: IDR: 98.48%     MR: 0.00%       FAR: 1.52%      IDA: 0.183 ms
+2124-phrase.npy: IDR: 94.86%     MR: 1.40%       FAR: 3.74%      IDA: 0.974 ms
+2184-phrase.npy: IDR: 75.63%     MR: 10.08%      FAR: 14.29%     IDA: 2.232 ms
+2185-phrase.npy: IDR: 95.76%     MR: 3.39%       FAR: 0.85%      IDA: 0.220 ms
+2138-phrase.npy: IDR: 86.51%     MR: 5.58%       FAR: 7.91%      IDA: 1.521 ms
+2186-phrase.npy: IDR: 98.71%     MR: 1.29%       FAR: 0.00%      IDA: 0.072 ms
+2221-phrase.npy: IDR: 81.13%     MR: 6.60%       FAR: 12.26%     IDA: 1.539 ms
+2151-phrase.npy: IDR: 94.24%     MR: 2.06%       FAR: 3.70%      IDA: 0.878 ms
+2139-phrase.npy: IDR: 89.95%     MR: 4.31%       FAR: 5.74%      IDA: 1.569 ms
+2215-phrase.npy: IDR: 62.50%     MR: 23.21%      FAR: 14.29%     IDA: 2.869 ms
+2228-phrase.npy: IDR: 89.38%     MR: 5.62%       FAR: 5.00%      IDA: 1.148 ms
+2224-phrase.npy: IDR: 95.18%     MR: 3.01%       FAR: 1.81%      IDA: 1.067 ms
+2225-phrase.npy: IDR: 95.52%     MR: 0.75%       FAR: 3.73%      IDA: 0.840 ms
+2229-phrase.npy: IDR: 96.36%     MR: 3.64%       FAR: 0.00%      IDA: 0.965 ms
+2233-phrase.npy: IDR: 94.83%     MR: 0.00%       FAR: 5.17%      IDA: 0.168 ms
+2230-phrase.npy: IDR: 99.32%     MR: 0.68%       FAR: 0.00%      IDA: 0.150 ms
+2232-phrase.npy: IDR: 96.36%     MR: 2.73%       FAR: 0.91%      IDA: 0.442 ms
+2239-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.412 ms
+2240-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.103 ms
+2245-phrase.npy: IDR: 94.04%     MR: 3.21%       FAR: 2.75%      IDA: 1.218 ms
+2288-phrase.npy: IDR: 83.92%     MR: 8.39%       FAR: 7.69%      IDA: 1.662 ms
+2270-phrase.npy: IDR: 97.14%     MR: 0.00%       FAR: 2.86%      IDA: 0.244 ms
+2292-phrase.npy: IDR: 84.54%     MR: 7.73%       FAR: 7.73%      IDA: 1.573 ms
+2272-phrase.npy: IDR: 86.84%     MR: 7.89%       FAR: 5.26%      IDA: 1.624 ms
+2241-phrase.npy: IDR: 90.32%     MR: 0.00%       FAR: 9.68%      IDA: 0.118 ms
+2298-phrase.npy: IDR: 80.82%     MR: 7.53%       FAR: 11.64%     IDA: 2.107 ms
+2317-phrase.npy: IDR: 74.55%     MR: 11.82%      FAR: 13.64%     IDA: 2.246 ms
+2338-phrase.npy: IDR: 71.72%     MR: 13.13%      FAR: 15.15%     IDA: 2.179 ms
+2293-phrase.npy: IDR: 93.73%     MR: 3.14%       FAR: 3.14%      IDA: 0.884 ms
+2331-phrase.npy: IDR: 84.21%     MR: 7.52%       FAR: 8.27%      IDA: 1.308 ms
+2363-phrase.npy: IDR: 89.71%     MR: 4.41%       FAR: 5.88%      IDA: 1.536 ms
+2307-phrase.npy: IDR: 91.35%     MR: 4.32%       FAR: 4.32%      IDA: 1.342 ms
+2370-phrase.npy: IDR: 88.68%     MR: 5.03%       FAR: 6.29%      IDA: 1.446 ms
+2374-phrase.npy: IDR: 88.67%     MR: 5.42%       FAR: 5.91%      IDA: 0.920 ms
+2399-phrase.npy: IDR: 72.22%     MR: 13.33%      FAR: 14.44%     IDA: 2.264 ms
+2420-phrase.npy: IDR: 98.92%     MR: 1.08%       FAR: 0.00%      IDA: 0.127 ms
+2398-phrase.npy: IDR: 92.12%     MR: 3.03%       FAR: 4.85%      IDA: 1.144 ms
+2378-phrase.npy: IDR: 75.96%     MR: 11.54%      FAR: 12.50%     IDA: 1.500 ms
+2438-phrase.npy: IDR: 98.40%     MR: 1.60%       FAR: 0.00%      IDA: 0.083 ms
+2425-phrase.npy: IDR: 88.95%     MR: 3.49%       FAR: 7.56%      IDA: 0.780 ms
+2447-phrase.npy: IDR: 91.88%     MR: 2.50%       FAR: 5.62%      IDA: 1.427 ms
+2449-phrase.npy: IDR: 88.82%     MR: 5.88%       FAR: 5.29%      IDA: 1.656 ms
+2471-phrase.npy: IDR: 97.62%     MR: 1.59%       FAR: 0.79%      IDA: 0.120 ms
+2466-phrase.npy: IDR: 72.86%     MR: 14.29%      FAR: 12.86%     IDA: 2.443 ms
+2454-phrase.npy: IDR: 97.25%     MR: 1.83%       FAR: 0.92%      IDA: 0.715 ms
+2479-phrase.npy: IDR: 93.49%     MR: 2.33%       FAR: 4.19%      IDA: 1.100 ms
+2480-phrase.npy: IDR: 94.92%     MR: 1.13%       FAR: 3.95%      IDA: 0.956 ms
+2487-phrase.npy: IDR: 95.41%     MR: 2.04%       FAR: 2.55%      IDA: 0.843 ms
+2463-phrase.npy: IDR: 96.79%     MR: 0.40%       FAR: 2.81%      IDA: 0.336 ms
+2492-phrase.npy: IDR: 99.32%     MR: 0.68%       FAR: 0.00%      IDA: 0.127 ms
+2482-phrase.npy: IDR: 91.95%     MR: 3.81%       FAR: 4.24%      IDA: 1.203 ms
+2521-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.129 ms
+2523-phrase.npy: IDR: 94.70%     MR: 0.76%       FAR: 4.55%      IDA: 0.098 ms
+2526-phrase.npy: IDR: 84.08%     MR: 3.18%       FAR: 12.74%     IDA: 1.058 ms
+2517-phrase.npy: IDR: 97.32%     MR: 2.30%       FAR: 0.38%      IDA: 0.127 ms
+2572-phrase.npy: IDR: 86.96%     MR: 13.04%      FAR: 0.00%      IDA: 0.985 ms
+2553-phrase.npy: IDR: 94.70%     MR: 2.27%       FAR: 3.03%      IDA: 0.807 ms
+2546-phrase.npy: IDR: 85.31%     MR: 5.59%       FAR: 9.09%      IDA: 1.326 ms
+2540-phrase.npy: IDR: 90.58%     MR: 2.24%       FAR: 7.17%      IDA: 1.172 ms
+2545-phrase.npy: IDR: 99.49%     MR: 0.00%       FAR: 0.51%      IDA: 0.259 ms
+2577-phrase.npy: IDR: 82.17%     MR: 6.98%       FAR: 10.85%     IDA: 1.141 ms
+2603-phrase.npy: IDR: 89.58%     MR: 5.21%       FAR: 5.21%      IDA: 1.658 ms
+2591-phrase.npy: IDR: 70.00%     MR: 7.27%       FAR: 22.73%     IDA: 2.420 ms
+2589-phrase.npy: IDR: 70.71%     MR: 11.11%      FAR: 18.18%     IDA: 2.394 ms
+2590-phrase.npy: IDR: 86.00%     MR: 6.00%       FAR: 8.00%      IDA: 1.734 ms
+2604-phrase.npy: IDR: 91.00%     MR: 2.00%       FAR: 7.00%      IDA: 1.412 ms
+
+identification_rate:0.8807 miss_rate:0.05323 false_alarm_rate:0.06605 identification_accuracy:0.001198
+
+Hypofunktionelle Dysphonie
+1087-phrase.npy: IDR: 85.16%     MR: 6.25%       FAR: 8.59%      IDA: 1.606 ms
+1117-phrase.npy: IDR: 96.97%     MR: 0.00%       FAR: 3.03%      IDA: 0.184 ms
+1156-phrase.npy: IDR: 99.27%     MR: 0.00%       FAR: 0.73%      IDA: 0.126 ms
+1261-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.171 ms
+1291-phrase.npy: IDR: 95.95%     MR: 2.02%       FAR: 2.02%      IDA: 0.170 ms
+1461-phrase.npy: IDR: 99.48%     MR: 0.00%       FAR: 0.52%      IDA: 0.142 ms
+1590-phrase.npy: IDR: 99.56%     MR: 0.00%       FAR: 0.44%      IDA: 0.153 ms
+1603-phrase.npy: IDR: 99.29%     MR: 0.00%       FAR: 0.71%      IDA: 0.073 ms
+1668-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.271 ms
+2070-phrase.npy: IDR: 94.70%     MR: 1.99%       FAR: 3.31%      IDA: 1.348 ms
+2116-phrase.npy: IDR: 83.01%     MR: 5.88%       FAR: 11.11%     IDA: 1.603 ms
+2212-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.132 ms
+2349-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.593 ms
+2606-phrase.npy: IDR: 73.24%     MR: 11.27%      FAR: 15.49%     IDA: 2.082 ms
+2584-phrase.npy: IDR: 81.62%     MR: 5.41%       FAR: 12.97%     IDA: 0.858 ms
+2579-phrase.npy: IDR: 88.07%     MR: 5.68%       FAR: 6.25%      IDA: 1.389 ms
+
+identification_rate:0.9352 miss_rate:0.02406 false_alarm_rate:0.04074 identification_accuracy:0.0006813
+
+Hypopharynxtumor
+731-phrase.npy: IDR: 93.09%      MR: 4.79%       FAR: 2.13%      IDA: 0.246 ms
+1560-phrase.npy: IDR: 96.49%     MR: 1.17%       FAR: 2.34%      IDA: 0.320 ms
+1439-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.129 ms
+1773-phrase.npy: IDR: 96.71%     MR: 2.63%       FAR: 0.66%      IDA: 0.178 ms
+1814-phrase.npy: IDR: 98.68%     MR: 1.32%       FAR: 0.00%      IDA: 0.109 ms
+2402-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.263 ms
+
+identification_rate:0.975 miss_rate:0.01651 false_alarm_rate:0.008541 identification_accuracy:0.0002076
+
+Hypotone Dysphonie
+129-phrase.npy: IDR: 98.67%      MR: 1.33%       FAR: 0.00%      IDA: 0.206 ms
+1744-phrase.npy: IDR: 73.26%     MR: 9.30%       FAR: 17.44%     IDA: 2.475 ms
+2020-phrase.npy: IDR: 99.29%     MR: 0.71%       FAR: 0.00%      IDA: 0.119 ms
+2133-phrase.npy: IDR: 97.24%     MR: 1.03%       FAR: 1.72%      IDA: 0.595 ms
+2013-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.108 ms
+
+identification_rate:0.9369 miss_rate:0.02476 false_alarm_rate:0.03833 identification_accuracy:0.0007004
+
+Internusschwache
+1255-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.310 ms
+
+identification_rate:  1.0 miss_rate:  0.0 false_alarm_rate:  0.0 identification_accuracy:0.0003099
+
+Intubationsgranulom
+1158-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.122 ms
+1649-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.128 ms
+2571-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.175 ms
+2434-phrase.npy: IDR: 99.33%     MR: 0.00%       FAR: 0.67%      IDA: 0.369 ms
+
+identification_rate:0.9983 miss_rate:  0.0 false_alarm_rate:0.001678 identification_accuracy:0.0001984
+
+Intubationsschaden
+1750-phrase.npy: IDR: 64.29%     MR: 17.86%      FAR: 17.86%     IDA: 1.849 ms
+1396-phrase.npy: IDR: 99.58%     MR: 0.42%       FAR: 0.00%      IDA: 0.169 ms
+2412-phrase.npy: IDR: 91.33%     MR: 4.08%       FAR: 4.59%      IDA: 1.283 ms
+
+identification_rate:0.8506 miss_rate:0.07452 false_alarm_rate:0.07483 identification_accuracy:0.0011
+
+Juvenile Dysphonie
+667-phrase.npy: IDR: 70.63%      MR: 12.70%      FAR: 16.67%     IDA: 2.627 ms
+
+identification_rate:0.7063 miss_rate:0.127 false_alarm_rate:0.1667 identification_accuracy:0.002627
+
+Kehlkopftumor
+940-phrase.npy: IDR: 90.53%      MR: 1.05%       FAR: 8.42%      IDA: 1.200 ms
+1942-phrase.npy: IDR: 75.00%     MR: 0.00%       FAR: 25.00%     IDA: 3.929 ms
+1968-phrase.npy: IDR: 98.03%     MR: 0.66%       FAR: 1.32%      IDA: 0.255 ms
+2069-phrase.npy: IDR: 73.33%     MR: 7.78%       FAR: 18.89%     IDA: 2.810 ms
+1670-phrase.npy: IDR: 96.88%     MR: 3.12%       FAR: 0.00%      IDA: 0.688 ms
+
+identification_rate:0.8675 miss_rate:0.02523 false_alarm_rate:0.1073 identification_accuracy:0.001777
+
+Kontaktpachydermie
+129-phrase.npy: IDR: 98.67%      MR: 1.33%       FAR: 0.00%      IDA: 0.206 ms
+352-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.155 ms
+446-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.207 ms
+503-phrase.npy: IDR: 97.85%      MR: 1.61%       FAR: 0.54%      IDA: 0.256 ms
+718-phrase.npy: IDR: 84.67%      MR: 2.92%       FAR: 12.41%     IDA: 0.500 ms
+721-phrase.npy: IDR: 82.53%      MR: 7.23%       FAR: 10.24%     IDA: 1.785 ms
+814-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.144 ms
+895-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.288 ms
+923-phrase.npy: IDR: 81.53%      MR: 12.74%      FAR: 5.73%      IDA: 0.296 ms
+1190-phrase.npy: IDR: 99.37%     MR: 0.63%       FAR: 0.00%      IDA: 0.159 ms
+1218-phrase.npy: IDR: 99.11%     MR: 0.00%       FAR: 0.89%      IDA: 0.132 ms
+876-phrase.npy: IDR: 91.06%      MR: 4.07%       FAR: 4.88%      IDA: 1.227 ms
+910-phrase.npy: IDR: 83.96%      MR: 8.02%       FAR: 8.02%      IDA: 0.151 ms
+1290-phrase.npy: IDR: 95.62%     MR: 4.38%       FAR: 0.00%      IDA: 0.128 ms
+1195-phrase.npy: IDR: 99.51%     MR: 0.49%       FAR: 0.00%      IDA: 0.069 ms
+1251-phrase.npy: IDR: 98.68%     MR: 0.88%       FAR: 0.44%      IDA: 0.194 ms
+1305-phrase.npy: IDR: 99.47%     MR: 0.53%       FAR: 0.00%      IDA: 0.249 ms
+1525-phrase.npy: IDR: 99.39%     MR: 0.00%       FAR: 0.61%      IDA: 0.136 ms
+1481-phrase.npy: IDR: 83.67%     MR: 9.52%       FAR: 6.80%      IDA: 0.437 ms
+1434-phrase.npy: IDR: 97.52%     MR: 0.00%       FAR: 2.48%      IDA: 0.217 ms
+1450-phrase.npy: IDR: 62.30%     MR: 14.75%      FAR: 22.95%     IDA: 2.439 ms
+1646-phrase.npy: IDR: 97.24%     MR: 2.07%       FAR: 0.69%      IDA: 0.139 ms
+1551-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.246 ms
+1668-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.271 ms
+1746-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.129 ms
+1897-phrase.npy: IDR: 86.18%     MR: 13.82%      FAR: 0.00%      IDA: 0.073 ms
+1819-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.135 ms
+1741-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.129 ms
+1647-phrase.npy: IDR: 99.63%     MR: 0.00%       FAR: 0.37%      IDA: 0.331 ms
+1780-phrase.npy: IDR: 99.34%     MR: 0.66%       FAR: 0.00%      IDA: 0.171 ms
+1747-phrase.npy: IDR: 99.11%     MR: 0.89%       FAR: 0.00%      IDA: 0.066 ms
+1912-phrase.npy: IDR: 99.47%     MR: 0.53%       FAR: 0.00%      IDA: 0.131 ms
+1967-phrase.npy: IDR: 97.89%     MR: 1.58%       FAR: 0.53%      IDA: 0.288 ms
+2015-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.103 ms
+2034-phrase.npy: IDR: 96.64%     MR: 0.67%       FAR: 2.68%      IDA: 1.172 ms
+1986-phrase.npy: IDR: 89.01%     MR: 5.49%       FAR: 5.49%      IDA: 1.170 ms
+1999-phrase.npy: IDR: 98.93%     MR: 0.53%       FAR: 0.53%      IDA: 0.136 ms
+2070-phrase.npy: IDR: 94.70%     MR: 1.99%       FAR: 3.31%      IDA: 1.348 ms
+2027-phrase.npy: IDR: 99.39%     MR: 0.00%       FAR: 0.61%      IDA: 0.243 ms
+2092-phrase.npy: IDR: 99.30%     MR: 0.70%       FAR: 0.00%      IDA: 0.650 ms
+2103-phrase.npy: IDR: 97.99%     MR: 1.34%       FAR: 0.67%      IDA: 0.453 ms
+2154-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.126 ms
+2135-phrase.npy: IDR: 98.48%     MR: 0.00%       FAR: 1.52%      IDA: 0.183 ms
+2116-phrase.npy: IDR: 83.01%     MR: 5.88%       FAR: 11.11%     IDA: 1.603 ms
+2231-phrase.npy: IDR: 98.14%     MR: 0.62%       FAR: 1.24%      IDA: 0.101 ms
+2146-phrase.npy: IDR: 96.89%     MR: 2.22%       FAR: 0.89%      IDA: 0.474 ms
+2326-phrase.npy: IDR: 99.02%     MR: 0.98%       FAR: 0.00%      IDA: 0.165 ms
+2220-phrase.npy: IDR: 91.89%     MR: 4.05%       FAR: 4.05%      IDA: 0.985 ms
+2340-phrase.npy: IDR: 99.25%     MR: 0.00%       FAR: 0.75%      IDA: 0.099 ms
+2265-phrase.npy: IDR: 95.07%     MR: 3.45%       FAR: 1.48%      IDA: 0.568 ms
+2403-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.208 ms
+2385-phrase.npy: IDR: 88.59%     MR: 3.26%       FAR: 8.15%      IDA: 0.237 ms
+2401-phrase.npy: IDR: 96.49%     MR: 0.58%       FAR: 2.92%      IDA: 0.974 ms
+2384-phrase.npy: IDR: 96.37%     MR: 2.59%       FAR: 1.04%      IDA: 0.734 ms
+2406-phrase.npy: IDR: 97.12%     MR: 2.88%       FAR: 0.00%      IDA: 0.382 ms
+2419-phrase.npy: IDR: 99.38%     MR: 0.62%       FAR: 0.00%      IDA: 0.388 ms
+2420-phrase.npy: IDR: 98.92%     MR: 1.08%       FAR: 0.00%      IDA: 0.127 ms
+2439-phrase.npy: IDR: 93.89%     MR: 0.56%       FAR: 5.56%      IDA: 0.926 ms
+2474-phrase.npy: IDR: 96.88%     MR: 2.08%       FAR: 1.04%      IDA: 0.220 ms
+2492-phrase.npy: IDR: 99.32%     MR: 0.68%       FAR: 0.00%      IDA: 0.127 ms
+2498-phrase.npy: IDR: 96.64%     MR: 0.67%       FAR: 2.68%      IDA: 0.119 ms
+2519-phrase.npy: IDR: 95.24%     MR: 3.81%       FAR: 0.95%      IDA: 0.384 ms
+2547-phrase.npy: IDR: 98.63%     MR: 0.00%       FAR: 1.37%      IDA: 0.107 ms
+2531-phrase.npy: IDR: 89.63%     MR: 5.81%       FAR: 4.56%      IDA: 1.032 ms
+2489-phrase.npy: IDR: 99.15%     MR: 0.85%       FAR: 0.00%      IDA: 0.167 ms
+2506-phrase.npy: IDR: 54.30%     MR: 3.76%       FAR: 41.94%     IDA: 2.285 ms
+2568-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.143 ms
+2543-phrase.npy: IDR: 99.60%     MR: 0.40%       FAR: 0.00%      IDA: 0.151 ms
+2580-phrase.npy: IDR: 98.53%     MR: 0.74%       FAR: 0.74%      IDA: 0.224 ms
+2555-phrase.npy: IDR: 87.80%     MR: 9.76%       FAR: 2.44%      IDA: 0.685 ms
+2586-phrase.npy: IDR: 98.82%     MR: 0.59%       FAR: 0.59%      IDA: 0.369 ms
+
+identification_rate:0.9517 miss_rate:0.02216 false_alarm_rate:0.02618 identification_accuracy:0.0004373
+
+Laryngitis
+139-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.228 ms
+107-phrase.npy: IDR: 82.11%      MR: 4.21%       FAR: 13.68%     IDA: 0.918 ms
+141-phrase.npy: IDR: 91.67%      MR: 6.25%       FAR: 2.08%      IDA: 2.481 ms
+493-phrase.npy: IDR: 99.16%      MR: 0.84%       FAR: 0.00%      IDA: 0.274 ms
+497-phrase.npy: IDR: 99.26%      MR: 0.00%       FAR: 0.74%      IDA: 0.085 ms
+498-phrase.npy: IDR: 85.71%      MR: 6.77%       FAR: 7.52%      IDA: 2.106 ms
+563-phrase.npy: IDR: 95.10%      MR: 3.50%       FAR: 1.40%      IDA: 0.201 ms
+715-phrase.npy: IDR: 73.95%      MR: 12.61%      FAR: 13.45%     IDA: 2.443 ms
+824-phrase.npy: IDR: 99.22%      MR: 0.00%       FAR: 0.78%      IDA: 0.093 ms
+568-phrase.npy: IDR: 97.54%      MR: 0.49%       FAR: 1.97%      IDA: 0.721 ms
+819-phrase.npy: IDR: 97.00%      MR: 1.00%       FAR: 2.00%      IDA: 1.195 ms
+818-phrase.npy: IDR: 98.06%      MR: 1.94%       FAR: 0.00%      IDA: 2.105 ms
+828-phrase.npy: IDR: 96.88%      MR: 1.88%       FAR: 1.25%      IDA: 0.155 ms
+884-phrase.npy: IDR: 89.90%      MR: 8.08%       FAR: 2.02%      IDA: 0.200 ms
+886-phrase.npy: IDR: 92.95%      MR: 3.21%       FAR: 3.85%      IDA: 0.279 ms
+871-phrase.npy: IDR: 93.96%      MR: 2.75%       FAR: 3.30%      IDA: 1.081 ms
+904-phrase.npy: IDR: 87.50%      MR: 12.50%      FAR: 0.00%      IDA: 0.475 ms
+902-phrase.npy: IDR: 79.31%      MR: 11.49%      FAR: 9.20%      IDA: 0.978 ms
+910-phrase.npy: IDR: 83.96%      MR: 8.02%       FAR: 8.02%      IDA: 0.151 ms
+919-phrase.npy: IDR: 88.89%      MR: 7.64%       FAR: 3.47%      IDA: 1.719 ms
+844-phrase.npy: IDR: 68.04%      MR: 13.40%      FAR: 18.56%     IDA: 2.077 ms
+935-phrase.npy: IDR: 98.35%      MR: 0.00%       FAR: 1.65%      IDA: 0.215 ms
+918-phrase.npy: IDR: 99.07%      MR: 0.00%       FAR: 0.93%      IDA: 0.417 ms
+931-phrase.npy: IDR: 94.48%      MR: 2.76%       FAR: 2.76%      IDA: 1.142 ms
+1046-phrase.npy: IDR: 88.89%     MR: 5.29%       FAR: 5.82%      IDA: 1.190 ms
+930-phrase.npy: IDR: 98.36%      MR: 1.09%       FAR: 0.55%      IDA: 0.305 ms
+1161-phrase.npy: IDR: 96.55%     MR: 3.45%       FAR: 0.00%      IDA: 0.268 ms
+1119-phrase.npy: IDR: 62.16%     MR: 15.32%      FAR: 22.52%     IDA: 2.542 ms
+1047-phrase.npy: IDR: 85.71%     MR: 7.37%       FAR: 6.91%      IDA: 1.667 ms
+1192-phrase.npy: IDR: 80.42%     MR: 6.29%       FAR: 13.29%     IDA: 1.931 ms
+1188-phrase.npy: IDR: 78.57%     MR: 8.93%       FAR: 12.50%     IDA: 2.061 ms
+1163-phrase.npy: IDR: 92.54%     MR: 2.99%       FAR: 4.48%      IDA: 1.100 ms
+1221-phrase.npy: IDR: 88.43%     MR: 3.31%       FAR: 8.26%      IDA: 0.948 ms
+1233-phrase.npy: IDR: 63.79%     MR: 14.66%      FAR: 21.55%     IDA: 2.419 ms
+1229-phrase.npy: IDR: 99.12%     MR: 0.88%       FAR: 0.00%      IDA: 0.061 ms
+1228-phrase.npy: IDR: 87.43%     MR: 6.28%       FAR: 6.28%      IDA: 1.483 ms
+1235-phrase.npy: IDR: 97.83%     MR: 2.17%       FAR: 0.00%      IDA: 0.156 ms
+1246-phrase.npy: IDR: 98.90%     MR: 0.00%       FAR: 1.10%      IDA: 0.121 ms
+1237-phrase.npy: IDR: 97.10%     MR: 2.17%       FAR: 0.72%      IDA: 0.142 ms
+1248-phrase.npy: IDR: 98.99%     MR: 0.00%       FAR: 1.01%      IDA: 0.137 ms
+1264-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 1.271 ms
+1260-phrase.npy: IDR: 91.67%     MR: 3.79%       FAR: 4.55%      IDA: 0.744 ms
+1274-phrase.npy: IDR: 98.41%     MR: 0.79%       FAR: 0.79%      IDA: 0.344 ms
+1257-phrase.npy: IDR: 96.80%     MR: 1.37%       FAR: 1.83%      IDA: 0.486 ms
+1265-phrase.npy: IDR: 76.78%     MR: 11.37%      FAR: 11.85%     IDA: 2.060 ms
+1259-phrase.npy: IDR: 99.56%     MR: 0.44%       FAR: 0.00%      IDA: 0.255 ms
+1295-phrase.npy: IDR: 89.11%     MR: 3.96%       FAR: 6.93%      IDA: 1.595 ms
+1300-phrase.npy: IDR: 75.00%     MR: 10.42%      FAR: 14.58%     IDA: 1.625 ms
+1283-phrase.npy: IDR: 95.93%     MR: 4.07%       FAR: 0.00%      IDA: 0.103 ms
+1307-phrase.npy: IDR: 90.72%     MR: 4.12%       FAR: 5.15%      IDA: 1.049 ms
+1311-phrase.npy: IDR: 97.94%     MR: 0.52%       FAR: 1.55%      IDA: 0.446 ms
+1315-phrase.npy: IDR: 77.32%     MR: 5.15%       FAR: 17.53%     IDA: 3.116 ms
+1388-phrase.npy: IDR: 94.30%     MR: 2.53%       FAR: 3.16%      IDA: 0.856 ms
+1301-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.112 ms
+1404-phrase.npy: IDR: 86.90%     MR: 7.59%       FAR: 5.52%      IDA: 1.881 ms
+1405-phrase.npy: IDR: 98.02%     MR: 0.50%       FAR: 1.49%      IDA: 0.122 ms
+1414-phrase.npy: IDR: 95.11%     MR: 3.11%       FAR: 1.78%      IDA: 0.382 ms
+1426-phrase.npy: IDR: 83.22%     MR: 13.99%      FAR: 2.80%      IDA: 0.317 ms
+1440-phrase.npy: IDR: 97.04%     MR: 1.48%       FAR: 1.48%      IDA: 0.148 ms
+1436-phrase.npy: IDR: 99.43%     MR: 0.57%       FAR: 0.00%      IDA: 0.543 ms
+1418-phrase.npy: IDR: 98.69%     MR: 0.87%       FAR: 0.44%      IDA: 0.206 ms
+1456-phrase.npy: IDR: 98.92%     MR: 1.08%       FAR: 0.00%      IDA: 0.148 ms
+1447-phrase.npy: IDR: 99.19%     MR: 0.00%       FAR: 0.81%      IDA: 0.063 ms
+1472-phrase.npy: IDR: 92.62%     MR: 3.28%       FAR: 4.10%      IDA: 0.665 ms
+1599-phrase.npy: IDR: 98.47%     MR: 1.53%       FAR: 0.00%      IDA: 0.102 ms
+1567-phrase.npy: IDR: 98.77%     MR: 0.61%       FAR: 0.61%      IDA: 0.291 ms
+1463-phrase.npy: IDR: 98.96%     MR: 0.00%       FAR: 1.04%      IDA: 0.109 ms
+1554-phrase.npy: IDR: 96.25%     MR: 3.12%       FAR: 0.62%      IDA: 0.148 ms
+1578-phrase.npy: IDR: 99.19%     MR: 0.00%       FAR: 0.81%      IDA: 0.818 ms
+1613-phrase.npy: IDR: 94.23%     MR: 4.81%       FAR: 0.96%      IDA: 0.608 ms
+1610-phrase.npy: IDR: 85.88%     MR: 5.88%       FAR: 8.24%      IDA: 1.485 ms
+1665-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.103 ms
+1617-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.156 ms
+1614-phrase.npy: IDR: 99.35%     MR: 0.65%       FAR: 0.00%      IDA: 0.204 ms
+1629-phrase.npy: IDR: 98.06%     MR: 1.29%       FAR: 0.65%      IDA: 0.095 ms
+1783-phrase.npy: IDR: 91.03%     MR: 5.13%       FAR: 3.85%      IDA: 1.408 ms
+1780-phrase.npy: IDR: 99.34%     MR: 0.66%       FAR: 0.00%      IDA: 0.171 ms
+1591-phrase.npy: IDR: 99.70%     MR: 0.00%       FAR: 0.30%      IDA: 0.118 ms
+1795-phrase.npy: IDR: 91.89%     MR: 0.00%       FAR: 8.11%      IDA: 0.443 ms
+1809-phrase.npy: IDR: 73.29%     MR: 16.15%      FAR: 10.56%     IDA: 0.171 ms
+1806-phrase.npy: IDR: 88.54%     MR: 7.01%       FAR: 4.46%      IDA: 1.469 ms
+1796-phrase.npy: IDR: 92.75%     MR: 2.90%       FAR: 4.35%      IDA: 0.770 ms
+1930-phrase.npy: IDR: 91.44%     MR: 4.28%       FAR: 4.28%      IDA: 0.858 ms
+1965-phrase.npy: IDR: 99.34%     MR: 0.00%       FAR: 0.66%      IDA: 0.149 ms
+1940-phrase.npy: IDR: 86.32%     MR: 3.16%       FAR: 10.53%     IDA: 0.926 ms
+1953-phrase.npy: IDR: 98.96%     MR: 1.04%       FAR: 0.00%      IDA: 0.176 ms
+1978-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.112 ms
+1973-phrase.npy: IDR: 81.82%     MR: 9.09%       FAR: 9.09%      IDA: 1.676 ms
+2012-phrase.npy: IDR: 82.18%     MR: 9.90%       FAR: 7.92%      IDA: 0.981 ms
+2028-phrase.npy: IDR: 96.77%     MR: 1.08%       FAR: 2.15%      IDA: 0.175 ms
+2003-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.878 ms
+1987-phrase.npy: IDR: 98.49%     MR: 0.00%       FAR: 1.51%      IDA: 0.591 ms
+2021-phrase.npy: IDR: 79.55%     MR: 7.39%       FAR: 13.07%     IDA: 1.909 ms
+2079-phrase.npy: IDR: 90.00%     MR: 5.62%       FAR: 4.38%      IDA: 0.993 ms
+2075-phrase.npy: IDR: 89.92%     MR: 5.88%       FAR: 4.20%      IDA: 1.433 ms
+2101-phrase.npy: IDR: 83.58%     MR: 16.42%      FAR: 0.00%      IDA: 1.351 ms
+2097-phrase.npy: IDR: 94.58%     MR: 0.99%       FAR: 4.43%      IDA: 0.524 ms
+2126-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.403 ms
+2156-phrase.npy: IDR: 97.66%     MR: 0.58%       FAR: 1.75%      IDA: 0.130 ms
+2110-phrase.npy: IDR: 94.17%     MR: 1.94%       FAR: 3.88%      IDA: 1.269 ms
+2120-phrase.npy: IDR: 95.80%     MR: 0.00%       FAR: 4.20%      IDA: 0.128 ms
+2191-phrase.npy: IDR: 86.30%     MR: 6.67%       FAR: 7.04%      IDA: 1.561 ms
+2128-phrase.npy: IDR: 89.68%     MR: 5.81%       FAR: 4.52%      IDA: 1.321 ms
+2242-phrase.npy: IDR: 79.01%     MR: 11.11%      FAR: 9.88%      IDA: 1.051 ms
+2219-phrase.npy: IDR: 99.45%     MR: 0.55%       FAR: 0.00%      IDA: 0.239 ms
+2276-phrase.npy: IDR: 84.93%     MR: 4.79%       FAR: 10.27%     IDA: 1.472 ms
+2301-phrase.npy: IDR: 99.46%     MR: 0.54%       FAR: 0.00%      IDA: 0.209 ms
+2296-phrase.npy: IDR: 89.84%     MR: 4.69%       FAR: 5.47%      IDA: 1.290 ms
+2351-phrase.npy: IDR: 99.22%     MR: 0.78%       FAR: 0.00%      IDA: 0.784 ms
+2305-phrase.npy: IDR: 99.47%     MR: 0.53%       FAR: 0.00%      IDA: 0.302 ms
+2321-phrase.npy: IDR: 97.09%     MR: 0.97%       FAR: 1.94%      IDA: 0.107 ms
+2315-phrase.npy: IDR: 95.02%     MR: 0.38%       FAR: 4.60%      IDA: 0.455 ms
+2328-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.134 ms
+2370-phrase.npy: IDR: 88.68%     MR: 5.03%       FAR: 6.29%      IDA: 1.446 ms
+2435-phrase.npy: IDR: 97.71%     MR: 1.71%       FAR: 0.57%      IDA: 0.162 ms
+2424-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.164 ms
+2443-phrase.npy: IDR: 93.83%     MR: 2.47%       FAR: 3.70%      IDA: 1.024 ms
+2511-phrase.npy: IDR: 91.67%     MR: 4.17%       FAR: 4.17%      IDA: 0.109 ms
+2404-phrase.npy: IDR: 97.92%     MR: 1.39%       FAR: 0.69%      IDA: 0.332 ms
+2487-phrase.npy: IDR: 95.41%     MR: 2.04%       FAR: 2.55%      IDA: 0.843 ms
+2510-phrase.npy: IDR: 85.11%     MR: 5.85%       FAR: 9.04%      IDA: 1.426 ms
+2514-phrase.npy: IDR: 86.21%     MR: 5.17%       FAR: 8.62%      IDA: 1.564 ms
+2521-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.129 ms
+2525-phrase.npy: IDR: 96.86%     MR: 1.26%       FAR: 1.89%      IDA: 0.207 ms
+2516-phrase.npy: IDR: 83.81%     MR: 6.67%       FAR: 9.52%      IDA: 1.701 ms
+2556-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.120 ms
+2542-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.124 ms
+2541-phrase.npy: IDR: 75.95%     MR: 3.05%       FAR: 20.99%     IDA: 1.012 ms
+2567-phrase.npy: IDR: 97.01%     MR: 1.49%       FAR: 1.49%      IDA: 0.179 ms
+2574-phrase.npy: IDR: 89.42%     MR: 4.81%       FAR: 5.77%      IDA: 1.736 ms
+2555-phrase.npy: IDR: 87.80%     MR: 9.76%       FAR: 2.44%      IDA: 0.685 ms
+2582-phrase.npy: IDR: 90.53%     MR: 5.33%       FAR: 4.14%      IDA: 0.898 ms
+2578-phrase.npy: IDR: 87.96%     MR: 6.28%       FAR: 5.76%      IDA: 1.216 ms
+2588-phrase.npy: IDR: 99.25%     MR: 0.00%       FAR: 0.75%      IDA: 0.099 ms
+2600-phrase.npy: IDR: 96.69%     MR: 3.31%       FAR: 0.00%      IDA: 0.152 ms
+2585-phrase.npy: IDR: 93.00%     MR: 3.70%       FAR: 3.29%      IDA: 1.245 ms
+2605-phrase.npy: IDR: 85.06%     MR: 7.47%       FAR: 7.47%      IDA: 1.126 ms
+2602-phrase.npy: IDR: 82.39%     MR: 8.18%       FAR: 9.43%      IDA: 1.672 ms
+2610-phrase.npy: IDR: 85.54%     MR: 5.62%       FAR: 8.84%      IDA: 1.881 ms
+
+identification_rate:0.9218 miss_rate:0.03735 false_alarm_rate:0.04084 identification_accuracy:0.0007936
+
+Laryngozele
+1205-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.153 ms
+1449-phrase.npy: IDR: 89.91%     MR: 6.42%       FAR: 3.67%      IDA: 3.000 ms
+1981-phrase.npy: IDR: 92.27%     MR: 2.42%       FAR: 5.31%      IDA: 1.151 ms
+
+identification_rate:0.9406 miss_rate:0.02946 false_alarm_rate:0.02995 identification_accuracy:0.001435
+
+Leukoplakie
+119-phrase.npy: IDR: 96.90%      MR: 0.78%       FAR: 2.33%      IDA: 1.537 ms
+497-phrase.npy: IDR: 99.26%      MR: 0.00%       FAR: 0.74%      IDA: 0.085 ms
+146-phrase.npy: IDR: 99.36%      MR: 0.00%       FAR: 0.64%      IDA: 0.164 ms
+715-phrase.npy: IDR: 73.95%      MR: 12.61%      FAR: 13.45%     IDA: 2.443 ms
+884-phrase.npy: IDR: 89.90%      MR: 8.08%       FAR: 2.02%      IDA: 0.200 ms
+875-phrase.npy: IDR: 71.09%      MR: 12.50%      FAR: 16.41%     IDA: 1.945 ms
+935-phrase.npy: IDR: 98.35%      MR: 0.00%       FAR: 1.65%      IDA: 0.215 ms
+1252-phrase.npy: IDR: 86.36%     MR: 4.55%       FAR: 9.09%      IDA: 1.485 ms
+1186-phrase.npy: IDR: 96.71%     MR: 3.29%       FAR: 0.00%      IDA: 0.579 ms
+902-phrase.npy: IDR: 79.31%      MR: 11.49%      FAR: 9.20%      IDA: 0.978 ms
+1303-phrase.npy: IDR: 77.78%     MR: 10.46%      FAR: 11.76%     IDA: 2.481 ms
+1448-phrase.npy: IDR: 70.37%     MR: 18.52%      FAR: 11.11%     IDA: 2.669 ms
+1405-phrase.npy: IDR: 98.02%     MR: 0.50%       FAR: 1.49%      IDA: 0.122 ms
+863-phrase.npy: IDR: 65.79%      MR: 19.74%      FAR: 14.47%     IDA: 1.710 ms
+1557-phrase.npy: IDR: 70.73%     MR: 13.82%      FAR: 15.45%     IDA: 2.476 ms
+1599-phrase.npy: IDR: 98.47%     MR: 1.53%       FAR: 0.00%      IDA: 0.102 ms
+1559-phrase.npy: IDR: 67.79%     MR: 14.09%      FAR: 18.12%     IDA: 2.380 ms
+1617-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.156 ms
+1632-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.291 ms
+1613-phrase.npy: IDR: 94.23%     MR: 4.81%       FAR: 0.96%      IDA: 0.608 ms
+1629-phrase.npy: IDR: 98.06%     MR: 1.29%       FAR: 0.65%      IDA: 0.095 ms
+1665-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.103 ms
+1783-phrase.npy: IDR: 91.03%     MR: 5.13%       FAR: 3.85%      IDA: 1.408 ms
+1715-phrase.npy: IDR: 98.96%     MR: 1.04%       FAR: 0.00%      IDA: 0.107 ms
+1810-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.247 ms
+1913-phrase.npy: IDR: 40.00%     MR: 40.00%      FAR: 20.00%     IDA: 1.812 ms
+1864-phrase.npy: IDR: 71.58%     MR: 9.47%       FAR: 18.95%     IDA: 1.925 ms
+2075-phrase.npy: IDR: 89.92%     MR: 5.88%       FAR: 4.20%      IDA: 1.433 ms
+1940-phrase.npy: IDR: 86.32%     MR: 3.16%       FAR: 10.53%     IDA: 0.926 ms
+2079-phrase.npy: IDR: 90.00%     MR: 5.62%       FAR: 4.38%      IDA: 0.993 ms
+1987-phrase.npy: IDR: 98.49%     MR: 0.00%       FAR: 1.51%      IDA: 0.591 ms
+2096-phrase.npy: IDR: 97.44%     MR: 0.85%       FAR: 1.71%      IDA: 0.177 ms
+2351-phrase.npy: IDR: 99.22%     MR: 0.78%       FAR: 0.00%      IDA: 0.784 ms
+2101-phrase.npy: IDR: 83.58%     MR: 16.42%      FAR: 0.00%      IDA: 1.351 ms
+2091-phrase.npy: IDR: 95.41%     MR: 1.53%       FAR: 3.06%      IDA: 0.859 ms
+2242-phrase.npy: IDR: 79.01%     MR: 11.11%      FAR: 9.88%      IDA: 1.051 ms
+2370-phrase.npy: IDR: 88.68%     MR: 5.03%       FAR: 6.29%      IDA: 1.446 ms
+2443-phrase.npy: IDR: 93.83%     MR: 2.47%       FAR: 3.70%      IDA: 1.024 ms
+2484-phrase.npy: IDR: 95.00%     MR: 2.14%       FAR: 2.86%      IDA: 0.912 ms
+2549-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.092 ms
+2556-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.120 ms
+
+identification_rate:0.8856 miss_rate:0.06065 false_alarm_rate:0.05376 identification_accuracy:0.0009776
+
+Mediale Halscyste
+1469-phrase.npy: IDR: 67.86%     MR: 16.43%      FAR: 15.71%     IDA: 2.399 ms
+
+identification_rate:0.6786 miss_rate:0.1643 false_alarm_rate:0.1571 identification_accuracy:0.002399
+
+Mesopharynxtumor
+1546-phrase.npy: IDR: 98.57%     MR: 0.00%       FAR: 1.43%      IDA: 0.094 ms
+
+identification_rate:0.9857 miss_rate:  0.0 false_alarm_rate:0.01429 identification_accuracy:9.45e-05
+
+Monochorditis
+828-phrase.npy: IDR: 96.88%      MR: 1.88%       FAR: 1.25%      IDA: 0.155 ms
+2403-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.208 ms
+2220-phrase.npy: IDR: 91.89%     MR: 4.05%       FAR: 4.05%      IDA: 0.985 ms
+
+identification_rate:0.9626 miss_rate:0.01976 false_alarm_rate:0.01768 identification_accuracy:0.0004492
+
+Morbus Down
+1387-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.121 ms
+
+identification_rate:  1.0 miss_rate:  0.0 false_alarm_rate:  0.0 identification_accuracy:0.0001207
+
+Morbus Parkinson
+1580-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.168 ms
+
+identification_rate:  1.0 miss_rate:  0.0 false_alarm_rate:  0.0 identification_accuracy:0.0001679
+
+Mutatio
+1445-phrase.npy: IDR: 96.35%     MR: 0.00%       FAR: 3.65%      IDA: 0.116 ms
+1628-phrase.npy: IDR: 99.39%     MR: 0.61%       FAR: 0.00%      IDA: 0.105 ms
+
+identification_rate:0.9787 miss_rate:0.003049 false_alarm_rate:0.01825 identification_accuracy:0.0001106
+
+Mutationsfistelstimme
+349-phrase.npy: IDR: 74.14%      MR: 10.34%      FAR: 15.52%     IDA: 2.100 ms
+147-phrase.npy: IDR: 93.48%      MR: 3.62%       FAR: 2.90%      IDA: 1.072 ms
+814-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.144 ms
+1231-phrase.npy: IDR: 99.38%     MR: 0.00%       FAR: 0.62%      IDA: 0.129 ms
+1298-phrase.npy: IDR: 94.16%     MR: 0.00%       FAR: 5.84%      IDA: 0.113 ms
+1411-phrase.npy: IDR: 99.33%     MR: 0.00%       FAR: 0.67%      IDA: 0.116 ms
+1556-phrase.npy: IDR: 98.18%     MR: 0.61%       FAR: 1.21%      IDA: 0.116 ms
+2004-phrase.npy: IDR: 96.60%     MR: 0.00%       FAR: 3.40%      IDA: 0.091 ms
+2017-phrase.npy: IDR: 95.48%     MR: 1.29%       FAR: 3.23%      IDA: 1.152 ms
+2468-phrase.npy: IDR: 85.23%     MR: 8.52%       FAR: 6.25%      IDA: 1.966 ms
+
+identification_rate:0.936 miss_rate:0.02439 false_alarm_rate:0.03963 identification_accuracy:0.0006999
+
+N. laryngeus superior Lasion
+1116-phrase.npy: IDR: 95.45%     MR: 0.91%       FAR: 3.64%      IDA: 0.379 ms
+357-phrase.npy: IDR: 82.98%      MR: 10.64%      FAR: 6.38%      IDA: 2.100 ms
+2299-phrase.npy: IDR: 87.30%     MR: 4.76%       FAR: 7.94%      IDA: 1.512 ms
+
+identification_rate:0.8858 miss_rate:0.05436 false_alarm_rate:0.05985 identification_accuracy:0.00133
+
+N. laryngeus superior Neuralgie
+723-phrase.npy: IDR: 89.16%      MR: 7.23%       FAR: 3.61%      IDA: 0.414 ms
+1928-phrase.npy: IDR: 72.12%     MR: 13.46%      FAR: 14.42%     IDA: 2.323 ms
+2423-phrase.npy: IDR: 98.36%     MR: 0.55%       FAR: 1.09%      IDA: 0.195 ms
+
+identification_rate:0.8654 miss_rate:0.07079 false_alarm_rate:0.06377 identification_accuracy:0.0009773
+
+Non-fluency-Syndrom
+149-phrase.npy: IDR: 73.24%      MR: 14.08%      FAR: 12.68%     IDA: 2.311 ms
+1202-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.138 ms
+
+identification_rate:0.8662 miss_rate:0.07042 false_alarm_rate:0.06338 identification_accuracy:0.001225
+
+Orofaciale Dyspraxie
+1055-phrase.npy: IDR: 99.62%     MR: 0.00%       FAR: 0.38%      IDA: 0.181 ms
+
+identification_rate:0.9962 miss_rate:  0.0 false_alarm_rate:0.003802 identification_accuracy:0.0001808
+
+Papillom
+2529-phrase.npy: IDR: 98.40%     MR: 0.53%       FAR: 1.06%      IDA: 0.119 ms
+
+identification_rate:0.984 miss_rate:0.005319 false_alarm_rate:0.01064 identification_accuracy:0.0001193
+
+Phonasthenie
+496-phrase.npy: IDR: 75.20%      MR: 11.20%      FAR: 13.60%     IDA: 2.114 ms
+502-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.110 ms
+872-phrase.npy: IDR: 89.06%      MR: 5.47%       FAR: 5.47%      IDA: 1.093 ms
+1417-phrase.npy: IDR: 98.13%     MR: 0.93%       FAR: 0.93%      IDA: 1.074 ms
+1905-phrase.npy: IDR: 74.07%     MR: 13.89%      FAR: 12.04%     IDA: 1.783 ms
+1640-phrase.npy: IDR: 89.85%     MR: 5.58%       FAR: 4.57%      IDA: 1.137 ms
+1766-phrase.npy: IDR: 78.51%     MR: 9.92%       FAR: 11.57%     IDA: 2.353 ms
+2550-phrase.npy: IDR: 92.97%     MR: 3.91%       FAR: 3.12%      IDA: 1.060 ms
+2025-phrase.npy: IDR: 78.39%     MR: 9.55%       FAR: 12.06%     IDA: 1.456 ms
+2093-phrase.npy: IDR: 70.14%     MR: 13.12%      FAR: 16.74%     IDA: 2.078 ms
+
+identification_rate:0.8463 miss_rate:0.07357 false_alarm_rate:0.08011 identification_accuracy:0.001426
+
+Phonationsknotchen
+870-phrase.npy: IDR: 72.34%      MR: 13.83%      FAR: 13.83%     IDA: 2.233 ms
+131-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.163 ms
+900-phrase.npy: IDR: 73.38%      MR: 11.51%      FAR: 15.11%     IDA: 2.424 ms
+1044-phrase.npy: IDR: 89.71%     MR: 5.88%       FAR: 4.41%      IDA: 1.345 ms
+1294-phrase.npy: IDR: 85.37%     MR: 6.71%       FAR: 7.93%      IDA: 1.466 ms
+1285-phrase.npy: IDR: 98.68%     MR: 0.66%       FAR: 0.66%      IDA: 0.125 ms
+1464-phrase.npy: IDR: 91.97%     MR: 5.84%       FAR: 2.19%      IDA: 1.022 ms
+1395-phrase.npy: IDR: 86.36%     MR: 6.25%       FAR: 7.39%      IDA: 1.168 ms
+1616-phrase.npy: IDR: 69.52%     MR: 14.29%      FAR: 16.19%     IDA: 2.464 ms
+1607-phrase.npy: IDR: 85.11%     MR: 7.09%       FAR: 7.80%      IDA: 1.943 ms
+1800-phrase.npy: IDR: 93.37%     MR: 3.01%       FAR: 3.61%      IDA: 0.938 ms
+1745-phrase.npy: IDR: 92.23%     MR: 3.11%       FAR: 4.66%      IDA: 1.013 ms
+1643-phrase.npy: IDR: 96.28%     MR: 2.33%       FAR: 1.40%      IDA: 0.822 ms
+1927-phrase.npy: IDR: 86.75%     MR: 4.82%       FAR: 8.43%      IDA: 1.399 ms
+1866-phrase.npy: IDR: 80.34%     MR: 12.36%      FAR: 7.30%      IDA: 1.939 ms
+2112-phrase.npy: IDR: 77.48%     MR: 9.93%       FAR: 12.58%     IDA: 2.259 ms
+
+identification_rate:0.8618 miss_rate:0.06726 false_alarm_rate:0.07094 identification_accuracy:0.00142
+
+Poltersyndrom
+1896-phrase.npy: IDR: 73.21%     MR: 12.50%      FAR: 14.29%     IDA: 2.303 ms
+1962-phrase.npy: IDR: 98.21%     MR: 1.79%       FAR: 0.00%      IDA: 0.138 ms
+2306-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.155 ms
+
+identification_rate:0.9048 miss_rate:0.04762 false_alarm_rate:0.04762 identification_accuracy:0.0008656
+
+Psychogene Aphonie
+937-phrase.npy: IDR: 72.37%      MR: 10.53%      FAR: 17.11%     IDA: 2.473 ms
+
+identification_rate:0.7237 miss_rate:0.1053 false_alarm_rate:0.1711 identification_accuracy:0.002473
+
+Psychogene Dysphonie
+366-phrase.npy: IDR: 77.17%      MR: 10.87%      FAR: 11.96%     IDA: 2.277 ms
+151-phrase.npy: IDR: 72.81%      MR: 10.53%      FAR: 16.67%     IDA: 2.607 ms
+741-phrase.npy: IDR: 82.80%      MR: 10.75%      FAR: 6.45%      IDA: 2.051 ms
+823-phrase.npy: IDR: 77.45%      MR: 7.84%       FAR: 14.71%     IDA: 2.130 ms
+848-phrase.npy: IDR: 97.62%      MR: 0.60%       FAR: 1.79%      IDA: 0.661 ms
+877-phrase.npy: IDR: 98.48%      MR: 0.51%       FAR: 1.02%      IDA: 0.166 ms
+885-phrase.npy: IDR: 95.71%      MR: 1.84%       FAR: 2.45%      IDA: 0.980 ms
+917-phrase.npy: IDR: 90.99%      MR: 3.60%       FAR: 5.41%      IDA: 1.541 ms
+911-phrase.npy: IDR: 97.08%      MR: 2.92%       FAR: 0.00%      IDA: 0.154 ms
+1053-phrase.npy: IDR: 97.22%     MR: 1.39%       FAR: 1.39%      IDA: 0.150 ms
+1042-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.149 ms
+1051-phrase.npy: IDR: 94.71%     MR: 2.65%       FAR: 2.65%      IDA: 0.593 ms
+1058-phrase.npy: IDR: 99.44%     MR: 0.00%       FAR: 0.56%      IDA: 0.157 ms
+1230-phrase.npy: IDR: 99.19%     MR: 0.00%       FAR: 0.81%      IDA: 0.117 ms
+1225-phrase.npy: IDR: 93.28%     MR: 6.72%       FAR: 0.00%      IDA: 0.136 ms
+1198-phrase.npy: IDR: 96.02%     MR: 1.70%       FAR: 2.27%      IDA: 0.759 ms
+1266-phrase.npy: IDR: 68.00%     MR: 12.80%      FAR: 19.20%     IDA: 2.001 ms
+1306-phrase.npy: IDR: 91.80%     MR: 4.37%       FAR: 3.83%      IDA: 1.376 ms
+1258-phrase.npy: IDR: 98.80%     MR: 1.20%       FAR: 0.00%      IDA: 0.192 ms
+1319-phrase.npy: IDR: 90.71%     MR: 2.86%       FAR: 6.43%      IDA: 1.365 ms
+1322-phrase.npy: IDR: 82.00%     MR: 12.00%      FAR: 6.00%      IDA: 2.255 ms
+1335-phrase.npy: IDR: 95.14%     MR: 2.78%       FAR: 2.08%      IDA: 1.185 ms
+1384-phrase.npy: IDR: 75.71%     MR: 14.29%      FAR: 10.00%     IDA: 2.537 ms
+1329-phrase.npy: IDR: 93.60%     MR: 0.58%       FAR: 5.81%      IDA: 0.969 ms
+1340-phrase.npy: IDR: 83.33%     MR: 9.65%       FAR: 7.02%      IDA: 1.782 ms
+1400-phrase.npy: IDR: 90.32%     MR: 4.03%       FAR: 5.65%      IDA: 1.762 ms
+1337-phrase.npy: IDR: 58.96%     MR: 18.50%      FAR: 22.54%     IDA: 2.125 ms
+1421-phrase.npy: IDR: 87.05%     MR: 6.47%       FAR: 6.47%      IDA: 1.209 ms
+1432-phrase.npy: IDR: 89.93%     MR: 4.32%       FAR: 5.76%      IDA: 0.959 ms
+1425-phrase.npy: IDR: 97.79%     MR: 2.21%       FAR: 0.00%      IDA: 0.140 ms
+1408-phrase.npy: IDR: 80.88%     MR: 10.29%      FAR: 8.82%      IDA: 1.845 ms
+1459-phrase.npy: IDR: 85.71%     MR: 4.76%       FAR: 9.52%      IDA: 1.465 ms
+1477-phrase.npy: IDR: 98.29%     MR: 0.57%       FAR: 1.14%      IDA: 0.110 ms
+1479-phrase.npy: IDR: 87.50%     MR: 7.29%       FAR: 5.21%      IDA: 1.627 ms
+1568-phrase.npy: IDR: 96.21%     MR: 3.79%       FAR: 0.00%      IDA: 0.243 ms
+1593-phrase.npy: IDR: 78.26%     MR: 9.94%       FAR: 11.80%     IDA: 1.891 ms
+1673-phrase.npy: IDR: 92.86%     MR: 1.59%       FAR: 5.56%      IDA: 1.411 ms
+1566-phrase.npy: IDR: 87.03%     MR: 5.95%       FAR: 7.03%      IDA: 1.181 ms
+1663-phrase.npy: IDR: 97.41%     MR: 0.00%       FAR: 2.59%      IDA: 0.455 ms
+1661-phrase.npy: IDR: 98.57%     MR: 0.00%       FAR: 1.43%      IDA: 0.646 ms
+1675-phrase.npy: IDR: 74.67%     MR: 13.33%      FAR: 12.00%     IDA: 2.371 ms
+1868-phrase.npy: IDR: 87.76%     MR: 2.04%       FAR: 10.20%     IDA: 1.002 ms
+1690-phrase.npy: IDR: 95.44%     MR: 2.28%       FAR: 2.28%      IDA: 1.146 ms
+1744-phrase.npy: IDR: 73.26%     MR: 9.30%       FAR: 17.44%     IDA: 2.475 ms
+1767-phrase.npy: IDR: 96.86%     MR: 1.57%       FAR: 1.57%      IDA: 0.814 ms
+1891-phrase.npy: IDR: 93.28%     MR: 1.49%       FAR: 5.22%      IDA: 1.313 ms
+1900-phrase.npy: IDR: 97.20%     MR: 1.40%       FAR: 1.40%      IDA: 0.200 ms
+1904-phrase.npy: IDR: 81.67%     MR: 8.33%       FAR: 10.00%     IDA: 1.365 ms
+1928-phrase.npy: IDR: 72.12%     MR: 13.46%      FAR: 14.42%     IDA: 2.323 ms
+1910-phrase.npy: IDR: 69.92%     MR: 15.79%      FAR: 14.29%     IDA: 1.891 ms
+1787-phrase.npy: IDR: 83.60%     MR: 6.40%       FAR: 10.00%     IDA: 1.702 ms
+1931-phrase.npy: IDR: 94.01%     MR: 2.99%       FAR: 2.99%      IDA: 0.816 ms
+1958-phrase.npy: IDR: 92.51%     MR: 2.67%       FAR: 4.81%      IDA: 1.317 ms
+1959-phrase.npy: IDR: 97.76%     MR: 0.75%       FAR: 1.49%      IDA: 1.164 ms
+1951-phrase.npy: IDR: 91.43%     MR: 3.57%       FAR: 5.00%      IDA: 1.394 ms
+1988-phrase.npy: IDR: 76.92%     MR: 6.99%       FAR: 16.08%     IDA: 1.445 ms
+1989-phrase.npy: IDR: 89.04%     MR: 5.48%       FAR: 5.48%      IDA: 1.475 ms
+2074-phrase.npy: IDR: 87.41%     MR: 5.19%       FAR: 7.41%      IDA: 1.592 ms
+1964-phrase.npy: IDR: 90.70%     MR: 4.65%       FAR: 4.65%      IDA: 1.215 ms
+2085-phrase.npy: IDR: 70.51%     MR: 12.82%      FAR: 16.67%     IDA: 2.276 ms
+2025-phrase.npy: IDR: 78.39%     MR: 9.55%       FAR: 12.06%     IDA: 1.456 ms
+2104-phrase.npy: IDR: 74.44%     MR: 12.22%      FAR: 13.33%     IDA: 2.289 ms
+2107-phrase.npy: IDR: 85.71%     MR: 7.14%       FAR: 7.14%      IDA: 1.548 ms
+2123-phrase.npy: IDR: 88.10%     MR: 5.56%       FAR: 6.35%      IDA: 1.505 ms
+2213-phrase.npy: IDR: 73.33%     MR: 14.29%      FAR: 12.38%     IDA: 2.189 ms
+2134-phrase.npy: IDR: 87.16%     MR: 4.73%       FAR: 8.11%      IDA: 0.909 ms
+2275-phrase.npy: IDR: 87.50%     MR: 12.50%      FAR: 0.00%      IDA: 0.132 ms
+2246-phrase.npy: IDR: 80.00%     MR: 0.00%       FAR: 20.00%     IDA: 1.557 ms
+2302-phrase.npy: IDR: 82.89%     MR: 7.89%       FAR: 9.21%      IDA: 1.300 ms
+2112-phrase.npy: IDR: 77.48%     MR: 9.93%       FAR: 12.58%     IDA: 2.259 ms
+2312-phrase.npy: IDR: 79.58%     MR: 9.15%       FAR: 11.27%     IDA: 1.887 ms
+2310-phrase.npy: IDR: 94.95%     MR: 3.03%       FAR: 2.02%      IDA: 0.950 ms
+2372-phrase.npy: IDR: 81.25%     MR: 8.75%       FAR: 10.00%     IDA: 2.004 ms
+2316-phrase.npy: IDR: 98.17%     MR: 0.46%       FAR: 1.37%      IDA: 0.218 ms
+2317-phrase.npy: IDR: 74.55%     MR: 11.82%      FAR: 13.64%     IDA: 2.246 ms
+2337-phrase.npy: IDR: 53.33%     MR: 23.33%      FAR: 23.33%     IDA: 1.983 ms
+2336-phrase.npy: IDR: 98.92%     MR: 0.54%       FAR: 0.54%      IDA: 0.182 ms
+2339-phrase.npy: IDR: 98.31%     MR: 1.12%       FAR: 0.56%      IDA: 0.201 ms
+2431-phrase.npy: IDR: 80.43%     MR: 9.78%       FAR: 9.78%      IDA: 2.008 ms
+2433-phrase.npy: IDR: 88.00%     MR: 5.14%       FAR: 6.86%      IDA: 1.512 ms
+2520-phrase.npy: IDR: 98.43%     MR: 0.00%       FAR: 1.57%      IDA: 0.441 ms
+2526-phrase.npy: IDR: 84.08%     MR: 3.18%       FAR: 12.74%     IDA: 1.058 ms
+2452-phrase.npy: IDR: 93.88%     MR: 2.55%       FAR: 3.57%      IDA: 1.058 ms
+2441-phrase.npy: IDR: 94.22%     MR: 2.89%       FAR: 2.89%      IDA: 0.886 ms
+2534-phrase.npy: IDR: 77.85%     MR: 10.74%      FAR: 11.41%     IDA: 2.442 ms
+2517-phrase.npy: IDR: 97.32%     MR: 2.30%       FAR: 0.38%      IDA: 0.127 ms
+2489-phrase.npy: IDR: 99.15%     MR: 0.85%       FAR: 0.00%      IDA: 0.167 ms
+2533-phrase.npy: IDR: 76.92%     MR: 8.65%       FAR: 14.42%     IDA: 1.681 ms
+2577-phrase.npy: IDR: 82.17%     MR: 6.98%       FAR: 10.85%     IDA: 1.141 ms
+2528-phrase.npy: IDR: 89.07%     MR: 5.30%       FAR: 5.63%      IDA: 1.694 ms
+2535-phrase.npy: IDR: 89.03%     MR: 5.81%       FAR: 5.16%      IDA: 1.031 ms
+
+identification_rate:0.8722 miss_rate:0.05812 false_alarm_rate:0.06973 identification_accuracy:0.001261
+
+Psychogene Mikrophonie
+1316-phrase.npy: IDR: 64.23%     MR: 12.60%      FAR: 23.17%     IDA: 2.045 ms
+
+identification_rate:0.6423 miss_rate:0.126 false_alarm_rate:0.2317 identification_accuracy:0.002045
+
+Reinke Odem
+495-phrase.npy: IDR: 98.10%      MR: 1.90%       FAR: 0.00%      IDA: 0.142 ms
+564-phrase.npy: IDR: 93.20%      MR: 3.40%       FAR: 3.40%      IDA: 1.315 ms
+627-phrase.npy: IDR: 86.70%      MR: 5.91%       FAR: 7.39%      IDA: 1.611 ms
+630-phrase.npy: IDR: 99.03%      MR: 0.49%       FAR: 0.49%      IDA: 0.171 ms
+632-phrase.npy: IDR: 93.58%      MR: 2.67%       FAR: 3.74%      IDA: 0.944 ms
+720-phrase.npy: IDR: 77.50%      MR: 12.50%      FAR: 10.00%     IDA: 1.830 ms
+886-phrase.npy: IDR: 92.95%      MR: 3.21%       FAR: 3.85%      IDA: 0.279 ms
+901-phrase.npy: IDR: 64.29%      MR: 35.71%      FAR: 0.00%      IDA: 1.782 ms
+1045-phrase.npy: IDR: 96.28%     MR: 1.06%       FAR: 2.66%      IDA: 0.139 ms
+889-phrase.npy: IDR: 90.31%      MR: 5.61%       FAR: 4.08%      IDA: 1.018 ms
+821-phrase.npy: IDR: 92.98%      MR: 4.39%       FAR: 2.63%      IDA: 0.532 ms
+1056-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.098 ms
+1046-phrase.npy: IDR: 88.89%     MR: 5.29%       FAR: 5.82%      IDA: 1.190 ms
+1090-phrase.npy: IDR: 86.54%     MR: 8.17%       FAR: 5.29%      IDA: 1.193 ms
+1229-phrase.npy: IDR: 99.12%     MR: 0.88%       FAR: 0.00%      IDA: 0.061 ms
+1206-phrase.npy: IDR: 94.82%     MR: 1.55%       FAR: 3.63%      IDA: 0.815 ms
+1253-phrase.npy: IDR: 83.45%     MR: 4.32%       FAR: 12.23%     IDA: 0.685 ms
+1221-phrase.npy: IDR: 88.43%     MR: 3.31%       FAR: 8.26%      IDA: 0.948 ms
+1274-phrase.npy: IDR: 98.41%     MR: 0.79%       FAR: 0.79%      IDA: 0.344 ms
+1382-phrase.npy: IDR: 69.64%     MR: 16.07%      FAR: 14.29%     IDA: 1.901 ms
+1447-phrase.npy: IDR: 99.19%     MR: 0.00%       FAR: 0.81%      IDA: 0.063 ms
+1436-phrase.npy: IDR: 99.43%     MR: 0.57%       FAR: 0.00%      IDA: 0.543 ms
+1453-phrase.npy: IDR: 93.64%     MR: 2.73%       FAR: 3.64%      IDA: 1.037 ms
+1462-phrase.npy: IDR: 90.83%     MR: 3.93%       FAR: 5.24%      IDA: 1.166 ms
+1656-phrase.npy: IDR: 83.67%     MR: 5.44%       FAR: 10.88%     IDA: 1.693 ms
+1572-phrase.npy: IDR: 96.69%     MR: 0.83%       FAR: 2.48%      IDA: 0.123 ms
+1563-phrase.npy: IDR: 82.35%     MR: 8.02%       FAR: 9.63%      IDA: 1.460 ms
+1667-phrase.npy: IDR: 91.79%     MR: 4.48%       FAR: 3.73%      IDA: 0.494 ms
+1610-phrase.npy: IDR: 85.88%     MR: 5.88%       FAR: 8.24%      IDA: 1.485 ms
+1500-phrase.npy: IDR: 64.95%     MR: 18.22%      FAR: 16.82%     IDA: 2.009 ms
+1717-phrase.npy: IDR: 97.98%     MR: 1.01%       FAR: 1.01%      IDA: 0.259 ms
+1721-phrase.npy: IDR: 94.85%     MR: 1.03%       FAR: 4.12%      IDA: 0.741 ms
+1778-phrase.npy: IDR: 88.96%     MR: 6.13%       FAR: 4.91%      IDA: 1.063 ms
+1889-phrase.npy: IDR: 89.34%     MR: 4.57%       FAR: 6.09%      IDA: 1.594 ms
+1963-phrase.npy: IDR: 99.12%     MR: 0.88%       FAR: 0.00%      IDA: 0.131 ms
+1890-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.390 ms
+1828-phrase.npy: IDR: 62.31%     MR: 18.46%      FAR: 19.23%     IDA: 2.137 ms
+1941-phrase.npy: IDR: 90.36%     MR: 5.58%       FAR: 4.06%      IDA: 0.893 ms
+1946-phrase.npy: IDR: 87.26%     MR: 3.77%       FAR: 8.96%      IDA: 1.159 ms
+1811-phrase.npy: IDR: 84.03%     MR: 11.76%      FAR: 4.20%      IDA: 1.804 ms
+2098-phrase.npy: IDR: 70.00%     MR: 8.75%       FAR: 21.25%     IDA: 2.149 ms
+2089-phrase.npy: IDR: 93.64%     MR: 2.73%       FAR: 3.64%      IDA: 0.468 ms
+2031-phrase.npy: IDR: 98.02%     MR: 0.79%       FAR: 1.19%      IDA: 0.803 ms
+2110-phrase.npy: IDR: 94.17%     MR: 1.94%       FAR: 3.88%      IDA: 1.269 ms
+2118-phrase.npy: IDR: 98.64%     MR: 0.68%       FAR: 0.68%      IDA: 0.195 ms
+2161-phrase.npy: IDR: 94.59%     MR: 5.41%       FAR: 0.00%      IDA: 0.130 ms
+2112-phrase.npy: IDR: 77.48%     MR: 9.93%       FAR: 12.58%     IDA: 2.259 ms
+2188-phrase.npy: IDR: 87.80%     MR: 6.10%       FAR: 6.10%      IDA: 0.182 ms
+2193-phrase.npy: IDR: 94.15%     MR: 2.92%       FAR: 2.92%      IDA: 0.570 ms
+2211-phrase.npy: IDR: 92.50%     MR: 5.00%       FAR: 2.50%      IDA: 1.004 ms
+2344-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.186 ms
+2333-phrase.npy: IDR: 91.22%     MR: 4.73%       FAR: 4.05%      IDA: 0.888 ms
+2305-phrase.npy: IDR: 99.47%     MR: 0.53%       FAR: 0.00%      IDA: 0.302 ms
+2358-phrase.npy: IDR: 82.73%     MR: 6.36%       FAR: 10.91%     IDA: 1.600 ms
+2345-phrase.npy: IDR: 86.51%     MR: 7.94%       FAR: 5.56%      IDA: 1.319 ms
+2271-phrase.npy: IDR: 11.11%     MR: 66.67%      FAR: 22.22%     IDA: 0.000 ms
+2375-phrase.npy: IDR: 93.52%     MR: 3.70%       FAR: 2.78%      IDA: 0.590 ms
+2381-phrase.npy: IDR: 66.67%     MR: 9.80%       FAR: 23.53%     IDA: 1.243 ms
+2449-phrase.npy: IDR: 88.82%     MR: 5.88%       FAR: 5.29%      IDA: 1.656 ms
+2426-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.439 ms
+2491-phrase.npy: IDR: 78.38%     MR: 12.16%      FAR: 9.46%      IDA: 1.538 ms
+2411-phrase.npy: IDR: 84.67%     MR: 5.84%       FAR: 9.49%      IDA: 1.721 ms
+2588-phrase.npy: IDR: 99.25%     MR: 0.00%       FAR: 0.75%      IDA: 0.099 ms
+2573-phrase.npy: IDR: 98.21%     MR: 0.90%       FAR: 0.90%      IDA: 0.122 ms
+2595-phrase.npy: IDR: 75.76%     MR: 9.09%       FAR: 15.15%     IDA: 2.444 ms
+2591-phrase.npy: IDR: 70.00%     MR: 7.27%       FAR: 22.73%     IDA: 2.420 ms
+2594-phrase.npy: IDR: 99.58%     MR: 0.00%       FAR: 0.42%      IDA: 0.182 ms
+2518-phrase.npy: IDR: 97.98%     MR: 1.44%       FAR: 0.58%      IDA: 0.713 ms
+
+identification_rate:0.8826 miss_rate:0.05987 false_alarm_rate:0.05752 identification_accuracy:0.0009373
+
+Rekurrensparese
+108-phrase.npy: IDR: 95.92%      MR: 0.51%       FAR: 3.57%      IDA: 1.213 ms
+105-phrase.npy: IDR: 85.38%      MR: 6.15%       FAR: 8.46%      IDA: 1.544 ms
+120-phrase.npy: IDR: 81.70%      MR: 5.23%       FAR: 13.07%     IDA: 1.682 ms
+128-phrase.npy: IDR: 97.83%      MR: 2.17%       FAR: 0.00%      IDA: 0.906 ms
+130-phrase.npy: IDR: 69.23%      MR: 15.38%      FAR: 15.38%     IDA: 2.260 ms
+138-phrase.npy: IDR: 70.21%      MR: 23.40%      FAR: 6.38%      IDA: 2.467 ms
+142-phrase.npy: IDR: 75.00%      MR: 12.50%      FAR: 12.50%     IDA: 1.498 ms
+155-phrase.npy: IDR: 90.79%      MR: 9.21%       FAR: 0.00%      IDA: 0.707 ms
+152-phrase.npy: IDR: 70.92%      MR: 14.80%      FAR: 14.29%     IDA: 2.027 ms
+358-phrase.npy: IDR: 99.10%      MR: 0.00%       FAR: 0.90%      IDA: 0.113 ms
+150-phrase.npy: IDR: 87.91%      MR: 6.23%       FAR: 5.86%      IDA: 1.553 ms
+356-phrase.npy: IDR: 83.90%      MR: 5.08%       FAR: 11.02%     IDA: 1.788 ms
+352-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.155 ms
+362-phrase.npy: IDR: 79.03%      MR: 10.48%      FAR: 10.48%     IDA: 2.651 ms
+364-phrase.npy: IDR: 83.33%      MR: 8.33%       FAR: 8.33%      IDA: 1.925 ms
+450-phrase.npy: IDR: 93.99%      MR: 1.64%       FAR: 4.37%      IDA: 1.483 ms
+365-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.129 ms
+448-phrase.npy: IDR: 95.56%      MR: 2.96%       FAR: 1.48%      IDA: 0.867 ms
+492-phrase.npy: IDR: 77.78%      MR: 11.11%      FAR: 11.11%     IDA: 1.914 ms
+627-phrase.npy: IDR: 86.70%      MR: 5.91%       FAR: 7.39%      IDA: 1.611 ms
+565-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.094 ms
+629-phrase.npy: IDR: 97.50%      MR: 1.50%       FAR: 1.00%      IDA: 0.649 ms
+632-phrase.npy: IDR: 93.58%      MR: 2.67%       FAR: 3.74%      IDA: 0.944 ms
+633-phrase.npy: IDR: 88.00%      MR: 5.60%       FAR: 6.40%      IDA: 1.263 ms
+670-phrase.npy: IDR: 99.35%      MR: 0.65%       FAR: 0.00%      IDA: 0.939 ms
+712-phrase.npy: IDR: 89.19%      MR: 3.38%       FAR: 7.43%      IDA: 1.395 ms
+725-phrase.npy: IDR: 95.88%      MR: 1.76%       FAR: 2.35%      IDA: 1.348 ms
+716-phrase.npy: IDR: 90.18%      MR: 4.91%       FAR: 4.91%      IDA: 1.467 ms
+671-phrase.npy: IDR: 90.62%      MR: 3.57%       FAR: 5.80%      IDA: 1.360 ms
+726-phrase.npy: IDR: 90.14%      MR: 9.86%       FAR: 0.00%      IDA: 0.686 ms
+728-phrase.npy: IDR: 75.86%      MR: 13.79%      FAR: 10.34%     IDA: 2.052 ms
+825-phrase.npy: IDR: 77.42%      MR: 7.26%       FAR: 15.32%     IDA: 2.283 ms
+864-phrase.npy: IDR: 86.52%      MR: 7.09%       FAR: 6.38%      IDA: 2.047 ms
+855-phrase.npy: IDR: 86.13%      MR: 6.57%       FAR: 7.30%      IDA: 1.538 ms
+849-phrase.npy: IDR: 97.13%      MR: 2.87%       FAR: 0.00%      IDA: 0.881 ms
+869-phrase.npy: IDR: 83.57%      MR: 7.04%       FAR: 9.39%      IDA: 2.065 ms
+880-phrase.npy: IDR: 99.21%      MR: 0.79%       FAR: 0.00%      IDA: 0.160 ms
+874-phrase.npy: IDR: 80.00%      MR: 6.67%       FAR: 13.33%     IDA: 1.456 ms
+879-phrase.npy: IDR: 88.59%      MR: 4.89%       FAR: 6.52%      IDA: 1.504 ms
+883-phrase.npy: IDR: 83.72%      MR: 4.65%       FAR: 11.63%     IDA: 1.428 ms
+893-phrase.npy: IDR: 98.47%      MR: 0.76%       FAR: 0.76%      IDA: 0.187 ms
+897-phrase.npy: IDR: 69.09%      MR: 12.73%      FAR: 18.18%     IDA: 2.018 ms
+908-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.391 ms
+896-phrase.npy: IDR: 91.96%      MR: 6.25%       FAR: 1.79%      IDA: 0.171 ms
+912-phrase.npy: IDR: 97.75%      MR: 1.12%       FAR: 1.12%      IDA: 0.475 ms
+887-phrase.npy: IDR: 80.00%      MR: 6.67%       FAR: 13.33%     IDA: 0.303 ms
+859-phrase.npy: IDR: 51.81%      MR: 33.05%      FAR: 15.15%     IDA: 2.315 ms
+914-phrase.npy: IDR: 85.19%      MR: 14.81%      FAR: 0.00%      IDA: 1.631 ms
+926-phrase.npy: IDR: 70.63%      MR: 10.32%      FAR: 19.05%     IDA: 2.049 ms
+1040-phrase.npy: IDR: 70.00%     MR: 15.00%      FAR: 15.00%     IDA: 1.827 ms
+1054-phrase.npy: IDR: 85.12%     MR: 7.44%       FAR: 7.44%      IDA: 1.878 ms
+929-phrase.npy: IDR: 87.57%      MR: 4.32%       FAR: 8.11%      IDA: 1.495 ms
+928-phrase.npy: IDR: 70.34%      MR: 15.86%      FAR: 13.79%     IDA: 2.015 ms
+924-phrase.npy: IDR: 76.64%      MR: 12.41%      FAR: 10.95%     IDA: 1.665 ms
+1120-phrase.npy: IDR: 98.39%     MR: 1.08%       FAR: 0.54%      IDA: 0.180 ms
+1049-phrase.npy: IDR: 95.60%     MR: 1.47%       FAR: 2.93%      IDA: 0.948 ms
+1166-phrase.npy: IDR: 25.51%     MR: 65.59%      FAR: 8.91%      IDA: 3.414 ms
+1223-phrase.npy: IDR: 96.62%     MR: 0.68%       FAR: 2.70%      IDA: 0.762 ms
+1206-phrase.npy: IDR: 94.82%     MR: 1.55%       FAR: 3.63%      IDA: 0.815 ms
+1249-phrase.npy: IDR: 92.47%     MR: 1.08%       FAR: 6.45%      IDA: 0.906 ms
+1262-phrase.npy: IDR: 65.56%     MR: 13.33%      FAR: 21.11%     IDA: 2.332 ms
+1263-phrase.npy: IDR: 88.57%     MR: 4.76%       FAR: 6.67%      IDA: 1.613 ms
+1256-phrase.npy: IDR: 84.92%     MR: 5.95%       FAR: 9.13%      IDA: 1.415 ms
+1271-phrase.npy: IDR: 99.25%     MR: 0.75%       FAR: 0.00%      IDA: 0.199 ms
+1270-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.204 ms
+1272-phrase.npy: IDR: 78.87%     MR: 2.82%       FAR: 18.31%     IDA: 1.432 ms
+1292-phrase.npy: IDR: 57.14%     MR: 19.05%      FAR: 23.81%     IDA: 3.099 ms
+1277-phrase.npy: IDR: 99.39%     MR: 0.00%       FAR: 0.61%      IDA: 0.113 ms
+1289-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.181 ms
+1293-phrase.npy: IDR: 79.69%     MR: 12.50%      FAR: 7.81%      IDA: 1.655 ms
+1330-phrase.npy: IDR: 96.67%     MR: 3.33%       FAR: 0.00%      IDA: 0.699 ms
+1325-phrase.npy: IDR: 98.43%     MR: 0.00%       FAR: 1.57%      IDA: 1.266 ms
+1304-phrase.npy: IDR: 98.77%     MR: 1.23%       FAR: 0.00%      IDA: 0.656 ms
+1397-phrase.npy: IDR: 48.84%     MR: 37.21%      FAR: 13.95%     IDA: 2.714 ms
+1382-phrase.npy: IDR: 69.64%     MR: 16.07%      FAR: 14.29%     IDA: 1.901 ms
+1390-phrase.npy: IDR: 60.87%     MR: 23.91%      FAR: 15.22%     IDA: 1.853 ms
+1314-phrase.npy: IDR: 98.31%     MR: 0.85%       FAR: 0.85%      IDA: 1.006 ms
+1402-phrase.npy: IDR: 0.00%      MR: 50.00%      FAR: 50.00%     IDA: 0.000 ms
+1399-phrase.npy: IDR: 92.37%     MR: 3.05%       FAR: 4.58%      IDA: 0.671 ms
+1407-phrase.npy: IDR: 56.52%     MR: 21.74%      FAR: 21.74%     IDA: 3.339 ms
+1424-phrase.npy: IDR: 54.84%     MR: 16.13%      FAR: 29.03%     IDA: 0.495 ms
+1434-phrase.npy: IDR: 97.52%     MR: 0.00%       FAR: 2.48%      IDA: 0.217 ms
+1418-phrase.npy: IDR: 98.69%     MR: 0.87%       FAR: 0.44%      IDA: 0.206 ms
+1444-phrase.npy: IDR: 68.25%     MR: 10.32%      FAR: 21.43%     IDA: 2.088 ms
+1437-phrase.npy: IDR: 71.43%     MR: 14.29%      FAR: 14.29%     IDA: 2.255 ms
+1470-phrase.npy: IDR: 82.22%     MR: 11.85%      FAR: 5.93%      IDA: 1.611 ms
+1466-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.175 ms
+1484-phrase.npy: IDR: 95.79%     MR: 2.63%       FAR: 1.58%      IDA: 0.436 ms
+1489-phrase.npy: IDR: 62.86%     MR: 14.29%      FAR: 22.86%     IDA: 2.099 ms
+1549-phrase.npy: IDR: 96.92%     MR: 1.54%       FAR: 1.54%      IDA: 0.169 ms
+1547-phrase.npy: IDR: 62.50%     MR: 14.58%      FAR: 22.92%     IDA: 2.585 ms
+1478-phrase.npy: IDR: 97.50%     MR: 1.67%       FAR: 0.83%      IDA: 0.483 ms
+1553-phrase.npy: IDR: 90.00%     MR: 4.12%       FAR: 5.88%      IDA: 1.388 ms
+1548-phrase.npy: IDR: 96.25%     MR: 1.25%       FAR: 2.50%      IDA: 0.105 ms
+1555-phrase.npy: IDR: 25.00%     MR: 25.00%      FAR: 50.00%     IDA: 0.000 ms
+1601-phrase.npy: IDR: 97.66%     MR: 2.34%       FAR: 0.00%      IDA: 0.600 ms
+1564-phrase.npy: IDR: 98.60%     MR: 0.00%       FAR: 1.40%      IDA: 1.048 ms
+1581-phrase.npy: IDR: 84.36%     MR: 7.11%       FAR: 8.53%      IDA: 1.924 ms
+1570-phrase.npy: IDR: 79.53%     MR: 8.84%       FAR: 11.63%     IDA: 1.600 ms
+1630-phrase.npy: IDR: 43.48%     MR: 26.09%      FAR: 30.43%     IDA: 1.841 ms
+1604-phrase.npy: IDR: 87.43%     MR: 4.19%       FAR: 8.38%      IDA: 1.702 ms
+1620-phrase.npy: IDR: 92.59%     MR: 4.63%       FAR: 2.78%      IDA: 1.083 ms
+1626-phrase.npy: IDR: 94.41%     MR: 2.10%       FAR: 3.50%      IDA: 0.979 ms
+1638-phrase.npy: IDR: 58.82%     MR: 29.41%      FAR: 11.76%     IDA: 3.931 ms
+1624-phrase.npy: IDR: 84.62%     MR: 7.69%       FAR: 7.69%      IDA: 0.292 ms
+1662-phrase.npy: IDR: 97.56%     MR: 2.44%       FAR: 0.00%      IDA: 0.216 ms
+1655-phrase.npy: IDR: 77.92%     MR: 11.69%      FAR: 10.39%     IDA: 1.934 ms
+1658-phrase.npy: IDR: 90.91%     MR: 4.09%       FAR: 5.00%      IDA: 0.907 ms
+1641-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 1.420 ms
+1631-phrase.npy: IDR: 77.66%     MR: 9.57%       FAR: 12.77%     IDA: 2.266 ms
+1664-phrase.npy: IDR: 78.67%     MR: 9.00%       FAR: 12.32%     IDA: 1.867 ms
+1676-phrase.npy: IDR: 71.71%     MR: 11.84%      FAR: 16.45%     IDA: 2.209 ms
+1671-phrase.npy: IDR: 98.84%     MR: 1.16%       FAR: 0.00%      IDA: 0.215 ms
+1691-phrase.npy: IDR: 76.27%     MR: 7.91%       FAR: 15.82%     IDA: 1.883 ms
+1713-phrase.npy: IDR: 82.89%     MR: 5.35%       FAR: 11.76%     IDA: 1.627 ms
+1683-phrase.npy: IDR: 95.03%     MR: 2.21%       FAR: 2.76%      IDA: 1.094 ms
+1722-phrase.npy: IDR: 84.75%     MR: 6.78%       FAR: 8.47%      IDA: 1.355 ms
+1748-phrase.npy: IDR: 98.95%     MR: 1.05%       FAR: 0.00%      IDA: 0.179 ms
+1755-phrase.npy: IDR: 98.19%     MR: 1.20%       FAR: 0.60%      IDA: 0.212 ms
+1760-phrase.npy: IDR: 61.45%     MR: 19.28%      FAR: 19.28%     IDA: 2.802 ms
+1776-phrase.npy: IDR: 81.82%     MR: 6.06%       FAR: 12.12%     IDA: 3.182 ms
+1743-phrase.npy: IDR: 75.17%     MR: 12.76%      FAR: 12.07%     IDA: 1.899 ms
+1785-phrase.npy: IDR: 71.09%     MR: 12.50%      FAR: 16.41%     IDA: 1.393 ms
+1789-phrase.npy: IDR: 96.57%     MR: 3.43%       FAR: 0.00%      IDA: 0.153 ms
+1803-phrase.npy: IDR: 71.03%     MR: 10.34%      FAR: 18.62%     IDA: 2.054 ms
+1820-phrase.npy: IDR: 71.61%     MR: 10.32%      FAR: 18.06%     IDA: 2.229 ms
+1818-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.140 ms
+1788-phrase.npy: IDR: 85.86%     MR: 6.81%       FAR: 7.33%      IDA: 1.804 ms
+1784-phrase.npy: IDR: 64.00%     MR: 14.67%      FAR: 21.33%     IDA: 2.091 ms
+1826-phrase.npy: IDR: 98.47%     MR: 1.53%       FAR: 0.00%      IDA: 0.830 ms
+1825-phrase.npy: IDR: 79.03%     MR: 9.68%       FAR: 11.29%     IDA: 2.348 ms
+1829-phrase.npy: IDR: 68.62%     MR: 12.77%      FAR: 18.62%     IDA: 2.202 ms
+1835-phrase.npy: IDR: 80.65%     MR: 14.19%      FAR: 5.16%      IDA: 1.526 ms
+1831-phrase.npy: IDR: 86.80%     MR: 5.58%       FAR: 7.61%      IDA: 1.890 ms
+1832-phrase.npy: IDR: 90.24%     MR: 8.94%       FAR: 0.81%      IDA: 0.880 ms
+1867-phrase.npy: IDR: 76.32%     MR: 11.84%      FAR: 11.84%     IDA: 2.289 ms
+1836-phrase.npy: IDR: 72.22%     MR: 16.67%      FAR: 11.11%     IDA: 1.463 ms
+1830-phrase.npy: IDR: 97.60%     MR: 1.80%       FAR: 0.60%      IDA: 0.893 ms
+1892-phrase.npy: IDR: 85.81%     MR: 5.16%       FAR: 9.03%      IDA: 1.724 ms
+1863-phrase.npy: IDR: 79.24%     MR: 7.63%       FAR: 13.14%     IDA: 2.029 ms
+1939-phrase.npy: IDR: 86.99%     MR: 3.25%       FAR: 9.76%      IDA: 0.994 ms
+1901-phrase.npy: IDR: 75.41%     MR: 12.57%      FAR: 12.02%     IDA: 2.038 ms
+1955-phrase.npy: IDR: 79.79%     MR: 8.22%       FAR: 11.99%     IDA: 1.658 ms
+1970-phrase.npy: IDR: 93.69%     MR: 2.91%       FAR: 3.40%      IDA: 0.937 ms
+2007-phrase.npy: IDR: 93.87%     MR: 1.84%       FAR: 4.29%      IDA: 0.847 ms
+2024-phrase.npy: IDR: 97.37%     MR: 2.63%       FAR: 0.00%      IDA: 0.254 ms
+2033-phrase.npy: IDR: 64.00%     MR: 16.00%      FAR: 20.00%     IDA: 2.913 ms
+2014-phrase.npy: IDR: 96.02%     MR: 0.80%       FAR: 3.19%      IDA: 0.150 ms
+2009-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.162 ms
+2058-phrase.npy: IDR: 86.67%     MR: 13.33%      FAR: 0.00%      IDA: 1.317 ms
+2072-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.219 ms
+2078-phrase.npy: IDR: 99.24%     MR: 0.76%       FAR: 0.00%      IDA: 0.220 ms
+2002-phrase.npy: IDR: 83.40%     MR: 5.11%       FAR: 11.49%     IDA: 2.176 ms
+2086-phrase.npy: IDR: 86.01%     MR: 6.74%       FAR: 7.25%      IDA: 1.049 ms
+2083-phrase.npy: IDR: 92.09%     MR: 2.26%       FAR: 5.65%      IDA: 1.505 ms
+2100-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.164 ms
+2088-phrase.npy: IDR: 95.96%     MR: 2.02%       FAR: 2.02%      IDA: 0.232 ms
+2073-phrase.npy: IDR: 92.83%     MR: 2.64%       FAR: 4.53%      IDA: 1.233 ms
+2148-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.119 ms
+2152-phrase.npy: IDR: 97.50%     MR: 1.67%       FAR: 0.83%      IDA: 0.286 ms
+2150-phrase.npy: IDR: 71.33%     MR: 10.67%      FAR: 18.00%     IDA: 2.632 ms
+2109-phrase.npy: IDR: 90.00%     MR: 4.09%       FAR: 5.91%      IDA: 1.498 ms
+2115-phrase.npy: IDR: 92.11%     MR: 2.63%       FAR: 5.26%      IDA: 2.134 ms
+2153-phrase.npy: IDR: 84.25%     MR: 7.53%       FAR: 8.22%      IDA: 1.259 ms
+2160-phrase.npy: IDR: 64.20%     MR: 16.67%      FAR: 19.14%     IDA: 2.730 ms
+2190-phrase.npy: IDR: 91.94%     MR: 2.42%       FAR: 5.65%      IDA: 1.815 ms
+2192-phrase.npy: IDR: 98.09%     MR: 1.91%       FAR: 0.00%      IDA: 0.128 ms
+2235-phrase.npy: IDR: 58.82%     MR: 8.82%       FAR: 32.35%     IDA: 1.474 ms
+2155-phrase.npy: IDR: 89.73%     MR: 3.80%       FAR: 6.46%      IDA: 1.600 ms
+2216-phrase.npy: IDR: 97.53%     MR: 0.00%       FAR: 2.47%      IDA: 0.895 ms
+2218-phrase.npy: IDR: 87.91%     MR: 6.59%       FAR: 5.49%      IDA: 1.321 ms
+2237-phrase.npy: IDR: 62.00%     MR: 18.00%      FAR: 20.00%     IDA: 1.526 ms
+2182-phrase.npy: IDR: 71.60%     MR: 18.52%      FAR: 9.88%      IDA: 2.190 ms
+2243-phrase.npy: IDR: 99.35%     MR: 0.65%       FAR: 0.00%      IDA: 0.219 ms
+2341-phrase.npy: IDR: 97.97%     MR: 0.51%       FAR: 1.52%      IDA: 0.247 ms
+2330-phrase.npy: IDR: 86.71%     MR: 5.20%       FAR: 8.09%      IDA: 1.686 ms
+2274-phrase.npy: IDR: 98.18%     MR: 0.00%       FAR: 1.82%      IDA: 0.117 ms
+2378-phrase.npy: IDR: 75.96%     MR: 11.54%      FAR: 12.50%     IDA: 1.500 ms
+2346-phrase.npy: IDR: 96.35%     MR: 0.73%       FAR: 2.92%      IDA: 0.228 ms
+2247-phrase.npy: IDR: 90.16%     MR: 3.83%       FAR: 6.01%      IDA: 1.706 ms
+2393-phrase.npy: IDR: 97.98%     MR: 2.02%       FAR: 0.00%      IDA: 0.518 ms
+2394-phrase.npy: IDR: 85.19%     MR: 7.41%       FAR: 7.41%      IDA: 1.584 ms
+2408-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.090 ms
+2414-phrase.npy: IDR: 96.06%     MR: 3.15%       FAR: 0.79%      IDA: 0.168 ms
+2395-phrase.npy: IDR: 98.04%     MR: 1.96%       FAR: 0.00%      IDA: 0.184 ms
+2342-phrase.npy: IDR: 96.43%     MR: 0.00%       FAR: 3.57%      IDA: 1.002 ms
+2430-phrase.npy: IDR: 82.45%     MR: 5.32%       FAR: 12.23%     IDA: 1.261 ms
+2450-phrase.npy: IDR: 95.90%     MR: 1.64%       FAR: 2.46%      IDA: 0.376 ms
+2460-phrase.npy: IDR: 95.00%     MR: 3.50%       FAR: 1.50%      IDA: 0.847 ms
+2455-phrase.npy: IDR: 93.79%     MR: 5.08%       FAR: 1.13%      IDA: 0.315 ms
+2469-phrase.npy: IDR: 78.05%     MR: 8.13%       FAR: 13.82%     IDA: 2.122 ms
+2465-phrase.npy: IDR: 92.90%     MR: 3.28%       FAR: 3.83%      IDA: 1.070 ms
+2464-phrase.npy: IDR: 98.06%     MR: 0.49%       FAR: 1.46%      IDA: 0.592 ms
+2476-phrase.npy: IDR: 94.08%     MR: 1.78%       FAR: 4.14%      IDA: 0.961 ms
+2491-phrase.npy: IDR: 78.38%     MR: 12.16%      FAR: 9.46%      IDA: 1.538 ms
+2493-phrase.npy: IDR: 96.10%     MR: 1.30%       FAR: 2.60%      IDA: 0.670 ms
+2496-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.208 ms
+2501-phrase.npy: IDR: 91.95%     MR: 3.36%       FAR: 4.70%      IDA: 1.110 ms
+2507-phrase.npy: IDR: 82.28%     MR: 11.39%      FAR: 6.33%      IDA: 1.675 ms
+2512-phrase.npy: IDR: 95.73%     MR: 2.56%       FAR: 1.71%      IDA: 0.850 ms
+2536-phrase.npy: IDR: 78.01%     MR: 6.38%       FAR: 15.60%     IDA: 1.294 ms
+2539-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.153 ms
+2508-phrase.npy: IDR: 98.22%     MR: 1.78%       FAR: 0.00%      IDA: 0.121 ms
+2562-phrase.npy: IDR: 74.81%     MR: 7.63%       FAR: 17.56%     IDA: 2.285 ms
+2527-phrase.npy: IDR: 98.69%     MR: 0.65%       FAR: 0.65%      IDA: 0.747 ms
+2538-phrase.npy: IDR: 92.27%     MR: 2.21%       FAR: 5.52%      IDA: 1.201 ms
+2563-phrase.npy: IDR: 78.91%     MR: 6.12%       FAR: 14.97%     IDA: 1.832 ms
+2581-phrase.npy: IDR: 75.27%     MR: 8.06%       FAR: 16.67%     IDA: 1.677 ms
+2570-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.550 ms
+2565-phrase.npy: IDR: 83.04%     MR: 5.36%       FAR: 11.61%     IDA: 1.166 ms
+2564-phrase.npy: IDR: 80.21%     MR: 8.33%       FAR: 11.46%     IDA: 2.396 ms
+
+identification_rate:0.8534 miss_rate:0.06969 false_alarm_rate:0.07696 identification_accuracy:0.001253
+
+Rhinophonie aperta
+447-phrase.npy: IDR: 98.87%      MR: 0.38%       FAR: 0.75%      IDA: 0.444 ms
+693-phrase.npy: IDR: 76.29%      MR: 10.31%      FAR: 13.40%     IDA: 2.357 ms
+927-phrase.npy: IDR: 99.26%      MR: 0.00%       FAR: 0.74%      IDA: 0.067 ms
+147-phrase.npy: IDR: 93.48%      MR: 3.62%       FAR: 2.90%      IDA: 1.072 ms
+1251-phrase.npy: IDR: 98.68%     MR: 0.88%       FAR: 0.44%      IDA: 0.194 ms
+938-phrase.npy: IDR: 90.35%      MR: 3.86%       FAR: 5.79%      IDA: 0.790 ms
+1323-phrase.npy: IDR: 98.00%     MR: 1.33%       FAR: 0.67%      IDA: 0.132 ms
+1115-phrase.npy: IDR: 98.53%     MR: 1.47%       FAR: 0.00%      IDA: 0.159 ms
+1452-phrase.npy: IDR: 98.73%     MR: 0.00%       FAR: 1.27%      IDA: 0.141 ms
+1430-phrase.npy: IDR: 79.76%     MR: 9.52%       FAR: 10.71%     IDA: 2.236 ms
+1911-phrase.npy: IDR: 94.27%     MR: 2.64%       FAR: 3.08%      IDA: 1.505 ms
+2353-phrase.npy: IDR: 97.74%     MR: 0.56%       FAR: 1.69%      IDA: 0.138 ms
+2140-phrase.npy: IDR: 82.84%     MR: 8.28%       FAR: 8.88%      IDA: 1.385 ms
+2368-phrase.npy: IDR: 97.53%     MR: 2.47%       FAR: 0.00%      IDA: 0.115 ms
+1933-phrase.npy: IDR: 82.63%     MR: 7.51%       FAR: 9.86%      IDA: 1.952 ms
+2513-phrase.npy: IDR: 76.39%     MR: 9.72%       FAR: 13.89%     IDA: 1.932 ms
+2294-phrase.npy: IDR: 78.65%     MR: 7.87%       FAR: 13.48%     IDA: 1.775 ms
+
+identification_rate:0.9071 miss_rate:0.04143 false_alarm_rate:0.05151 identification_accuracy:0.0009644
+
+Rhinophonie clausa
+1085-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.125 ms
+
+identification_rate:  1.0 miss_rate:  0.0 false_alarm_rate:  0.0 identification_accuracy:0.0001249
+
+Rhinophonie mixta
+853-phrase.npy: IDR: 85.57%      MR: 6.47%       FAR: 7.96%      IDA: 1.499 ms
+
+identification_rate:0.8557 miss_rate:0.06468 false_alarm_rate:0.0796 identification_accuracy:0.001499
+
+Sangerstimme
+118-phrase.npy: IDR: 98.20%      MR: 0.00%       FAR: 1.80%      IDA: 0.136 ms
+1980-phrase.npy: IDR: 99.39%     MR: 0.00%       FAR: 0.61%      IDA: 0.115 ms
+
+identification_rate:0.988 miss_rate:  0.0 false_alarm_rate:0.01204 identification_accuracy:0.000125
+
+Sigmatismus
+1378-phrase.npy: IDR: 87.36%     MR: 5.75%       FAR: 6.90%      IDA: 2.130 ms
+1491-phrase.npy: IDR: 68.25%     MR: 17.46%      FAR: 14.29%     IDA: 2.607 ms
+1196-phrase.npy: IDR: 66.86%     MR: 16.86%      FAR: 16.28%     IDA: 2.655 ms
+2558-phrase.npy: IDR: 99.38%     MR: 0.00%       FAR: 0.62%      IDA: 0.093 ms
+
+identification_rate:0.8046 miss_rate:0.1002 false_alarm_rate:0.09522 identification_accuracy:0.001871
+
+Spasmodische Dysphonie
+143-phrase.npy: IDR: 87.67%      MR: 5.48%       FAR: 6.85%      IDA: 1.204 ms
+665-phrase.npy: IDR: 95.89%      MR: 2.05%       FAR: 2.05%      IDA: 0.728 ms
+901-phrase.npy: IDR: 64.29%      MR: 35.71%      FAR: 0.00%      IDA: 1.782 ms
+1438-phrase.npy: IDR: 98.63%     MR: 1.37%       FAR: 0.00%      IDA: 0.106 ms
+1482-phrase.npy: IDR: 84.58%     MR: 6.97%       FAR: 8.46%      IDA: 1.482 ms
+1666-phrase.npy: IDR: 84.03%     MR: 7.56%       FAR: 8.40%      IDA: 0.988 ms
+1652-phrase.npy: IDR: 98.19%     MR: 1.81%       FAR: 0.00%      IDA: 0.240 ms
+1565-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.147 ms
+1677-phrase.npy: IDR: 98.81%     MR: 0.60%       FAR: 0.60%      IDA: 0.141 ms
+1672-phrase.npy: IDR: 99.12%     MR: 0.00%       FAR: 0.88%      IDA: 0.904 ms
+1723-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.140 ms
+1689-phrase.npy: IDR: 99.45%     MR: 0.55%       FAR: 0.00%      IDA: 0.180 ms
+1679-phrase.npy: IDR: 89.20%     MR: 4.23%       FAR: 6.57%      IDA: 1.339 ms
+1763-phrase.npy: IDR: 64.10%     MR: 19.23%      FAR: 16.67%     IDA: 3.058 ms
+1757-phrase.npy: IDR: 68.29%     MR: 15.85%      FAR: 15.85%     IDA: 1.779 ms
+1762-phrase.npy: IDR: 95.73%     MR: 4.27%       FAR: 0.00%      IDA: 0.221 ms
+1752-phrase.npy: IDR: 99.34%     MR: 0.66%       FAR: 0.00%      IDA: 0.132 ms
+1769-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.135 ms
+1770-phrase.npy: IDR: 96.03%     MR: 3.17%       FAR: 0.79%      IDA: 0.636 ms
+1790-phrase.npy: IDR: 82.95%     MR: 9.09%       FAR: 7.95%      IDA: 1.449 ms
+1782-phrase.npy: IDR: 87.00%     MR: 4.00%       FAR: 9.00%      IDA: 1.009 ms
+1797-phrase.npy: IDR: 82.20%     MR: 11.02%      FAR: 6.78%      IDA: 1.311 ms
+1817-phrase.npy: IDR: 85.09%     MR: 6.14%       FAR: 8.77%      IDA: 1.125 ms
+1804-phrase.npy: IDR: 88.15%     MR: 4.44%       FAR: 7.41%      IDA: 0.719 ms
+1807-phrase.npy: IDR: 86.84%     MR: 5.26%       FAR: 7.89%      IDA: 1.397 ms
+1821-phrase.npy: IDR: 88.97%     MR: 6.21%       FAR: 4.83%      IDA: 1.661 ms
+1902-phrase.npy: IDR: 76.19%     MR: 9.52%       FAR: 14.29%     IDA: 1.686 ms
+1834-phrase.npy: IDR: 81.90%     MR: 8.62%       FAR: 9.48%      IDA: 1.435 ms
+1869-phrase.npy: IDR: 85.19%     MR: 8.89%       FAR: 5.93%      IDA: 1.638 ms
+1909-phrase.npy: IDR: 90.48%     MR: 0.00%       FAR: 9.52%      IDA: 2.749 ms
+1908-phrase.npy: IDR: 86.07%     MR: 7.38%       FAR: 6.56%      IDA: 1.638 ms
+1914-phrase.npy: IDR: 98.00%     MR: 1.33%       FAR: 0.67%      IDA: 0.211 ms
+1938-phrase.npy: IDR: 90.22%     MR: 4.35%       FAR: 5.43%      IDA: 1.008 ms
+1937-phrase.npy: IDR: 50.00%     MR: 25.00%      FAR: 25.00%     IDA: 2.179 ms
+1960-phrase.npy: IDR: 74.78%     MR: 13.04%      FAR: 12.17%     IDA: 1.807 ms
+1945-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.144 ms
+1950-phrase.npy: IDR: 81.28%     MR: 7.88%       FAR: 10.84%     IDA: 1.742 ms
+1972-phrase.npy: IDR: 82.18%     MR: 10.92%      FAR: 6.90%      IDA: 1.220 ms
+1961-phrase.npy: IDR: 99.28%     MR: 0.00%       FAR: 0.72%      IDA: 0.356 ms
+1994-phrase.npy: IDR: 97.01%     MR: 1.49%       FAR: 1.49%      IDA: 0.202 ms
+1998-phrase.npy: IDR: 94.94%     MR: 1.90%       FAR: 3.16%      IDA: 0.829 ms
+1992-phrase.npy: IDR: 81.28%     MR: 9.59%       FAR: 9.13%      IDA: 1.158 ms
+2030-phrase.npy: IDR: 85.61%     MR: 6.47%       FAR: 7.91%      IDA: 0.673 ms
+2022-phrase.npy: IDR: 99.21%     MR: 0.79%       FAR: 0.00%      IDA: 0.192 ms
+2010-phrase.npy: IDR: 68.94%     MR: 13.04%      FAR: 18.01%     IDA: 1.936 ms
+2023-phrase.npy: IDR: 89.81%     MR: 5.66%       FAR: 4.53%      IDA: 1.276 ms
+2008-phrase.npy: IDR: 83.23%     MR: 8.38%       FAR: 8.38%      IDA: 1.934 ms
+2082-phrase.npy: IDR: 79.47%     MR: 8.95%       FAR: 11.58%     IDA: 1.478 ms
+2159-phrase.npy: IDR: 92.86%     MR: 3.57%       FAR: 3.57%      IDA: 0.422 ms
+2141-phrase.npy: IDR: 74.86%     MR: 11.73%      FAR: 13.41%     IDA: 1.610 ms
+2158-phrase.npy: IDR: 76.88%     MR: 13.07%      FAR: 10.05%     IDA: 1.589 ms
+2227-phrase.npy: IDR: 84.38%     MR: 9.38%       FAR: 6.25%      IDA: 1.089 ms
+2194-phrase.npy: IDR: 81.22%     MR: 9.61%       FAR: 9.17%      IDA: 1.242 ms
+2234-phrase.npy: IDR: 74.16%     MR: 8.99%       FAR: 16.85%     IDA: 2.659 ms
+2273-phrase.npy: IDR: 95.27%     MR: 3.38%       FAR: 1.35%      IDA: 0.170 ms
+2320-phrase.npy: IDR: 80.30%     MR: 11.36%      FAR: 8.33%      IDA: 1.436 ms
+2304-phrase.npy: IDR: 86.82%     MR: 5.43%       FAR: 7.75%      IDA: 1.088 ms
+2352-phrase.npy: IDR: 99.06%     MR: 0.00%       FAR: 0.94%      IDA: 0.155 ms
+2361-phrase.npy: IDR: 96.19%     MR: 2.86%       FAR: 0.95%      IDA: 0.978 ms
+2397-phrase.npy: IDR: 98.59%     MR: 1.41%       FAR: 0.00%      IDA: 0.288 ms
+2485-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.160 ms
+2396-phrase.npy: IDR: 84.17%     MR: 5.42%       FAR: 10.42%     IDA: 1.363 ms
+2440-phrase.npy: IDR: 71.88%     MR: 17.50%      FAR: 10.62%     IDA: 1.815 ms
+2560-phrase.npy: IDR: 86.62%     MR: 5.63%       FAR: 7.75%      IDA: 1.644 ms
+
+identification_rate:0.8723 miss_rate:0.06535 false_alarm_rate:0.06233 identification_accuracy:0.001082
+
+Stimmlippenkarzinom
+110-phrase.npy: IDR: 98.39%      MR: 0.00%       FAR: 1.61%      IDA: 0.205 ms
+500-phrase.npy: IDR: 98.14%      MR: 0.00%       FAR: 1.86%      IDA: 0.267 ms
+742-phrase.npy: IDR: 99.32%      MR: 0.68%       FAR: 0.00%      IDA: 0.192 ms
+1048-phrase.npy: IDR: 84.21%     MR: 7.37%       FAR: 8.42%      IDA: 1.562 ms
+1239-phrase.npy: IDR: 98.46%     MR: 0.00%       FAR: 1.54%      IDA: 0.148 ms
+1245-phrase.npy: IDR: 93.10%     MR: 5.17%       FAR: 1.72%      IDA: 1.190 ms
+1247-phrase.npy: IDR: 55.81%     MR: 20.93%      FAR: 23.26%     IDA: 1.734 ms
+1273-phrase.npy: IDR: 96.88%     MR: 0.00%       FAR: 3.12%      IDA: 0.761 ms
+1332-phrase.npy: IDR: 98.61%     MR: 1.39%       FAR: 0.00%      IDA: 0.482 ms
+1341-phrase.npy: IDR: 98.28%     MR: 1.72%       FAR: 0.00%      IDA: 0.589 ms
+1383-phrase.npy: IDR: 98.80%     MR: 1.20%       FAR: 0.00%      IDA: 1.644 ms
+1391-phrase.npy: IDR: 98.15%     MR: 0.00%       FAR: 1.85%      IDA: 0.284 ms
+1403-phrase.npy: IDR: 95.92%     MR: 2.04%       FAR: 2.04%      IDA: 1.263 ms
+1416-phrase.npy: IDR: 90.24%     MR: 5.69%       FAR: 4.07%      IDA: 0.817 ms
+1451-phrase.npy: IDR: 99.18%     MR: 0.00%       FAR: 0.82%      IDA: 0.202 ms
+1428-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.655 ms
+1458-phrase.npy: IDR: 97.44%     MR: 0.85%       FAR: 1.71%      IDA: 0.326 ms
+1465-phrase.npy: IDR: 95.18%     MR: 2.41%       FAR: 2.41%      IDA: 0.696 ms
+1714-phrase.npy: IDR: 84.21%     MR: 5.26%       FAR: 10.53%     IDA: 0.216 ms
+1545-phrase.npy: IDR: 98.97%     MR: 1.03%       FAR: 0.00%      IDA: 0.318 ms
+2343-phrase.npy: IDR: 30.00%     MR: 50.00%      FAR: 20.00%     IDA: 2.066 ms
+2467-phrase.npy: IDR: 64.79%     MR: 15.49%      FAR: 19.72%     IDA: 1.874 ms
+
+identification_rate:0.8973 miss_rate:0.05511 false_alarm_rate:0.04758 identification_accuracy:0.000795
+
+Stimmlippenpolyp
+109-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.109 ms
+501-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.124 ms
+131-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.163 ms
+491-phrase.npy: IDR: 56.84%      MR: 29.47%      FAR: 13.68%     IDA: 1.805 ms
+562-phrase.npy: IDR: 91.21%      MR: 4.60%       FAR: 4.18%      IDA: 1.392 ms
+504-phrase.npy: IDR: 60.00%      MR: 18.82%      FAR: 21.18%     IDA: 2.029 ms
+720-phrase.npy: IDR: 77.50%      MR: 12.50%      FAR: 10.00%     IDA: 1.830 ms
+895-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.288 ms
+932-phrase.npy: IDR: 85.14%      MR: 6.76%       FAR: 8.11%      IDA: 1.682 ms
+1052-phrase.npy: IDR: 87.60%     MR: 4.65%       FAR: 7.75%      IDA: 0.978 ms
+1164-phrase.npy: IDR: 90.24%     MR: 6.10%       FAR: 3.66%      IDA: 1.719 ms
+1334-phrase.npy: IDR: 97.75%     MR: 2.25%       FAR: 0.00%      IDA: 0.544 ms
+1157-phrase.npy: IDR: 99.44%     MR: 0.56%       FAR: 0.00%      IDA: 0.153 ms
+1188-phrase.npy: IDR: 78.57%     MR: 8.93%       FAR: 12.50%     IDA: 2.061 ms
+1317-phrase.npy: IDR: 92.03%     MR: 4.35%       FAR: 3.62%      IDA: 0.900 ms
+1386-phrase.npy: IDR: 97.48%     MR: 0.63%       FAR: 1.89%      IDA: 0.136 ms
+859-phrase.npy: IDR: 51.81%      MR: 33.05%      FAR: 15.15%     IDA: 2.315 ms
+1576-phrase.npy: IDR: 96.88%     MR: 1.88%       FAR: 1.25%      IDA: 1.026 ms
+1525-phrase.npy: IDR: 99.39%     MR: 0.00%       FAR: 0.61%      IDA: 0.136 ms
+1621-phrase.npy: IDR: 95.28%     MR: 4.72%       FAR: 0.00%      IDA: 0.132 ms
+1389-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.168 ms
+1622-phrase.npy: IDR: 77.42%     MR: 5.65%       FAR: 16.94%     IDA: 1.865 ms
+1433-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.136 ms
+1719-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.099 ms
+1639-phrase.npy: IDR: 97.60%     MR: 0.00%       FAR: 2.40%      IDA: 0.478 ms
+1764-phrase.npy: IDR: 91.97%     MR: 2.19%       FAR: 5.84%      IDA: 1.242 ms
+1749-phrase.npy: IDR: 73.39%     MR: 18.35%      FAR: 8.26%      IDA: 2.521 ms
+1722-phrase.npy: IDR: 84.75%     MR: 6.78%       FAR: 8.47%      IDA: 1.355 ms
+1957-phrase.npy: IDR: 98.40%     MR: 1.60%       FAR: 0.00%      IDA: 0.169 ms
+1890-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.390 ms
+1779-phrase.npy: IDR: 82.88%     MR: 12.61%      FAR: 4.50%      IDA: 0.965 ms
+2056-phrase.npy: IDR: 87.18%     MR: 6.15%       FAR: 6.67%      IDA: 1.205 ms
+2005-phrase.npy: IDR: 72.86%     MR: 10.71%      FAR: 16.43%     IDA: 2.183 ms
+2099-phrase.npy: IDR: 66.67%     MR: 17.12%      FAR: 16.22%     IDA: 2.630 ms
+2090-phrase.npy: IDR: 88.74%     MR: 5.86%       FAR: 5.41%      IDA: 1.174 ms
+2157-phrase.npy: IDR: 99.37%     MR: 0.63%       FAR: 0.00%      IDA: 0.122 ms
+2300-phrase.npy: IDR: 95.88%     MR: 2.62%       FAR: 1.50%      IDA: 0.646 ms
+2525-phrase.npy: IDR: 96.86%     MR: 1.26%       FAR: 1.89%      IDA: 0.207 ms
+2303-phrase.npy: IDR: 88.29%     MR: 6.31%       FAR: 5.41%      IDA: 1.371 ms
+2466-phrase.npy: IDR: 72.86%     MR: 14.29%      FAR: 12.86%     IDA: 2.443 ms
+2572-phrase.npy: IDR: 86.96%     MR: 13.04%      FAR: 0.00%      IDA: 0.985 ms
+2557-phrase.npy: IDR: 99.43%     MR: 0.57%       FAR: 0.00%      IDA: 0.114 ms
+2518-phrase.npy: IDR: 97.98%     MR: 1.44%       FAR: 0.58%      IDA: 0.713 ms
+2587-phrase.npy: IDR: 95.35%     MR: 2.71%       FAR: 1.94%      IDA: 0.458 ms
+2592-phrase.npy: IDR: 96.59%     MR: 2.44%       FAR: 0.98%      IDA: 0.716 ms
+
+identification_rate:0.8908 miss_rate:0.06035 false_alarm_rate:0.04885 identification_accuracy:0.000975
+
+Synechie
+1162-phrase.npy: IDR: 55.38%     MR: 1.54%       FAR: 43.08%     IDA: 1.677 ms
+2183-phrase.npy: IDR: 76.56%     MR: 12.50%      FAR: 10.94%     IDA: 1.730 ms
+
+identification_rate:0.6597 miss_rate:0.07019 false_alarm_rate:0.2701 identification_accuracy:0.001703
+
+Taschenfaltenhyperplasie
+1386-phrase.npy: IDR: 97.48%     MR: 0.63%       FAR: 1.89%      IDA: 0.136 ms
+2089-phrase.npy: IDR: 93.64%     MR: 2.73%       FAR: 3.64%      IDA: 0.468 ms
+
+identification_rate:0.9556 miss_rate:0.01678 false_alarm_rate:0.02762 identification_accuracy:0.0003018
+
+Taschenfaltenstimme
+719-phrase.npy: IDR: 73.12%      MR: 10.75%      FAR: 16.13%     IDA: 3.229 ms
+1084-phrase.npy: IDR: 71.79%     MR: 17.95%      FAR: 10.26%     IDA: 2.236 ms
+1163-phrase.npy: IDR: 92.54%     MR: 2.99%       FAR: 4.48%      IDA: 1.100 ms
+1429-phrase.npy: IDR: 98.58%     MR: 1.42%       FAR: 0.00%      IDA: 0.513 ms
+1486-phrase.npy: IDR: 94.83%     MR: 4.31%       FAR: 0.86%      IDA: 1.061 ms
+1467-phrase.npy: IDR: 62.86%     MR: 21.90%      FAR: 15.24%     IDA: 1.979 ms
+1625-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.130 ms
+2029-phrase.npy: IDR: 79.37%     MR: 11.11%      FAR: 9.52%      IDA: 1.879 ms
+2380-phrase.npy: IDR: 84.27%     MR: 3.37%       FAR: 12.36%     IDA: 0.985 ms
+2458-phrase.npy: IDR: 98.28%     MR: 0.00%       FAR: 1.72%      IDA: 1.322 ms
+2400-phrase.npy: IDR: 69.52%     MR: 14.29%      FAR: 16.19%     IDA: 2.126 ms
+
+identification_rate:0.841 miss_rate:0.08008 false_alarm_rate:0.07887 identification_accuracy:0.001505
+
+Valleculacyste
+1302-phrase.npy: IDR: 80.62%     MR: 4.65%       FAR: 14.73%     IDA: 1.303 ms
+
+identification_rate:0.8062 miss_rate:0.04651 false_alarm_rate:0.1473 identification_accuracy:0.001303
+
+Velopharyngoplastik
+111-phrase.npy: IDR: 76.27%      MR: 8.47%       FAR: 15.25%     IDA: 2.005 ms
+1115-phrase.npy: IDR: 98.53%     MR: 1.47%       FAR: 0.00%      IDA: 0.159 ms
+
+identification_rate:0.874 miss_rate:0.04973 false_alarm_rate:0.07627 identification_accuracy:0.001082
+
+Vox senilis
+148-phrase.npy: IDR: 88.16%      MR: 5.92%       FAR: 5.92%      IDA: 1.336 ms
+360-phrase.npy: IDR: 90.45%      MR: 4.49%       FAR: 5.06%      IDA: 1.209 ms
+612-phrase.npy: IDR: 81.43%      MR: 8.57%       FAR: 10.00%     IDA: 1.667 ms
+818-phrase.npy: IDR: 98.06%      MR: 1.94%       FAR: 0.00%      IDA: 2.105 ms
+816-phrase.npy: IDR: 77.32%      MR: 11.34%      FAR: 11.34%     IDA: 2.029 ms
+899-phrase.npy: IDR: 100.00%     MR: 0.00%       FAR: 0.00%      IDA: 0.187 ms
+846-phrase.npy: IDR: 90.94%      MR: 4.72%       FAR: 4.33%      IDA: 1.002 ms
+826-phrase.npy: IDR: 98.97%      MR: 0.52%       FAR: 0.52%      IDA: 0.132 ms
+1039-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.109 ms
+1159-phrase.npy: IDR: 90.04%     MR: 4.76%       FAR: 5.19%      IDA: 1.196 ms
+933-phrase.npy: IDR: 99.45%      MR: 0.00%       FAR: 0.55%      IDA: 0.117 ms
+1203-phrase.npy: IDR: 89.52%     MR: 2.62%       FAR: 7.86%      IDA: 1.371 ms
+1197-phrase.npy: IDR: 98.83%     MR: 0.58%       FAR: 0.58%      IDA: 0.308 ms
+1220-phrase.npy: IDR: 99.13%     MR: 0.00%       FAR: 0.87%      IDA: 0.182 ms
+1268-phrase.npy: IDR: 96.89%     MR: 2.07%       FAR: 1.04%      IDA: 0.525 ms
+1338-phrase.npy: IDR: 86.54%     MR: 7.69%       FAR: 5.77%      IDA: 1.184 ms
+1478-phrase.npy: IDR: 97.50%     MR: 1.67%       FAR: 0.83%      IDA: 0.483 ms
+1636-phrase.npy: IDR: 91.87%     MR: 3.83%       FAR: 4.31%      IDA: 1.044 ms
+1694-phrase.npy: IDR: 83.65%     MR: 5.03%       FAR: 11.32%     IDA: 2.107 ms
+1772-phrase.npy: IDR: 80.12%     MR: 9.94%       FAR: 9.94%      IDA: 1.927 ms
+1819-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.135 ms
+2003-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.878 ms
+1971-phrase.npy: IDR: 92.41%     MR: 5.06%       FAR: 2.53%      IDA: 0.754 ms
+2121-phrase.npy: IDR: 79.10%     MR: 9.60%       FAR: 11.30%     IDA: 1.831 ms
+2097-phrase.npy: IDR: 94.58%     MR: 0.99%       FAR: 4.43%      IDA: 0.524 ms
+2055-phrase.npy: IDR: 99.63%     MR: 0.00%       FAR: 0.37%      IDA: 0.197 ms
+2110-phrase.npy: IDR: 94.17%     MR: 1.94%       FAR: 3.88%      IDA: 1.269 ms
+2303-phrase.npy: IDR: 88.29%     MR: 6.31%       FAR: 5.41%      IDA: 1.371 ms
+2377-phrase.npy: IDR: 97.58%     MR: 1.61%       FAR: 0.81%      IDA: 1.557 ms
+2307-phrase.npy: IDR: 91.35%     MR: 4.32%       FAR: 4.32%      IDA: 1.342 ms
+2509-phrase.npy: IDR: 65.85%     MR: 17.07%      FAR: 17.07%     IDA: 2.430 ms
+2319-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.225 ms
+2415-phrase.npy: IDR: 91.71%     MR: 3.63%       FAR: 4.66%      IDA: 1.459 ms
+2421-phrase.npy: IDR: 97.13%     MR: 1.64%       FAR: 1.23%      IDA: 0.467 ms
+2515-phrase.npy: IDR: 95.28%     MR: 1.29%       FAR: 3.43%      IDA: 0.564 ms
+2569-phrase.npy: IDR: 98.19%     MR: 0.00%       FAR: 1.81%      IDA: 0.190 ms
+2601-phrase.npy: IDR: 82.05%     MR: 4.49%       FAR: 13.46%     IDA: 1.080 ms
+2522-phrase.npy: IDR: 100.00%    MR: 0.00%       FAR: 0.00%      IDA: 0.226 ms
+2564-phrase.npy: IDR: 80.21%     MR: 8.33%       FAR: 11.46%     IDA: 2.396 ms
+2596-phrase.npy: IDR: 96.11%     MR: 1.41%       FAR: 2.47%      IDA: 0.177 ms
+
+identification_rate:0.9206 miss_rate:0.03585 false_alarm_rate:0.04352 identification_accuracy:0.0009824
+
+Zentral-laryngale Bewegungsstorung
+359-phrase.npy: IDR: 99.52%      MR: 0.00%       FAR: 0.48%      IDA: 0.246 ms
+1398-phrase.npy: IDR: 98.21%     MR: 0.00%       FAR: 1.79%      IDA: 0.219 ms
+1654-phrase.npy: IDR: 99.17%     MR: 0.83%       FAR: 0.00%      IDA: 0.179 ms
+1831-phrase.npy: IDR: 86.80%     MR: 5.58%       FAR: 7.61%      IDA: 1.890 ms
+1381-phrase.npy: IDR: 73.83%     MR: 9.97%       FAR: 16.20%     IDA: 2.172 ms
+2001-phrase.npy: IDR: 97.98%     MR: 1.01%       FAR: 1.01%      IDA: 0.264 ms
+1907-phrase.npy: IDR: 99.24%     MR: 0.38%       FAR: 0.38%      IDA: 0.153 ms
+1943-phrase.npy: IDR: 97.44%     MR: 1.54%       FAR: 1.03%      IDA: 0.415 ms
+2095-phrase.npy: IDR: 84.87%     MR: 8.40%       FAR: 6.72%      IDA: 0.252 ms
+2063-phrase.npy: IDR: 87.89%     MR: 4.69%       FAR: 7.42%      IDA: 1.886 ms
+2214-phrase.npy: IDR: 99.36%     MR: 0.64%       FAR: 0.00%      IDA: 0.322 ms
+2451-phrase.npy: IDR: 89.66%     MR: 3.88%       FAR: 6.47%      IDA: 1.611 ms
+2376-phrase.npy: IDR: 98.01%     MR: 1.99%       FAR: 0.00%      IDA: 0.102 ms
+2599-phrase.npy: IDR: 87.63%     MR: 6.53%       FAR: 5.84%      IDA: 1.100 ms
+
+identification_rate:0.9283 miss_rate:0.03246 false_alarm_rate:0.03925 identification_accuracy:0.0007721

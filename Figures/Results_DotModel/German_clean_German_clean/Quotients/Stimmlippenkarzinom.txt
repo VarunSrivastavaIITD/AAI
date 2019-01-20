@@ -1,0 +1,24 @@
+110-phrase.npy: CQ_true: 0.426   CQ_estimated: 0.361     OQ_true: 0.574  OQ_estimated: 0.639     SQ_true: 2.23   SQ_estimated: 2.21
+500-phrase.npy: CQ_true: 0.431   CQ_estimated: 0.336     OQ_true: 0.569  OQ_estimated: 0.664     SQ_true: 1.41   SQ_estimated: 1.18
+742-phrase.npy: CQ_true: 0.346   CQ_estimated: 0.31      OQ_true: 0.654  OQ_estimated: 0.69      SQ_true:  1.2   SQ_estimated: 1.19
+1048-phrase.npy: CQ_true: 0.418  CQ_estimated: 0.403     OQ_true: 0.582  OQ_estimated: 0.597     SQ_true: 1.81   SQ_estimated: 2.13
+1245-phrase.npy: CQ_true: 0.439  CQ_estimated: 0.401     OQ_true: 0.561  OQ_estimated: 0.599     SQ_true: 1.46   SQ_estimated: 1.65
+1239-phrase.npy: CQ_true: 0.373  CQ_estimated: 0.358     OQ_true: 0.627  OQ_estimated: 0.642     SQ_true: 1.17   SQ_estimated: 1.27
+1247-phrase.npy: CQ_true: 0.435  CQ_estimated: 0.381     OQ_true: 0.565  OQ_estimated: 0.619     SQ_true: 2.19   SQ_estimated: 1.25
+1273-phrase.npy: CQ_true: 0.488  CQ_estimated: 0.324     OQ_true: 0.512  OQ_estimated: 0.676     SQ_true: 1.45   SQ_estimated:  1.2
+1332-phrase.npy: CQ_true: 0.595  CQ_estimated: 0.341     OQ_true: 0.405  OQ_estimated: 0.659     SQ_true: 1.16   SQ_estimated: 1.25
+1341-phrase.npy: CQ_true: 0.526  CQ_estimated: 0.345     OQ_true: 0.474  OQ_estimated: 0.655     SQ_true: 1.36   SQ_estimated: 1.17
+1383-phrase.npy: CQ_true: 0.518  CQ_estimated: 0.351     OQ_true: 0.482  OQ_estimated: 0.649     SQ_true: 1.27   SQ_estimated: 1.68
+1403-phrase.npy: CQ_true: 0.448  CQ_estimated: 0.357     OQ_true: 0.552  OQ_estimated: 0.643     SQ_true: 1.78   SQ_estimated:  1.2
+1391-phrase.npy: CQ_true: 0.445  CQ_estimated: 0.332     OQ_true: 0.555  OQ_estimated: 0.668     SQ_true: 1.73   SQ_estimated: 1.35
+1416-phrase.npy: CQ_true: 0.512  CQ_estimated: 0.401     OQ_true: 0.488  OQ_estimated: 0.599     SQ_true: 1.93   SQ_estimated: 1.61
+1428-phrase.npy: CQ_true: 0.313  CQ_estimated: 0.357     OQ_true: 0.687  OQ_estimated: 0.643     SQ_true: 1.05   SQ_estimated: 1.23
+1451-phrase.npy: CQ_true: 0.43   CQ_estimated: 0.368     OQ_true: 0.57   OQ_estimated: 0.632     SQ_true: 1.33   SQ_estimated: 1.37
+1458-phrase.npy: CQ_true: 0.469  CQ_estimated: 0.38      OQ_true: 0.531  OQ_estimated: 0.62      SQ_true:  1.7   SQ_estimated: 1.39
+1545-phrase.npy: CQ_true: 0.398  CQ_estimated: 0.344     OQ_true: 0.602  OQ_estimated: 0.656     SQ_true: 1.16   SQ_estimated: 1.28
+1465-phrase.npy: CQ_true: 0.426  CQ_estimated: 0.375     OQ_true: 0.574  OQ_estimated: 0.625     SQ_true:  1.4   SQ_estimated: 1.48
+1714-phrase.npy: CQ_true: 0.522  CQ_estimated: 0.402     OQ_true: 0.478  OQ_estimated: 0.598     SQ_true: 2.46   SQ_estimated: 1.92
+2343-phrase.npy: CQ_true: 0.563  CQ_estimated: 0.381     OQ_true: 0.437  OQ_estimated: 0.619     SQ_true: 1.99   SQ_estimated: 1.57
+2467-phrase.npy: CQ_true: 0.455  CQ_estimated: 0.416     OQ_true: 0.545  OQ_estimated: 0.584     SQ_true:  2.4   SQ_estimated: 2.45
+
+CQ_true:0.4534 CQ_estimated:0.3647 OQ_true:0.5466 OQ_estimated:0.6353 SQ_true:1.619 SQ_estimated:1.502
